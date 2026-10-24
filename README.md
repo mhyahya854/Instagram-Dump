@@ -12,6 +12,7 @@ Personal, evolving design, UX, vibe-coded app and production engineering notes. 
 | [02 — Vibe-Coded App Quality](02-VIBE-CODED-APP-QUALITY.md) | Authenticity, functioning demos, product completeness and launch readiness |
 | [03 — Production & System Architecture](03-PRODUCTION-SYSTEM-ARCHITECTURE.md) | Deployment, security, databases, distributed systems, performance, reliability and tests |
 | [04 — Design Style Library](04-DESIGN-STYLE-LIBRARY.md) | Visual aesthetic vocabulary, **not** mandatory styling |
+| [05 — Things to Find](05-THINGS-TO-FIND.md) | Research backlog for GitHub repositories, AI agent skills, and pre-install security scanning |
 | [Transcription Notes](TRANSCRIPTION-NOTES.md) | Unclear phrases and tentative corrections retained transparently |
 
 ## Decision labels
