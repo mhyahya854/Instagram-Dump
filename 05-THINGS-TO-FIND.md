@@ -31,8 +31,8 @@
 | Ponytail | **Ponytail** by DietrichGebert, AI coding agent skill/rules for minimal changes, review and testing without dropping safeguards | **Confirmed GitHub repository** | https://github.com/DietrichGebert/ponytail |
 | Dropit skills | **dropit** Obsidian plugin by smart-kits found; transfers notes/media across devices and can optionally send incoming items to a local AI agent. **Not proven to be the spoken “Dropit skills”**. | **Related-name candidate only; exact skill repo unresolved** | https://github.com/smart-kits/dropit-obsidian |
 | Carpety skills | **Andrej Karpathy Skills**: third-party rules for think-before-coding, simplicity, surgical changes and verification. Multiple implementations exist; NOT an official Karpathy release. | **Strong phonetic match; specific source unconfirmed** | https://github.com/multica-ai/andrej-karpathy-skills ; https://github.com/duolahypercho/andrej-karpathy-skills |
-| Math | Math/mathematics skills is a broad category with no uniquely established repository from the phrase alone | **Category only; unresolved exact project** | — |
-| Popo | No reliable matching coding-agent skill or canonical GitHub repository established from this name. | **Unresolved: do not substitute similar-sounding projects** | — |
+| Math | Likely first half of **Matt Pocock**. The transcript separated a name as “Math, Popo”. | **Strong combined phonetic match, unconfirmed** | https://github.com/mattpocock/skills |
+| Popo | Likely second half of **Matt Pocock**, whose engineering skills cover debugging, testing, reviewing and specifications. | **Strong combined phonetic match, unconfirmed** | https://github.com/mattpocock/skills |
 | Tick skills | **Ticks** (`pengelbrecht/ticks`), Git-tracked issue/epic tracker with a bundled `skills/ticks/SKILL.md`; possible alternative `tick-md` is a different project. | **Verified repo and skill; spoken match probable, not proven** | https://github.com/pengelbrecht/ticks ; https://github.com/Purple-Horizons/tick-md |
 | Superpowers | `obra/superpowers` software-development skill collection | Verified candidate | https://github.com/obra/superpowers |
 | More GitHub repos | Ongoing discovery backlog | Open-ended | — |
@@ -75,7 +75,7 @@ For each lead, record:
 
 - **SkillSpector** (not "Skill Specter") is confirmed from NVIDIA's own GitHub repository.
 - **OpenMAIC**, **Anti-UI-Slop**, and **Vercel** are suggested corrections of speech-to-text wording. Record original phrases for traceability.
-- **Ponytail** is confirmed as `DietrichGebert/ponytail`. **Carpety → Karpathy Skills** and **Tick → Ticks** are strong/probable phonetic matches. **KFM**, **Dropit skills**, **Popo**, **MPEG-VLD skills**, and **EMFIM** still need an exact original source for identification. Do not upgrade a candidate into a confirmed match solely because the repository exists.
+- **Ponytail** is confirmed as `DietrichGebert/ponytail`. **Carpety → Karpathy Skills** and **Tick → Ticks** are strong/probable phonetic matches. **KFM**, **Dropit skills**, **MPEG-VLD skills**, and **EMFIM** still need an exact original source for identification. Do not upgrade a candidate into a confirmed match solely because the repository exists.
 - A working public GitHub URL verifies a project exists, **not** that its code or skill is trustworthy.
 
 ## 6. Follow-up research — 2026-10-24
@@ -88,6 +88,7 @@ For each lead, record:
 | --- | --- | --- |
 | **Ponytail** | Maintainer `DietrichGebert`; `skills/ponytail/SKILL.md` plus `AGENTS.md`; adapters for Claude Code and Codex. | Useful for reducing needless implementation while retaining tests/security. Its performance statistics are project-authored claims, not independent validation. |
 | **Karpathy Skills** | `multica-ai/andrej-karpathy-skills` packages coding-agent rules; `duolahypercho/andrej-karpathy-skills` adapts them for Codex. | Third-party distillations of Karpathy's ideas; not skills officially published by Andrej Karpathy. |
+| **Matt Pocock Skills** | `mattpocock/skills` is an engineering-agent skills collection with spec writing, task decomposition, bug diagnosis, TDD and code review. | Strong transcription candidate for combined “Math, Popo”, not user-confirmed. |
 | **Ticks** | `pengelbrecht/ticks` is an issue tracker; provides `skills/ticks/SKILL.md` and a Git-tracked task workflow. | Fits persistent planning between agent sessions; do not confuse with `Purple-Horizons/tick-md`. |
 | **UI/UX Pro Max** | Repo includes searchable UI/UX guidance, multiple stacks and design systems, supporting Claude Code/Codex. | Candidate for the UI/UX phrase; must not override this repository's anti-cliché rules by default. |
 | **Design Engineering** | `ryktara/design-engineering-skill` inspects actual apps, emits context-sensitive design guidance, and includes verification aids and documented limitations. | Candidate; repo author says personal-production-ready, *not* a stable release. |
@@ -101,16 +102,17 @@ For each lead, record:
 
 ### Still lacking reliable identification
 
-- **Popo**, **MPEG-VLD skills**, **EMFIM**: no defensible match in AI-agent skills despite direct and variant searches.
+- **“Math, Popo”** may be one name, **Matt Pocock Skills** (`mattpocock/skills`); the original video/source is needed to confirm. **MPEG-VLD skills** and **EMFIM** remain unresolved.
 - **KFM**: multiple unrelated uses of the acronym; the specific original project is unknown.
 - **Dropit skills**: a related-name Obsidian tool exists; there is no evidence it is the intended skill collection.
-- **Python**, **Math**: categories rather than unique repo names unless an original source narrows them.
+- **Python** remains a category rather than a unique repository. **“Math, Popo”** is now tentatively mapped as one creator name rather than two distinct skills.
 - **Gods Eye View**, **Anti UI scope** and **Voice Studio**: plausible public GitHub candidates already recorded; exact identity still depends on matching the original source/video.
 
 ### Research links (original projects)
 
 - Ponytail: https://github.com/DietrichGebert/ponytail
 - Karpathy Skills: https://github.com/multica-ai/andrej-karpathy-skills
+- Matt Pocock Skills: https://github.com/mattpocock/skills
 - Ticks: https://github.com/pengelbrecht/ticks
 - UI/UX Pro Max: https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
 - Dropit Obsidian: https://github.com/smart-kits/dropit-obsidian
