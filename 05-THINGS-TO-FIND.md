@@ -25,15 +25,15 @@
 | Original phrase | Possible identification | Confidence/status | Reference |
 | --- | --- | --- | --- |
 | Agent Skills | Anthropic's public skills collection and the Agent Skills specification | Verified examples; verify intended choice | https://github.com/anthropics/skills ; https://github.com/agentskills/agentskills |
-| KFM | **Unresolved** | Exact target unknown | — |
-| Python | Python-oriented agent skills (category, not a named product) | Search category | — |
-| UI UX programs | UI/UX design agent skills (category). Possible candidate: UI UX Pro Max | Possible example, not asserted match | https://github.com/nextlevelbuilder/ui-ux-pro-max-skill |
-| Ponytail | **Unresolved transcription/name** | Exact target unknown | — |
-| Dropit skills | **Unresolved transcription/name** | Exact target unknown | — |
-| Carpety skills | **Unresolved transcription/name** | Exact target unknown | — |
-| Math | Mathematics agent skills (category, not a named repository) | Search category | — |
-| Popo | **Unresolved transcription/name** | Exact target unknown | — |
-| Tick skills | **Unresolved transcription/name** | Exact target unknown | — |
+| KFM | Multiple unrelated repositories use KFM. Example: `kongfoo-ai/KFM` is a large-language-model research repository with biomedical agent skills, **not confirmed as the user's intended one**. | **Ambiguous; candidate exists** | https://github.com/kongfoo-ai/KFM |
+| Python | Python-oriented agent skills (category, not a unique named repository) | **Category only; no canonical match** | https://github.com/anthropics/skills |
+| UI UX programs | **UI/UX Pro Max**: searchable design styles, palettes, typography, accessibility guidelines and stack-specific UI advice | **Repository verified; phrase match tentative** | https://github.com/nextlevelbuilder/ui-ux-pro-max-skill |
+| Ponytail | **Ponytail** by DietrichGebert, AI coding agent skill/rules for minimal changes, review and testing without dropping safeguards | **Confirmed GitHub repository** | https://github.com/DietrichGebert/ponytail |
+| Dropit skills | **dropit** Obsidian plugin by smart-kits found; transfers notes/media across devices and can optionally send incoming items to a local AI agent. **Not proven to be the spoken “Dropit skills”**. | **Related-name candidate only; exact skill repo unresolved** | https://github.com/smart-kits/dropit-obsidian |
+| Carpety skills | **Andrej Karpathy Skills**: third-party rules for think-before-coding, simplicity, surgical changes and verification. Multiple implementations exist; NOT an official Karpathy release. | **Strong phonetic match; specific source unconfirmed** | https://github.com/multica-ai/andrej-karpathy-skills ; https://github.com/duolahypercho/andrej-karpathy-skills |
+| Math | Math/mathematics skills is a broad category with no uniquely established repository from the phrase alone | **Category only; unresolved exact project** | — |
+| Popo | No reliable matching coding-agent skill or canonical GitHub repository established from this name. | **Unresolved: do not substitute similar-sounding projects** | — |
+| Tick skills | **Ticks** (`pengelbrecht/ticks`), Git-tracked issue/epic tracker with a bundled `skills/ticks/SKILL.md`; possible alternative `tick-md` is a different project. | **Verified repo and skill; spoken match probable, not proven** | https://github.com/pengelbrecht/ticks ; https://github.com/Purple-Horizons/tick-md |
 | Superpowers | `obra/superpowers` software-development skill collection | Verified candidate | https://github.com/obra/superpowers |
 | More GitHub repos | Ongoing discovery backlog | Open-ended | — |
 
@@ -54,11 +54,11 @@
 | Original phrase | Candidate identification | Status | Link |
 | --- | --- | --- | --- |
 | Anti UI scope | **Anti-UI-Slop** | Likely transcription correction; multiple projects exist | https://github.com/tuanphung2005/anti-ui-slop ; https://github.com/uizze/uizze/tree/main/plugins/claude-directory/skills/anti-ui-slop |
-| MPEG-VLD skills | **Unresolved** | Do not guess the expansion | — |
-| EMFIM | **Unresolved** | Do not guess the expansion | — |
-| Design Engineering | One or more design-engineering skill projects | Ambiguous name; compare candidates | https://github.com/ryktara/design-engineering-skill ; https://github.com/AgentsORG/design-engineering |
-| Version Web guidelines | Likely **Vercel Web Interface Guidelines** | Probable transcription correction | https://github.com/vercel-labs/web-interface-guidelines |
-| Version Web design guidelines | Likely **Vercel Web Design Guidelines** skill | Probable transcription correction; related to previous row | https://github.com/vercel-labs/agent-skills |
+| MPEG-VLD skills | Search did not find a credible AI-agent skill/repository under this exact phrase; technical results about MPEG video decoding are unrelated. | **Unresolved** | — |
+| EMFIM | Search did not establish an AI-agent skill or GitHub project of this name. | **Unresolved** | — |
+| Design Engineering | `ryktara/design-engineering-skill`: context-first UI/UX guidance across web, mobile, desktop, TV and kiosk; inspects existing code and verifies through rendering. Other similarly named projects exist. | **Verified candidate, intended source ambiguous** | https://github.com/ryktara/design-engineering-skill ; https://github.com/AgentsORG/design-engineering |
+| Version Web guidelines | **Vercel Web Interface Guidelines**: living accessibility, interaction, animation, responsive, form and performance guidelines. | **Confirmed repo; likely transcription correction** | https://github.com/vercel-labs/web-interface-guidelines |
+| Version Web design guidelines | **Vercel web-design-guidelines**: agent skill that fetches current Web Interface Guidelines and audits UI files. Related to the preceding repository, not a wholly independent design framework. | **Confirmed skill; likely transcription correction** | https://github.com/vercel-labs/agent-skills/blob/main/skills/web-design-guidelines/SKILL.md |
 
 ## 5. Research workflow (not automatic installation)
 
@@ -75,5 +75,47 @@ For each lead, record:
 
 - **SkillSpector** (not "Skill Specter") is confirmed from NVIDIA's own GitHub repository.
 - **OpenMAIC**, **Anti-UI-Slop**, and **Vercel** are suggested corrections of speech-to-text wording. Record original phrases for traceability.
-- **KFM, Ponytail, Dropit, Carpety, Popo, Tick, MPEG-VLD, EMFIM** need an exact source, video screenshot or link before mapping.
+- **Ponytail** is confirmed as `DietrichGebert/ponytail`. **Carpety → Karpathy Skills** and **Tick → Ticks** are strong/probable phonetic matches. **KFM**, **Dropit skills**, **Popo**, **MPEG-VLD skills**, and **EMFIM** still need an exact original source for identification. Do not upgrade a candidate into a confirmed match solely because the repository exists.
 - A working public GitHub URL verifies a project exists, **not** that its code or skill is trustworthy.
+
+## 6. Follow-up research — 2026-10-24
+
+**No installation or execution performed.** Research-status terms: *repo confirmed* means a public project was found; *spoken match probable* is not identification proof; *unresolved* means do not fabricate a URL.
+
+### Repo facts and compatibility
+
+| Lead | Verified observation | Fit / limitation |
+| --- | --- | --- |
+| **Ponytail** | Maintainer `DietrichGebert`; `skills/ponytail/SKILL.md` plus `AGENTS.md`; adapters for Claude Code and Codex. | Useful for reducing needless implementation while retaining tests/security. Its performance statistics are project-authored claims, not independent validation. |
+| **Karpathy Skills** | `multica-ai/andrej-karpathy-skills` packages coding-agent rules; `duolahypercho/andrej-karpathy-skills` adapts them for Codex. | Third-party distillations of Karpathy's ideas; not skills officially published by Andrej Karpathy. |
+| **Ticks** | `pengelbrecht/ticks` is an issue tracker; provides `skills/ticks/SKILL.md` and a Git-tracked task workflow. | Fits persistent planning between agent sessions; do not confuse with `Purple-Horizons/tick-md`. |
+| **UI/UX Pro Max** | Repo includes searchable UI/UX guidance, multiple stacks and design systems, supporting Claude Code/Codex. | Candidate for the UI/UX phrase; must not override this repository's anti-cliché rules by default. |
+| **Design Engineering** | `ryktara/design-engineering-skill` inspects actual apps, emits context-sensitive design guidance, and includes verification aids and documented limitations. | Candidate; repo author says personal-production-ready, *not* a stable release. |
+| **Vercel Guidelines** | `vercel-labs/web-interface-guidelines` has the guideline source; `vercel-labs/agent-skills` provides a corresponding `web-design-guidelines` audit skill. | Separate source and consuming skill; network fetch of current guidance should be considered a trust boundary. |
+| **Dropit** | `smart-kits/dropit-obsidian` is an Obsidian sync/inbox plugin with optional AI-agent processing, **not verified as an agent-skill pack**. | May involve untrusted incoming text and tool permissions; avoid unattended or unrestricted execution. |
+| **KFM** | `kongfoo-ai/KFM` is a candidate sharing the acronym; repository includes a biomedical-research agent skill. | No evidence that this is the intended KFM; the acronym is too broad. |
+| **Voice Studio** | `voicestudiohq/voicestudio` includes skills, MCP server and CLI for local AI voice production. | Requires macOS 12+ on Apple Silicon and the Voice Studio app; **not directly Windows-compatible** as documented. |
+| **Paperclip** | `paperclipai/paperclip` manages agent teams, tasks and workflows. | Evaluate agent permissions, operational cost and telemetry before deployment. |
+| **Magnitude** | `magnitudedev/browser-agent` is a vision-first browser agent. | Browser automation may require session/credential and action-approval boundaries. |
+| **Vibe Trading** | `HKUDS/Vibe-Trading` is a trading-agent application. | Educational/research review only; do not connect brokerage funds or authorize trading from this list. |
+
+### Still lacking reliable identification
+
+- **Popo**, **MPEG-VLD skills**, **EMFIM**: no defensible match in AI-agent skills despite direct and variant searches.
+- **KFM**: multiple unrelated uses of the acronym; the specific original project is unknown.
+- **Dropit skills**: a related-name Obsidian tool exists; there is no evidence it is the intended skill collection.
+- **Python**, **Math**: categories rather than unique repo names unless an original source narrows them.
+- **Gods Eye View**, **Anti UI scope** and **Voice Studio**: plausible public GitHub candidates already recorded; exact identity still depends on matching the original source/video.
+
+### Research links (original projects)
+
+- Ponytail: https://github.com/DietrichGebert/ponytail
+- Karpathy Skills: https://github.com/multica-ai/andrej-karpathy-skills
+- Ticks: https://github.com/pengelbrecht/ticks
+- UI/UX Pro Max: https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
+- Dropit Obsidian: https://github.com/smart-kits/dropit-obsidian
+- Vercel guidelines: https://github.com/vercel-labs/web-interface-guidelines
+- Vercel skill: https://github.com/vercel-labs/agent-skills/blob/main/skills/web-design-guidelines/SKILL.md
+- Design Engineering: https://github.com/ryktara/design-engineering-skill
+
+**Research is not a security clearance.** Scanner runs, code audits, dependency inspection and execution tests remain TODO for every candidate.
