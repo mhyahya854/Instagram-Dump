@@ -144,3 +144,11 @@ See [transcription notes](TRANSCRIPTION-NOTES.md) for unresolved words.
 - [19 — Design Skills and Hooks](19-AGENT-SKILLS-HOOKS-AND-CODE-ANIMATION.md): persistent design-system instructions and visual browser testing.
 
 These are **consider/refer-to** notes, not requirements to add glow, glass, radial orbs or animations.
+
+## Third reel batch: UX psychology and research (2026-10-25)
+
+- [29 — UX Psychology, Laws of UX Book & Ethics](29-UX-PSYCHOLOGY-LAWS-OF-UX-BOOK-AND-ETHICS.md): original 10-chapter law study summaries, moral responsibility, labor illusion, mental models, active-user paradox, ethical defaults, banner blindness and consent obstructions.
+- [17 — Design Sites](17-DESIGN-WEBSITES-AND-COMPONENT-LIBRARIES.md): additional Mobbin, SaaSpo and Page Flows sources.
+- [28 — Checklist Design](28-AUTOMATION-TEMPLATES-AGENT-REVIEWS-AND-SAFETY.md): page inventory and functional completeness tests.
+
+Preserve no-fake-progress, no forced dark-pattern consent and no compulsory loading skeletons. Attractive design never proves usable behavior.
