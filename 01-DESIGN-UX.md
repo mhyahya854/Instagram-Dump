@@ -163,3 +163,7 @@ Keep hierarchy, interaction, motion and aesthetics as contextual decisions, not 
 ## Fifth reel batch: error prevention and informed interfaces
 
 [38 — UX Error Prevention](38-UX-ERROR-PREVENTION-AND-DECISION-SAFETY.md) adds safe constraints, nonmanipulative defaults, timely form validation, consequence-labeled confirmations and genuine recovery. An AI prompt saying “no mistakes” cannot replace task testing. See [37 — Prelaunch QA](37-WEBSITE-PRELAUNCH-RELEASE-CHECKLIST.md) for real mobile/browser checks.
+
+## Sixth source batch: visual ideas, standards and AI-friendly navigation
+
+[48 — Motion/Design/SEO](48-AI-DESIGN-VIDEO-SEO-MARKETING-REFERENCES.md) includes Prompt Motion, new style-reference vocabulary, anti-generic UI notes and meaningful design specifications. [45 — Agent-Navigable Apps](45-AGENT-NAVIGABLE-APP-ARCHITECTURE.md) explains why semantic HTML, accessible names, state feedback and keyboard navigation benefit people and AI agents. These are **reference considerations**, not permissions for unrelated motion, branded clones or automatic new features.
