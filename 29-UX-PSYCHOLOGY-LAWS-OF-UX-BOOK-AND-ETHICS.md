@@ -78,3 +78,7 @@ Design principle: protect user autonomy, use clear actions, easy opt-out, plain 
 - Web principle index: https://lawsofux.com/
 - Nielsen Norman Group heuristics: https://www.nngroup.com/articles/ten-usability-heuristics/
 - Related own references: [07](07-45-UX-LAWS-ENGLISH.md), [18](18-LEARNING-UI-CRITIQUE-VISUAL-TAXONOMY.md), [22](22-UX-MOTION-TYPOGRAPHY-TOUCH-AND-TRUST.md).
+
+## Fifth reel batch: preventing avoidable mistakes
+
+[38 — UX Error Prevention](38-UX-ERROR-PREVENTION-AND-DECISION-SAFETY.md) turns NN/g's Error Prevention heuristic into testable constraints, ethical defaults, feedback and recovery. Avoid prechecking marketing consent or recurring subscriptions; don't confuse a front-end disabled button with server-authoritative business validation.
