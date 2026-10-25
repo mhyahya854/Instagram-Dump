@@ -39,3 +39,7 @@ Self-hosted scheduling/project management requires calendar OAuth credentials, H
 ## Status
 
 Recorded as **discovery**, not approved for installation or migration. The known named projects and confidence labels are preserved; no accounts, calendar connections or speech models were installed or accessed.
+
+## Sixth batch — additional local projects
+
+[49 — CarLink, Whistle and OSS](49-CARLINK-SMALL-SPEECH-MODELS-AND-LOCAL-OSS.md) includes CarLink/DiPlay, Cactus Whistle speech-to-text, Handy offline dictation, Nuclear music player, AnythingLLM, Cap and OpenCut. Distinguish source-code license, bundled models, app permissions and real hardware compatibility.
