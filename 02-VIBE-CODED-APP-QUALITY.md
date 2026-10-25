@@ -68,3 +68,7 @@ See [11 — Data Pipeline Quality](11-DATA-PIPELINE-QUALITY.md): a successful ba
 ## Third reel batch: product completion, automation and media
 
 [28 — Workflow Templates and Page Completeness](28-AUTOMATION-TEMPLATES-AGENT-REVIEWS-AND-SAFETY.md) describes n8n templates, why third-party JSON needs review, missing 404/blog/other scoped pages and actual checks before marking delivery “complete.” [25 — Programmatic Media](25-STICKMAN-PROGRAMMATIC-VIDEO-WORKFLOWS.md) covers honest production proof rather than one-prompt promises. [26 — Local/OSS Alternatives](26-OPEN-SOURCE-ALTERNATIVES-AND-LOCAL-TOOLS.md) distinguishes open application code from commercial model or hosted costs.
+
+## Fourth reel batch: UX/CX end-to-end quality
+
+[33 — UI, UX & CX](33-UI-UX-CX-SCOPE-AND-QUALITY-FRAMEWORK.md) connects working product tasks to marketing promises, purchasing/support, and service reliability. Check meaningful user success across interfaces and customer touchpoints, not only “looks good.”
