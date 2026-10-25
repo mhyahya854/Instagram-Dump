@@ -61,3 +61,8 @@ Take one screenshot and record: (1) the primary user task; (2) three specific de
 - [07 — UX principles](07-45-UX-LAWS-ENGLISH.md): hierarchy, Gestalt grouping, Fitts, aesthetics/usability.
 - [13 — Design interactions/icons](13-DESIGN-INTERACTIONS-ICON-STYLES.md): pointer-intent submenu, modal copy, icon taxonomy.
 - [04 — Style vocabulary](04-DESIGN-STYLE-LIBRARY.md): aesthetic families, separate from operations.
+
+
+## Website mentioned without an identifiable review
+
+- **DesignOpsChat.com** — user supplied the name in the reel; the exact intended site, its owner and scope **remain unverified**. Preserve as a research lead, not proof that the site offers this taxonomy or a working design tool.
