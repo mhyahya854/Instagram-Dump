@@ -176,3 +176,7 @@ No new entries have been automatically approved, security-cleared or installed.
 - [30 — Agent Harness](30-AGENT-HARNESS-REPOS-GITHUB-PRESENTATION.md): tool poisoning, background runs, memory compaction, structured evaluation and GitHub presentation.
 
 **Do not increase the previously verified 68-item catalog count without a separate complete inventory audit.**
+
+## Fourth batch: research-only additions outside the original 68 inventory
+
+[32 — Build Your Own X](32-BUILD-YOUR-OWN-X-FIRST-PRINCIPLES-LEARNING.md) is an education directory; [35 — REA, openGym and Interview Panel](35-OPENGYM-MOCK-INTERVIEW-REVERSE-ENGINEERING-RESEARCH.md) catalogs `morluto/rea` as an agent-assisted authorized application-analysis tool, and the other projects as separate application concepts. No star count guarantees safety. Do not silently count these as previously verified or preapproved tools.
