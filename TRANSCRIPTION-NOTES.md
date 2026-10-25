@@ -69,3 +69,13 @@ English-translated clips and the *curated* 45-principle learning reference are i
 See [24 — Second Source Register](24-INSTAGRAM-REELS-OCT25-BATCH-REGISTER.md) and files 17–23. **Open identifications:** Upshot Gallery, Files, Chio, Vipro, Kitbits (possibly Kibo UI), Liquid Class (possibly Liquid Glass), Uverse vs UIverse (possible duplicate), DesignOpsChat.com, “Jane”, “UX Beat”, “Pen Game” YouTube channels, “RAL flow”, “Linking Orbs”, unnamed code-drawn animation skill, and “UI UX Comma Design” (possibly UI/UX Pro Max). These are not automatically asserted matches. “Get Shit Done”, Apple Design, CodeRabbit, SlopMonster, and Aceternity UI have independent candidates or verified identities.
 
 The reel presents 5 consumer-app principles but the supplied segment only contains **two complete** ideas and part of a third; do not invent the missing two. The 24px-based text sizing is for social graphics, not a universal web standard. The SQL injection prevention reel incorrectly makes punctuation removal central; parameterized queries are the principal control. OSI-layer labels are conceptual, not strict deployment boundaries. The suggested airport waiting history is unverified. Protect sources from future silent certainty upgrades.
+
+## Third Reel Batch — 2026-10-25
+
+See [31 — Third Source Register](31-INSTAGRAM-REELS-THIRD-BATCH-REGISTER.md), which tracks 48 transcript fragments/topics and links to topic files 25–30.
+
+**Likely speech corrections:** “OpenHixfield” → OpenHiggsfield; “AppSway” → AppFlowy; “Whisper flow” → Wispr Flow; “NA10” → n8n; “Concat” (do not confuse with unrelated forks); “ANSvisor” → Ansvisor; “Gwen three” may mean Qwen3 but source context incomplete.
+
+**Still unresolved:** OSEO, Snap (as Loom alternative), Voice Studio *which of several names* (debpalash cross-platform model most likely), OMNK/“or A”, 37 Studio, Kuku, Bots Commander, Mochi, print 3D plugin, Kimi 3D Make, Vault E4B, Thanos design library, Herald OS exact account, Quer Spaces exact product, Mailcheap/Fluid Voice/One Glance intended projects, premium 27K prompt, “500 motion prompts” exact repository, “Real Stickman Stories” complete promised guide, original 2K/280 n8n collections, GitHub README Warp/Space Shooter/Chess Replay/Contribution City exact assets.
+
+**Technical caveats to preserve:** ARTEMIS 99%+ is a reported benchmark-specific measure; Cal.com and Cal.diy split; app and model licensing differ for VoiceStudio; Strix requires authorized scope; dark-pattern opt-out tricks must not be recommended; facial search cannot establish someone's identity; no complete O'Reilly book reproduction from a publisher preview; a private original “comment for guide” cannot be reconstructed as that creator's exact instructions.
