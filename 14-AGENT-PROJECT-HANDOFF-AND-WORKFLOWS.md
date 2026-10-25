@@ -71,3 +71,7 @@ Open unknowns (do not guess silently):
 ## Rules for future offline synthesis
 
 Keep the project-specific handoff file alongside the source rulebook. When consolidating into a giant knowledge document, separate *standing rules*, *project-specific decisions*, *workflow templates*, *reference examples*, and *uncertain source transcripts*. Offline completeness depends on clear definitions and examples, not repo names alone.
+
+## Agent lifecycle and context addendum
+
+[30 — Agent Harness Engineering](30-AGENT-HARNESS-REPOS-GITHUB-PRESENTATION.md) expands persistent project context, tool permissions, subagents, memory consolidation, checkpointing, test-time compute, tool poisoning, scoped hooks and reliable evaluation. Skills guide the agent; only observable test and tool outputs show what actually worked.
