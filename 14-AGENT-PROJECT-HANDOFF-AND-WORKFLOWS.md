@@ -79,3 +79,7 @@ Keep the project-specific handoff file alongside the source rulebook. When conso
 ## Fourth batch: creative and product handoffs
 
 [33 — UI/UX/CX](33-UI-UX-CX-SCOPE-AND-QUALITY-FRAMEWORK.md) supplies a product journey quality framework; [34 — Editing Taste and Storytelling](34-VIDEO-EDITING-TASTE-STORYTELLING-AND-SUNEHRA-KIT.md) illustrates specifying *creative purpose* rather than asking the agent to mimic a reference. For lawful interoperability or investigating one's own apps, see [35 — REA Research](35-OPENGYM-MOCK-INTERVIEW-REVERSE-ENGINEERING-RESEARCH.md).
+
+## Sixth batch — verifiable skill-based work
+
+[44 — Unlazy/Replica and Agent Skills](44-REPLICA-UNLAZY-AGENT-SKILLS-AND-TOOL-WISHLIST.md) defines a **completion contract** with traceable evidence rather than trusting a “done” response. [51 — Universal-Rules Proposals](51-UNIVERSAL-RULES-RESEARCH-PROPOSALS.md) proposes keeping detailed project workflows in on-demand skills while minimal permanent rules preserve authorization and privacy. **Not yet ratified in Universal-Rules.**
