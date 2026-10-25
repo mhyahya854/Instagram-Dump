@@ -77,3 +77,8 @@ The destination and source counts must be compared using the **same business win
 ## Why the reel matters for AI-coded systems
 
 AI can generate plausible ETL code that runs and produces a table while silently dropping data. Correctness must be defined as **data properties** and validated before downstream publication. Retry policies, metrics, API schemas and database indexes alone cannot replace a business-data quality gate.
+
+
+## Replaying/backfilling historical data
+
+A pipeline can also be “green” while doubling revenue by **appending** a complete month's reprocessed data instead of replacing/reconciling it. See **[23 — Data Backfills, Replay & Idempotency](23-DATA-BACKFILLS-REPLAY-AND-IDEMPOTENCY.md)** for stable keys, safe UPSERT/overwrite, validation and immutable-ledger exceptions.
