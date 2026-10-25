@@ -44,3 +44,10 @@ Agent Reach **orchestrates multiple platform-specific tools** rather than giving
 - Open Design candidate: https://github.com/nexu-io/open-design
 - Hermes Studio candidate: https://github.com/JPeetz/Hermes-Studio
 - **Claims not audited:** “instantly 10x,” exact feature counts, performance guarantees or self-reported safety.
+
+## Third reel additions to the Hermes ecosystem
+
+- **Hermes Gadget:** https://github.com/Adolanium/hermes-gadget-sdk — small ESP32-screen/microphone/speaker interface, with community gateway plugin and controlled pairing; requires Hermes Agent/STT/TTS setup and device firmware.
+- **“Quer Spaces”/Hermes computer:** plausible source https://github.com/trycua/hermes-cua-spaces ; name/capabilities not fully confirmed as the reel's exact plugin. Computer use has broad access to files, apps and signed-in sessions, so define human approval and audit boundaries.
+
+See [27 — AI Devices](27-EMERGING-AI-AGENTS-DEVICES-AND-MEDIA-TOOLS.md).
