@@ -158,3 +158,7 @@ For each lead, record:
 ## VoiceStudio source identity correction — third reel batch
 
 The earlier `voicestudiohq/voicestudio` is **not the same product** as the local cross-platform **`debpalash/VoiceStudio`** (https://github.com/debpalash/VoiceStudio), which the later reels specifically describe as Windows/macOS/Linux local voice clone/design/dubbing. Record both source identities separately. Do **not** treat the earlier macOS-only compatibility note as applying to `debpalash/VoiceStudio`. Review the license for the app **and** model weights separately. Details in [26 — Alternatives](26-OPEN-SOURCE-ALTERNATIVES-AND-LOCAL-TOOLS.md).
+
+## Third source batch: newly researched GitHub projects (catalog only)
+
+See [27 — Emerging Agents, Devices & Tools](27-EMERGING-AI-AGENTS-DEVICES-AND-MEDIA-TOOLS.md): **google/artemis**, **usestrix/strix**, **OpenCut-app/OpenCut**, **jub0t/Concat**, **blixvip/html-anime**, **JCodesMore/ai-website-cloner-template**, **SaarthurR/atticus-mac**, **Adolanium/hermes-gadget-sdk** and other uncertain devices. See [26 — Open Source Alternatives](26-OPEN-SOURCE-ALTERNATIVES-AND-LOCAL-TOOLS.md) for AppFlowy, OpenHiggsfield, VoiceStudio, OpenProject, OpenWhisper and Cal.diy. None is automatically approved for installation merely by being researched.
