@@ -47,3 +47,19 @@ Local apps still need compute/storage and sometimes optional downloads, models o
 ## Security research boundary
 
 Do not install unknown agents, grant accessibility/admin permissions, test arbitrary IPs or run malware scans on other people's devices from a viral claim. Every new repo is **research-only** until separately audited and user-authorized.
+
+## Addition — xtool for iOS development (2026-10-25)
+
+**Verified project:** [xtool-org/xtool](https://github.com/xtool-org/xtool) · Official site: https://xtool.sh/
+
+**Category:** Cross-platform iOS development / SwiftPM build and deployment tooling, **not** an agent persona or autonomous UI testing tool.
+
+**What it does:** xtool provides Xcode-like command-line workflows for Swift Package Manager-based iOS applications on Linux, Windows via WSL, and macOS. The documented commands let developers initialize a SwiftPM iOS project, build/run in its supported workflow, authenticate with Apple Developer Services, list compatible connected devices, and sign/install/launch iOS applications. Its **XKit** library also exposes Apple developer/device integration for custom tooling.
+
+**Why it matters for an AI coding workflow:** an agent working on a supported SwiftPM iOS project can potentially use CLI commands in a controlled development environment, rather than assuming every iOS workflow requires direct access to the Xcode graphical interface. This can complement design and test processes, but is **not** equivalent to a complete Xcode replacement or real iOS UI testing.
+
+**Compatibility and trust caveats:** The project is documented for Linux, **Windows/WSL**, and macOS, with platform-specific setup. iOS SDK/toolchain and Apple Developer authentication/signing requirements still apply; Apple account credentials and signing identities are **sensitive**. Confirm project/build compatibility, supported iOS target devices, WSL USB passthrough (if relevant), licensing, dependency security, Apple tooling/legal constraints, and device permissions. Validate on an actual test device; no guarantee of App Store submission or every Xcode feature.
+
+**Status:** GitHub repository and documentation verified, **user-requested catalog addition**, **not installed, security-audited, or approved for privileged execution**.
+
+**Further reading:** https://github.com/xtool-org/xtool/blob/main/README.md ; https://xtool.sh/documentation/xtool/ .
