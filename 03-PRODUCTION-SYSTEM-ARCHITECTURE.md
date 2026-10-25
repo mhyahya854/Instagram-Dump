@@ -166,3 +166,7 @@ These extend earlier checks. No live infrastructure changes were performed.
 - [30 — Agent Harness Engineering](30-AGENT-HARNESS-REPOS-GITHUB-PRESENTATION.md): context management, skills vs tool runtimes, MCP, hooks, compaction, testing, concurrency, tool poisoning and auditability.
 
 These supplement the existing architecture glossary and security controls, not mandate deployments or unapproved penetration tests.
+
+## Fourth reel batch: first-principles engineering and safe investigation
+
+[32 — Build Your Own X](32-BUILD-YOUR-OWN-X-FIRST-PRINCIPLES-LEARNING.md) is an educational tutorial index to understand Git, databases, containers, compilers and network tools **from the inside**, not an endorsement of toy implementations for production. [35 — REA Project Review](35-OPENGYM-MOCK-INTERVIEW-REVERSE-ENGINEERING-RESEARCH.md) describes scoped/authorized reverse-engineering and tool-installation trust boundaries. Production security and licensing remain nonnegotiable.
