@@ -73,3 +73,8 @@ Do not infer the model name, exact effort setting, or a skill's capability merel
 - Distinguish **catalog approved** from **installation approved** and **security audited**.
 
 Existing reference: [08-AGENT-REPOS-AND-SKILL-WISHLIST.md](08-AGENT-REPOS-AND-SKILL-WISHLIST.md), [06-AI-FAILURE-MITIGATION-REPOS-AND-SKILLS.md](06-AI-FAILURE-MITIGATION-REPOS-AND-SKILLS.md).
+
+
+## Voice transcript: “UI UX Comma Design” / 136K-star design skill
+
+Possible meaning is **UI/UX Pro Max**, an existing design-intelligence skill documented in [05-THINGS-TO-FIND.md](05-THINGS-TO-FIND.md) and at https://github.com/nextlevelbuilder/ui-ux-pro-max-skill . **The phonetic wording is uncertain**, and the reel's 136K-star count was not independently established as belonging to the exact skill. Do not merge a name or trust a popularity claim without source confirmation.
