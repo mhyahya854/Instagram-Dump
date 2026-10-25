@@ -75,3 +75,11 @@ Preserve editable `story.json`, `shot_sheet.json`, character-rig specification, 
 ## Provenance
 
 **Verified:** the general engineering pipeline is technically feasible. **Unverified:** source Instagram account identity, the precise “Real Stickman Stories” GitHub repository, direct download of the “stickman” guide, the creator's private prompt, and which free model generated the voices. Do not pretend to have recovered these.
+
+## Addendum — related code-driven editing reels
+
+**“Modern box” effect and 27,000-character code prompt:** the clip contrasts vague instructions with a detailed effect specification and claims 28 other premium effects. The actual 27K prompt is **not supplied**. The transferable lesson is to specify visual layers, sizes, color, camera perspective, timeline/keyframes, transition curves, lighting, video size, constraints and acceptance playback, **not** that long prompts inherently guarantee quality. A 27,000-character prompt can also be redundant or contradictory. Preserve compact canonical shot sheets rather than blindly maximizing character count.
+
+**“500 viral Claude motion-video prompts”**: a credible related curated public lead is https://github.com/coolbat/awesome-opus-5.5-usecase and the separately referenced `awesome-opus5-5-videos` ecosystem. **Neither is proved to be the exact Instagram repo.** Browse/read examples and licensing before adapting; model/version and rendering results can change.
+
+**Creator video 'Waffle' and six daily animations:** truncated anecdote. “Six videos a day,” “one-day editor challenge,” exact source filmmaker and elapsed production time are not independently validated. Don't use as a production benchmark. Use storyboards, full render checks and originality instead.
