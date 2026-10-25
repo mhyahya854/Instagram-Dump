@@ -4,6 +4,12 @@
 >
 > **Source:** User's dictated list, 2026-10-24. Preserve raw names when voice transcription is uncertain. An identified candidate is not automatically the intended project.
 
+## Related researched reels — new, not automatically approved
+
+The [October 25 Agent Repository & Skill Wishlist](08-AGENT-REPOS-AND-SKILL-WISHLIST.md) documents newly found **Agency Agents**, **Agent Reach**, **Hallmark**, **gstack**, **Serena**, **Task Master** and the **Hermes ecosystem**; unresolved names are explicitly marked. The [Hermes ecosystem note](15-HERMES-AGENT-ECOSYSTEM.md) covers GBrain, Skills Hub, Open Design, Agent Reach and multiple similarly named Studio dashboards.
+
+These are **catalog discoveries**, not installation approvals. Preserve the eight previously approved catalog selections in section 0 below.
+
 ## 0. User-approved strongest matches — catalog selection (2026-10-25)
 
 **User-approved for keeping and considering in this repository, not approved for automatic installation or privileged use.** A probable transcription match stays marked probable even if selected.
