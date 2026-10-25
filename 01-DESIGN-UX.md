@@ -9,6 +9,17 @@
 - **Do not confuse** a visual style reference with an automatic choice. The separate [Design Style Library](04-DESIGN-STYLE-LIBRARY.md) lists possibilities only.
 - **Desktop is not the whole website.** Validate mobile layouts and touch/keyboard interactions.
 
+## Expanded 45-law English study reference
+
+See **[07 — 45 UX Laws, Effects & Design Heuristics](07-45-UX-LAWS-ENGLISH.md)** for the full **45-entry** researched index, its Hindi-to-English Instagram clip transcription, per-entry design checks, original-source citations, and uncertainty notes.
+
+- The **30 entries from Laws of UX** plus **15 documented HCI / Gestalt / usability additions** make a curated teaching set, **not** a verified reproduction of the Instagram creator’s complete 45-episode sequence.
+- Additional concepts to **consider when relevant**: Weber's Law, Steering Law, Power Law of Practice, Zeigarnik Effect, Choice Overload, Chunking, Cognitive Load, Cognitive Bias, Flow, Mental Models, Paradox of the Active User, Pareto Principle, Parkinson's Law, Selective Attention, Working Memory, Law of Uniform Connectedness, Law of Closure, Law of Continuity, Figure–Ground Principle, Law of Symmetry and Order, Law of Common Fate, Visibility of System Status, Error Prevention, User Control and Freedom, Consistency and Standards, and Match Between System and Real World.
+- Existing principles **Recognition over Recall** and **Progressive Disclosure** are covered in the expanded reference too; avoid duplicating contradictory definitions.
+- **The Aesthetic–Usability Effect does not mean a beautiful app actually works.** Continue to test functionality, accessibility, responsive behavior and honest product claims.
+- From the source clips, **Day 5 is unresolved**, and **“Weber’s Illusion” was spoken, not conclusively “Weber’s Law.”** Do not silently replace one with the other.
+- These guidelines **never override the avoid-by-default design rules** or authorize manipulative progress cues or unnecessary ornamentation.
+
 ## Established usability and psychology principles
 
 | Principle | How it informs design |
