@@ -75,3 +75,7 @@ Keep the project-specific handoff file alongside the source rulebook. When conso
 ## Agent lifecycle and context addendum
 
 [30 — Agent Harness Engineering](30-AGENT-HARNESS-REPOS-GITHUB-PRESENTATION.md) expands persistent project context, tool permissions, subagents, memory consolidation, checkpointing, test-time compute, tool poisoning, scoped hooks and reliable evaluation. Skills guide the agent; only observable test and tool outputs show what actually worked.
+
+## Fourth batch: creative and product handoffs
+
+[33 — UI/UX/CX](33-UI-UX-CX-SCOPE-AND-QUALITY-FRAMEWORK.md) supplies a product journey quality framework; [34 — Editing Taste and Storytelling](34-VIDEO-EDITING-TASTE-STORYTELLING-AND-SUNEHRA-KIT.md) illustrates specifying *creative purpose* rather than asking the agent to mimic a reference. For lawful interoperability or investigating one's own apps, see [35 — REA Research](35-OPENGYM-MOCK-INTERVIEW-REVERSE-ENGINEERING-RESEARCH.md).
