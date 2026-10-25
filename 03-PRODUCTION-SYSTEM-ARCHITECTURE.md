@@ -178,3 +178,7 @@ These supplement the existing architecture glossary and security controls, not m
 ## Sixth source batch: AI-integrable app architecture and developer learning
 
 [45 — Agent-Navigable App Architecture](45-AGENT-NAVIGABLE-APP-ARCHITECTURE.md) documents permission-scoped AI actions, OpenAPI/MCP boundaries and matching human/server authorization. [46 — Untrusted Documents](46-PROMPT-INJECTION-UNTRUSTED-DOCUMENTS-AND-REEL-INGESTION.md) addresses prompt injection. [50 — Engineering Guides](50-PROGRAMMING-SYSTEM-DESIGN-GUIDES-FREE-LLM-APIS.md) indexes APIs, databases, auth, CI/CD, AWS, Rust, security and legitimate free LLM API resources. [51 — Universal-Rules Candidates](51-UNIVERSAL-RULES-RESEARCH-PROPOSALS.md) contains **unratified** proposals only.
+
+## Sixth source batch — agent-integrable app design and learning
+
+[45 — Agent-Navigable Architecture](45-AGENT-NAVIGABLE-APP-ARCHITECTURE.md) covers stable API actions and secure MCP permissions; [46 — Untrusted Documents](46-PROMPT-INJECTION-UNTRUSTED-DOCUMENTS-AND-REEL-INGESTION.md) covers prompt injection; [50 — Engineering Guides](50-PROGRAMMING-SYSTEM-DESIGN-GUIDES-FREE-LLM-APIS.md) covers databases, APIs, Java/Rust, CI/CD, AWS and free LLM API inventories; [51 — Universal-Rules Proposals](51-UNIVERSAL-RULES-RESEARCH-PROPOSALS.md) contains **unratified** ideas, not a rules change.
