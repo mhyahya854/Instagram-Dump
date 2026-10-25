@@ -184,3 +184,7 @@ No new entries have been automatically approved, security-cleared or installed.
 ## Sixth-reel additions (not included in original 68-item inventory)
 
 [44 — Replica, Unlazy and Skills](44-REPLICA-UNLAZY-AGENT-SKILLS-AND-TOOL-WISHLIST.md) introduces explicit acceptance-ledger evidence and scoped on-demand agent skills. [45 — Agent-Navigable Apps](45-AGENT-NAVIGABLE-APP-ARCHITECTURE.md) adds API/action parity, accessibility and MCP security. [46 — Prompt Injection](46-PROMPT-INJECTION-UNTRUSTED-DOCUMENTS-AND-REEL-INGESTION.md) documents untrusted-document handling. Research entries are **not newly approved or installed**.
+
+## Sixth source batch — new leads outside original 68 verified entries
+
+[44 — Replica/Unlazy](44-REPLICA-UNLAZY-AGENT-SKILLS-AND-TOOL-WISHLIST.md) adds testable task-completion gates; [45 — Agent-Navigable Apps](45-AGENT-NAVIGABLE-APP-ARCHITECTURE.md) adds accessible UI, API and MCP design; [46 — Prompt Injection](46-PROMPT-INJECTION-UNTRUSTED-DOCUMENTS-AND-REEL-INGESTION.md) covers lower-trust documents. New items are **not** counted in the original verified 68 or automatically approved.
