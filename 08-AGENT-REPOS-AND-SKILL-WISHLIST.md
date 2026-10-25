@@ -4,7 +4,7 @@ _Captured 2026-10-25. Research notes, not an installation order._
 
 ## How to read this without an internet connection
 
-A **repository** is a versioned project directory. An **agent persona** is usually an instruction file assigning a domain role and workflow; it is **not** a separately trained model. An **agent skill** is a reusable instruction package (often \`SKILL.md\`) loaded for a particular task. A **plugin** may execute code, call services or intercept agent actions and needs stronger security review. A **design asset** may be licensed intellectual property rather than a reusable open-source component.
+A **repository** is a versioned project directory. An **agent persona** is usually an instruction file assigning a domain role and workflow; it is **not** a separately trained model. An **agent skill** is a reusable instruction package (often `SKILL.md`) loaded for a particular task. A **plugin** may execute code, call services or intercept agent actions and needs stronger security review. A **design asset** may be licensed intellectual property rather than a reusable open-source component.
 
 Tags: **CONFIRMED REPOSITORY** = canonical owner and repo verified, not source-code audited. **LIKELY** = spoken phrase plausible but attribution unverified. **UNRESOLVED** = no defensible identity. **WISHLIST** = user wants to examine/install eventually, not approval to run it now.
 
@@ -54,7 +54,7 @@ Example: a **frontend specialist** could review accessibility, focus, responsive
 ## D. Skill supply-chain safeguards
 
 1. Only shortlist canonical sources; pin reviewed commits and licenses.
-2. Inspect \`SKILL.md\`, every script, helper, install hook and external URL. Treat downloaded instructions as untrusted.
+2. Inspect `SKILL.md`, every script, helper, install hook and external URL. Treat downloaded instructions as untrusted.
 3. Scan with NVIDIA SkillSpector and standard secrets/dependency tools when applicable. No scanner is an all-clear certificate.
 4. Never send production secrets, real customer data, or unscoped session cookies to unreviewed tools; use sandboxed scopes, limited permissions and isolated test accounts.
 5. Approval to **keep in this catalog** does **not** authorize installation, code execution, broad GitHub write access, unattended posting or cloud charges.
