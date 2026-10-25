@@ -4,6 +4,15 @@ _Last curated: 2026-10-25._
 
 > **Discovery reference, not an installation script.** These public repositories were checked for existence through the connected GitHub account. Existence is **not** proof of quality, safety, ongoing maintenance or fitness for a specific project. No new items in this file are user-approved, security-cleared, installed or run. Existing user approvals are recorded separately in [05-THINGS-TO-FIND.md](05-THINGS-TO-FIND.md).
 
+## Additional reel-derived references
+
+- [08 — Agent Repositories & Skill Wishlist](08-AGENT-REPOS-AND-SKILL-WISHLIST.md): Agency Agents, Hallmark, Agent Reach, gstack, Task Master, Serena, specific skill wishlist and provenance.
+- [09 — Sessions & Security](09-IDENTITY-SESSIONS-SECURITY-AND-AI-RISKS.md): JWT revocation, authorization matrices, cost abuse and scanners.
+- [10 — Database Transactions & Migrations](10-DATABASE-TRANSACTIONS-AND-MIGRATIONS.md): ACID, concurrency, idempotency, restore-tested backups, production isolation.
+- [11 — Data Pipeline Quality](11-DATA-PIPELINE-QUALITY.md): row counts, null keys, duplicates and freshness publish-gates.
+- [13 — UI Interactions & Icons](13-DESIGN-INTERACTIONS-ICON-STYLES.md): anti-slop and icon style vocabulary.
+- [14 — Agent Project Handoff](14-AGENT-PROJECT-HANDOFF-AND-WORKFLOWS.md): goals, users, flows, stack, boundaries, acceptance criteria.
+
 ## Scope and selection rules
 
 The goal is to cover the existing three rulebook categories with GitHub tools **and** agent skills that counteract mistakes made by AI-generated apps: (1) design/UX clichés, inaccessible UI and broken mobile/interaction states; (2) fabricated product content and incomplete functionality; (3) production security, backend reliability, testing and deployment. This is a broad curated inventory, **not an exhaustive inventory of GitHub**.
