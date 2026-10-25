@@ -96,3 +96,8 @@ The reel rapidly dictates icon styles and some distorted names. Classify by inde
 - WAI ARIA Authoring Practices (menu/navigation/dialog): https://www.w3.org/WAI/ARIA/apg/
 - Material Symbols: https://fonts.google.com/icons
 - Fitts’s Law and familiar interface conventions: [07-45-UX-LAWS-ENGLISH.md](07-45-UX-LAWS-ENGLISH.md)
+
+
+## Additional UX interaction reference
+
+[22 — UX Motion, Typography, Touch & Trust](22-UX-MOTION-TYPOGRAPHY-TOUCH-AND-TRUST.md) expands the icon taxonomy with touch target sizing, meaningful loading, unverified “Linking Orbs,” social-media type sizing versus web UI and manipulative paywalls. [18 — UI Critique & Visual Taxonomy](18-LEARNING-UI-CRITIQUE-VISUAL-TAXONOMY.md) separates the mechanism of a visual idea from an aesthetic.
