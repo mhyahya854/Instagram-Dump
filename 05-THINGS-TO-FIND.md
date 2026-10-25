@@ -189,3 +189,7 @@ This is a **developer tool rather than an agent skill**. Its platform setup, App
 - **AI embeddings interactive lesson** — original website unknown; related real examples in [39 — Embeddings](39-AI-FUNDAMENTALS-EMBEDDINGS-STUDY.md).
 
 Detailed scope and limits: [40 — Project Research](40-DOORY-MIROFISH-REA-RESEARCH.md). All are *research entries*, not automatic installation or security approval.
+
+## Sixth reel batch — confirmed and uncertain discovery leads
+
+[44 — Agent Skills & Wishlist](44-REPLICA-UNLAZY-AGENT-SKILLS-AND-TOOL-WISHLIST.md) records **Replica** (Jakeschincariol/replica-skill), **Unlazy** (Leonxlnx/unlazy), Ralph, Brag, the AI Engineering tutor, and uncertain “Zero Code,” “Soup,” “OpenPrinter,” “Halal AI Guidelines,” and others. [49 — Devices & Local Tools](49-CARLINK-SMALL-SPEECH-MODELS-AND-LOCAL-OSS.md) distinguishes **CarLink** and **Whistle**. [52 — Source Register](52-INSTAGRAM-REELS-SIXTH-BATCH-REGISTER.md) preserves all 48 fragments. **Catalog only; no install or security clearance.**
