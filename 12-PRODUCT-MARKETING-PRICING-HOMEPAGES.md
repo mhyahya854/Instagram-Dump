@@ -1,6 +1,6 @@
 # Reel Notes 12 — App Launches, Marketing Routines, Pricing and Homepage Clarity
 
-_Captured 2026-10-25. Advice and opinion from reels; do not treat anecdotes, income claims or platform statistics as validated.*
+_Captured 2026-10-25. Advice and opinion from reels; do not treat anecdotes, income claims or platform statistics as validated._
 
 ## Reel A: Four-step launch and marketing routine
 
