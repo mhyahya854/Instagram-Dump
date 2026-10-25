@@ -74,3 +74,8 @@ Example: a **frontend specialist** could review accessibility, focus, responsive
 - Hallmark README: https://github.com/Nutlope/hallmark/blob/main/README.md
 - gstack README: https://github.com/garrytan/gstack
 - Anthropic Security Guidance documentation: https://github.com/anthropics/claude-plugins-official/blob/main/plugins/security-guidance/README.md
+
+
+## More agent/quality research from second reel batch
+
+[19 — Agent Skills, Hooks & Code-Drawn Animation](19-AGENT-SKILLS-HOOKS-AND-CODE-ANIMATION.md) adds Get Shit Done, an unresolved “RAL flow”, CodeRabbit, SlopMonster, Emil Kowalski's Apple Design, Claude Code hooks, the Figma-to-Playwright workflow and unresolved “UI UX Comma Design”. These are **research leads**, not installed skills.
