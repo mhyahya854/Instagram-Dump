@@ -193,3 +193,7 @@ Detailed scope and limits: [40 — Project Research](40-DOORY-MIROFISH-REA-RESEA
 ## Sixth reel batch — confirmed and uncertain discovery leads
 
 [44 — Agent Skills & Wishlist](44-REPLICA-UNLAZY-AGENT-SKILLS-AND-TOOL-WISHLIST.md) records **Replica** (Jakeschincariol/replica-skill), **Unlazy** (Leonxlnx/unlazy), Ralph, Brag, the AI Engineering tutor, and uncertain “Zero Code,” “Soup,” “OpenPrinter,” “Halal AI Guidelines,” and others. [49 — Devices & Local Tools](49-CARLINK-SMALL-SPEECH-MODELS-AND-LOCAL-OSS.md) distinguishes **CarLink** and **Whistle**. [52 — Source Register](52-INSTAGRAM-REELS-SIXTH-BATCH-REGISTER.md) preserves all 48 fragments. **Catalog only; no install or security clearance.**
+
+## Sixth reel research discoveries
+
+[44 — Agent Skills & Wishlist](44-REPLICA-UNLAZY-AGENT-SKILLS-AND-TOOL-WISHLIST.md) records Replica, Unlazy, Ralph Loop, Brag, GSD and unresolved “Zero Code,” “Soup,” “OpenPrinter” and “Halal AI Guidelines” sources. [49 — CarLink & Whistle](49-CARLINK-SMALL-SPEECH-MODELS-AND-LOCAL-OSS.md) records the Android-to-iPhone CarPlay and 16.9MB speech model projects. See [52 — Sixth Source Register](52-INSTAGRAM-REELS-SIXTH-BATCH-REGISTER.md). **All catalog-only, not installed.**
