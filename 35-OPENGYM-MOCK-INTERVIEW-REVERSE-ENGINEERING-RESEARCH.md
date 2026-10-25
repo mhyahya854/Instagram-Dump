@@ -80,3 +80,7 @@ A safer learning project is to reproduce generic tasks/functions from independen
 - Context: [25 — Programmatic Animation](25-STICKMAN-PROGRAMMATIC-VIDEO-WORKFLOWS.md), [30 — Harness Engineering](30-AGENT-HARNESS-REPOS-GITHUB-PRESENTATION.md), [03 — System Architecture](03-PRODUCTION-SYSTEM-ARCHITECTURE.md).
 
 **Status:** user-requested catalog research, **not** installation approval or evidence of any interview service working.
+
+## New fifth-batch REA reel
+
+[40 — Doory, MiroFish & REA](40-DOORY-MIROFISH-REA-RESEARCH.md) records the newer voice-transcribed “RIA” smart-light and AC examples, notes their unverified anecdotal status, and explains safe, authorized hardware/software interoperability. The upstream project remains [morluto/rea](https://github.com/morluto/rea); do not confuse forks with the canonical repo.
