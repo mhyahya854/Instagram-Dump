@@ -167,3 +167,7 @@ Keep hierarchy, interaction, motion and aesthetics as contextual decisions, not 
 ## Sixth source batch: visual ideas, standards and AI-friendly navigation
 
 [48 — Motion/Design/SEO](48-AI-DESIGN-VIDEO-SEO-MARKETING-REFERENCES.md) includes Prompt Motion, new style-reference vocabulary, anti-generic UI notes and meaningful design specifications. [45 — Agent-Navigable Apps](45-AGENT-NAVIGABLE-APP-ARCHITECTURE.md) explains why semantic HTML, accessible names, state feedback and keyboard navigation benefit people and AI agents. These are **reference considerations**, not permissions for unrelated motion, branded clones or automatic new features.
+
+## Sixth source batch — UI, agents and design references
+
+[48 — Motion/Design/SEO](48-AI-DESIGN-VIDEO-SEO-MARKETING-REFERENCES.md) preserves Prompt Motion, extra visual-style vocabulary, creative briefs and SEO limitations. [45 — Agent-Navigable Apps](45-AGENT-NAVIGABLE-APP-ARCHITECTURE.md) explains why meaningful semantics, keyboard access and clear feedback aid both people and approved AI tools. These are **reference-only considerations**, not new mandatory ornaments or automated UI changes.
