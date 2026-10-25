@@ -1,8 +1,29 @@
 # Things to Find — GitHub Repositories, AI Skills & Educational Projects
 
-> **Status:** Research backlog, not an installation manifest. Nothing listed here has been installed, approved, or run by this document.
+> **Status:** Research backlog and user-approved shortlist, **not** an installation manifest. Eight candidate entries below have the user's **catalog approval**; this is not a security audit, permission to execute, or confirmation of installation.
 >
 > **Source:** User's dictated list, 2026-10-24. Preserve raw names when voice transcription is uncertain. An identified candidate is not automatically the intended project.
+
+## 0. User-approved strongest matches — catalog selection (2026-10-25)
+
+**User-approved for keeping and considering in this repository, not approved for automatic installation or privileged use.** A probable transcription match stays marked probable even if selected.
+
+| Original reference | Approved candidate | Identification confidence | Execution status |
+| --- | --- | --- | --- |
+| Ponytail | [`DietrichGebert/ponytail`](https://github.com/DietrichGebert/ponytail) | Confirmed | Not installed or security-audited here |
+| Carpety Skills | [`multica-ai/andrej-karpathy-skills`](https://github.com/multica-ai/andrej-karpathy-skills) | Strong likely transcription | Not installed or security-audited here |
+| Math + Popo | [`mattpocock/skills`](https://github.com/mattpocock/skills) | Strong likely combined transcription | Not installed or security-audited here |
+| Tick Skills | [`pengelbrecht/ticks`](https://github.com/pengelbrecht/ticks) | Probable | Not installed or security-audited here |
+| UI UX programs | [`nextlevelbuilder/ui-ux-pro-max-skill`](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | Plausible specific project | Not installed or security-audited here |
+| Design Engineering | [`ryktara/design-engineering-skill`](https://github.com/ryktara/design-engineering-skill) | Plausible specific project | Not installed or security-audited here |
+| Version Web guidelines | [`vercel-labs/web-interface-guidelines`](https://github.com/vercel-labs/web-interface-guidelines) | Probable Vercel correction | Reference only |
+| Version Web design guidelines | [`vercel-labs/agent-skills`](https://github.com/vercel-labs/agent-skills) (`web-design-guidelines`) | Probable Vercel correction | Not installed or security-audited here |
+
+### Scope of current search
+
+Additional **verified GitHub tools and agent skills** grouped by the existing design, product-quality and production-engineering failures live in **[06 — AI Failure Mitigation Repositories & Skills](06-AI-FAILURE-MITIGATION-REPOS-AND-SKILLS.md)**. There are 68 entries there, none automatically approved.
+
+As requested, **pause the name-guessing search** for unclear spoken fragments such as KFM, Dropit Skills, MPEG-VLD Skills and EMFIM; retain them below as archival leads, not actionable recommendations. Python instead gets a concrete set of relevant test/lint/validation repositories in file 06.
 
 ## 1. Security-first: scan skills before installing
 
@@ -69,7 +90,7 @@ For each lead, record:
 4. License, maintenance activity, dependency and execution risks, and network/secret access.
 5. SkillSpector scan findings where relevant; manual review and isolation before any installation.
 6. Overlap or conflicts with already adopted rules/skills.
-7. Installation decision: **Not reviewed → Researching → Scanned → Manually reviewed → Approved / Rejected**. Do not change to Installed without execution evidence.
+7. Keep **catalog approval** separate from security/installation status: **Discovered → Reviewed → Scanned → Tested → Authorized for installation → Installed**. Catalog approval alone never advances the execution status.
 
 ## Notes on terminology
 
