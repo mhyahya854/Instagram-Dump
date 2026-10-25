@@ -148,3 +148,9 @@ For each lead, record:
 - Design Engineering: https://github.com/ryktara/design-engineering-skill
 
 **Research is not a security clearance.** Scanner runs, code audits, dependency inspection and execution tests remain TODO for every candidate.
+
+## Additional website and skill research: second reel batch
+
+- [17 — Design Websites and Component Libraries](17-DESIGN-WEBSITES-AND-COMPONENT-LIBRARIES.md) catalogs 22 spoken names with confidence labels and unresolved leads.
+- [19 — Agent Skills, Hooks and Code Animation](19-AGENT-SKILLS-HOOKS-AND-CODE-ANIMATION.md) catalogs Get Shit Done, CodeRabbit, Emil Kowalski Apple Design, SlopMonster and uncertain names.
+- These entries are **not approved for privileged installation or execution** by being written down.
