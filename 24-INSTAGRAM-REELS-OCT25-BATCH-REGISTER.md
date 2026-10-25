@@ -69,3 +69,7 @@ Numbers on videos can be promotional: “136,000 stars,” “$100M design,” �
 The user's final goal is a knowledge base intelligible in a world where original social-media clips and public internet cannot be retrieved. **For now keep every topic in its own file.** When a future merge is explicitly requested, preserve exact dates, provenance, contradictory original claims, corrected explanation, examples, confidence, and original URLs **as optional citations**, not the only content.
 
 This archive is **knowledge preservation** only. It is not a mirrored copy of every third-party website, source code, dependency, licensed asset or pre-trained model, and it is not a billion-parameter model.
+
+## Later third reel collection
+
+[31 — Third Batch Source Register](31-INSTAGRAM-REELS-THIRD-BATCH-REGISTER.md) holds 48 later distinct fragments/topics including stickman videos, apps/devices, editor tools, website-cloner, Strix and original UX psychology study. Do not merge the source records or mistake their fragment counts for verified Instagram video counts.
