@@ -55,3 +55,7 @@ See [13 — Design Interactions & Icon Styles](13-DESIGN-INTERACTIONS-ICON-STYLE
 ## Design sources vs mechanisms vs aesthetics
 
 [17 — Website and Component References](17-DESIGN-WEBSITES-AND-COMPONENT-LIBRARIES.md) is a resource list; [18 — Visual Mechanism Taxonomy](18-LEARNING-UI-CRITIQUE-VISUAL-TAXONOMY.md) distinguishes operations such as differentiation, grouping and contrast from aesthetic styles; [22 — UX](22-UX-MOTION-TYPOGRAPHY-TOUCH-AND-TRUST.md) is design/use guidance. None overrides the avoid-by-default rulebook.
+
+## Sixth batch — visual style vocabulary additions (references only)
+
+The source mentions **claymorphism, neo-futurism, flat design, Material Design, pop art, industrial design, aurora, vector, classy/elegant UI, real-object UI and soft-surface/neumorphic styles** alongside familiar maximalism, minimalism, bento, glassmorphism, retro, Y2K, cyberpunk, Swiss, Victorian and surrealism. See [48 — AI Design References](48-AI-DESIGN-VIDEO-SEO-MARKETING-REFERENCES.md). These labels are not mutually exclusive, don't require implementation and do not override anti-generic UX defaults.
