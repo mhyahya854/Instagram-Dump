@@ -63,3 +63,9 @@ English-translated clips and the *curated* 45-principle learning reference are i
 3. Deduplicate without losing meaning.
 4. Place into Design/UX, Vibe-Coded App Quality, Production/System Architecture, or Design-Style Library.
 5. Apply engineering and UX concepts only when relevant; don't produce unsolicited new design recommendations.
+
+## Second Instagram reel batch, captured 2026-10-25
+
+See [24 — Second Source Register](24-INSTAGRAM-REELS-OCT25-BATCH-REGISTER.md) and files 17–23. **Open identifications:** Upshot Gallery, Files, Chio, Vipro, Kitbits (possibly Kibo UI), Liquid Class (possibly Liquid Glass), Uverse vs UIverse (possible duplicate), DesignOpsChat.com, “Jane”, “UX Beat”, “Pen Game” YouTube channels, “RAL flow”, “Linking Orbs”, unnamed code-drawn animation skill, and “UI UX Comma Design” (possibly UI/UX Pro Max). These are not automatically asserted matches. “Get Shit Done”, Apple Design, CodeRabbit, SlopMonster, and Aceternity UI have independent candidates or verified identities.
+
+The reel presents 5 consumer-app principles but the supplied segment only contains **two complete** ideas and part of a third; do not invent the missing two. The 24px-based text sizing is for social graphics, not a universal web standard. The SQL injection prevention reel incorrectly makes punctuation removal central; parameterized queries are the principal control. OSI-layer labels are conceptual, not strict deployment boundaries. The suggested airport waiting history is unverified. Protect sources from future silent certainty upgrades.
