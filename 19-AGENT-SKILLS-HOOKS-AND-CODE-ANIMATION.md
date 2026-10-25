@@ -78,3 +78,7 @@ Existing reference: [08-AGENT-REPOS-AND-SKILL-WISHLIST.md](08-AGENT-REPOS-AND-SK
 ## Voice transcript: “UI UX Comma Design” / 136K-star design skill
 
 Possible meaning is **UI/UX Pro Max**, an existing design-intelligence skill documented in [05-THINGS-TO-FIND.md](05-THINGS-TO-FIND.md) and at https://github.com/nextlevelbuilder/ui-ux-pro-max-skill . **The phonetic wording is uncertain**, and the reel's 136K-star count was not independently established as belonging to the exact skill. Do not merge a name or trust a popularity claim without source confirmation.
+
+## “UI UX Comma Design” and the 136K-star claim
+
+The reel refers to a purported design skill “UI UX Comma Design” with 136,000 stars. It **may mean UI/UX Pro Max** (https://github.com/nextlevelbuilder/ui-ux-pro-max-skill), which is independently documented in the repo's existing skill notes. The wording and numerical claim are not conclusively matched to that upstream source. Keep **raw name and uncertainty**.
