@@ -66,3 +66,7 @@ Take one screenshot and record: (1) the primary user task; (2) three specific de
 ## Website mentioned without an identifiable review
 
 - **DesignOpsChat.com** — user supplied the name in the reel; the exact intended site, its owner and scope **remain unverified**. Preserve as a research lead, not proof that the site offers this taxonomy or a working design tool.
+
+## Unverified website lead
+
+**DesignOpsChat.com** was named in the supplied reel without surrounding verified context; its ownership, identity and service are **unresolved**. Preserve the spoken domain as a research lead rather than inventing a URL or implying it published the visual taxonomy.
