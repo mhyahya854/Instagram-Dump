@@ -61,3 +61,8 @@ This repository is a **human-readable, self-contained interpretation archive**. 
 - Merge duplicate ideas by canonical concept, but keep contradictory claims with provenance and resolution.
 - Prefer embedded definitions and procedures to “go read this URL”; for external code, source URLs alone are **not offline execution archives**.
 - A truly offline execution bundle would require separately authorized snapshotting of specific upstream repos, licenses, dependencies, toolchains, models, sample data and reproducible tests; **this task creates knowledge notes only**, not those software mirrors.
+
+
+## Separate October 25 reel collection
+
+A later, separate transcript covering 26 more fragments (design websites, learning channels, skills, site hardening, OSI layers, backfills, touch targets and UX effects) is indexed at **[24 — Second Reel Source Register](24-INSTAGRAM-REELS-OCT25-BATCH-REGISTER.md)**. Keep the two source batches distinct instead of altering this first register.
