@@ -160,3 +160,11 @@ The goal is to cover the existing three rulebook categories with GitHub tools **
 
 **Notes:** Some entries are overlapping alternatives (axe-core versus Pa11y; k6 versus Locust; Renovate versus Dependabot; Radix versus Headless UI). Treat them as choices, not a combined mandatory stack. The original unresolved dictated names remain in [05-THINGS-TO-FIND.md](05-THINGS-TO-FIND.md) for historical traceability; this inventory deliberately favors concrete verified repositories rather than forced transcription matches.
 
+
+## Second reel batch: new references, NOT included in the original 68 count
+
+- [17 — Component Sites](17-DESIGN-WEBSITES-AND-COMPONENT-LIBRARIES.md): official reference links and uncertainty notes.
+- [19 — Skills and Hooks](19-AGENT-SKILLS-HOOKS-AND-CODE-ANIMATION.md): Apple Design, CodeRabbit, GSD, SlopMonster, hooks.
+- [20 — Security/OSI](20-SECURITY-SERVER-HARDENING-OSI-LAYERS.md) and [23 — Data Backfills](23-DATA-BACKFILLS-REPLAY-AND-IDEMPOTENCY.md): deeper defensive tests and replay safety.
+
+No new entries have been automatically approved, security-cleared or installed.
