@@ -54,3 +54,9 @@
 - **No fake proof**: do not create reviews, customer counts, claims, or results without real evidence.
 - **Don't launch a facade**: prioritize real working application behavior over decorative UI.
 - **Keep this file distinct** from security/system architecture and visual style guidance.
+
+## Additional product-completeness lessons (October 25 reels)
+
+See [12 — Product Marketing, Pricing & Homepages](12-PRODUCT-MARKETING-PRICING-HOMEPAGES.md): clearly communicate product and target audience, offer a real first-use result, keep onboarding proportionate, and prefer genuine evidence and usable CTAs over fake social proof or decorative splash screens. These are **considerations**, not a demand to hide important pricing/features or automate spam submissions.
+
+See [11 — Data Pipeline Quality](11-DATA-PIPELINE-QUALITY.md): a successful background job does not imply valid data; enforce checks before publishing dashboards. See [14 — Agent Project Handoff](14-AGENT-PROJECT-HANDOFF-AND-WORKFLOWS.md) for goals, boundaries and acceptance tests.
