@@ -79,3 +79,7 @@ Example: a **frontend specialist** could review accessibility, focus, responsive
 ## More agent/quality research from second reel batch
 
 [19 — Agent Skills, Hooks & Code-Drawn Animation](19-AGENT-SKILLS-HOOKS-AND-CODE-ANIMATION.md) adds Get Shit Done, an unresolved “RAL flow”, CodeRabbit, SlopMonster, Emil Kowalski's Apple Design, Claude Code hooks, the Figma-to-Playwright workflow and unresolved “UI UX Comma Design”. These are **research leads**, not installed skills.
+
+## Additional agents/skills — second reel batch
+
+[19 — Agent Skills, Hooks and Programmatic Animation](19-AGENT-SKILLS-HOOKS-AND-CODE-ANIMATION.md) records GSD, CodeRabbit, SlopMonster, Apple Design, Claude Code hooks, Figma-to-browser-QA workflows and uncertain titles. Research mention is not installation permission.
