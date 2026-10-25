@@ -180,3 +180,7 @@ No new entries have been automatically approved, security-cleared or installed.
 ## Fourth batch: research-only additions outside the original 68 inventory
 
 [32 — Build Your Own X](32-BUILD-YOUR-OWN-X-FIRST-PRINCIPLES-LEARNING.md) is an education directory; [35 — REA, openGym and Interview Panel](35-OPENGYM-MOCK-INTERVIEW-REVERSE-ENGINEERING-RESEARCH.md) catalogs `morluto/rea` as an agent-assisted authorized application-analysis tool, and the other projects as separate application concepts. No star count guarantees safety. Do not silently count these as previously verified or preapproved tools.
+
+## Sixth-reel additions (not included in original 68-item inventory)
+
+[44 — Replica, Unlazy and Skills](44-REPLICA-UNLAZY-AGENT-SKILLS-AND-TOOL-WISHLIST.md) introduces explicit acceptance-ledger evidence and scoped on-demand agent skills. [45 — Agent-Navigable Apps](45-AGENT-NAVIGABLE-APP-ARCHITECTURE.md) adds API/action parity, accessibility and MCP security. [46 — Prompt Injection](46-PROMPT-INJECTION-UNTRUSTED-DOCUMENTS-AND-REEL-INGESTION.md) documents untrusted-document handling. Research entries are **not newly approved or installed**.
