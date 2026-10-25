@@ -20,6 +20,14 @@ See **[07 — 45 UX Laws, Effects & Design Heuristics](07-45-UX-LAWS-ENGLISH.md)
 - From the source clips, **Day 5 is unresolved**, and **“Weber’s Illusion” was spoken, not conclusively “Weber’s Law.”** Do not silently replace one with the other.
 - These guidelines **never override the avoid-by-default design rules** or authorize manipulative progress cues or unnecessary ornamentation.
 
+## More practical patterns from the October 25 reel collection
+
+The detailed explanations are in [13 — Design Interactions & Icon Styles](13-DESIGN-INTERACTIONS-ICON-STYLES.md), with original clip tracking in [16 — Reel Source Register](16-INSTAGRAM-REELS-SOURCE-REGISTER.md).
+
+**Consider where relevant:** one dominant focal element with quieter supporting information; assigning meaning to accent colors (the **60–30–10** rule is an optional heuristic, not a compulsory ratio); submenu pointer-intent corridors to prevent accidental hover switching **with keyboard/touch equivalents**; confirmation dialogs that describe the consequence and use explicit action verbs.
+
+**Avoid by default:** a modal that only says “Are you sure?”, identical oversized headings everywhere, fake social proof and text-only fake demos. The icon styles listed in file 13 are **vocabulary only**, never a mandate to add decorative icons. Keep existing anti-slop preferences intact.
+
 ## Established usability and psychology principles
 
 | Principle | How it informs design |
