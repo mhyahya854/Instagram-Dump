@@ -63,3 +63,7 @@ Do not install unknown agents, grant accessibility/admin permissions, test arbit
 **Status:** GitHub repository and documentation verified, **user-requested catalog addition**, **not installed, security-audited, or approved for privileged execution**.
 
 **Further reading:** https://github.com/xtool-org/xtool/blob/main/README.md ; https://xtool.sh/documentation/xtool/ .
+
+## Sixth batch — new mobile/edge sources
+
+[49 — CarLink / Whistle](49-CARLINK-SMALL-SPEECH-MODELS-AND-LOCAL-OSS.md) covers reuse of an Android display with an iPhone CarPlay connection, official APK integrity checks and a 16.9 MB on-device speech model. The alleged Tiger S1 FreeCAD model is unverified and remains explicitly unresolved.
