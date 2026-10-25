@@ -159,3 +159,7 @@ Preserve no-fake-progress, no forced dark-pattern consent and no compulsory load
 - [34 — Editing, Taste & Storytelling](34-VIDEO-EDITING-TASTE-STORYTELLING-AND-SUNEHRA-KIT.md) reinforces that reference images and skills cannot replace understanding creative intent.
 
 Keep hierarchy, interaction, motion and aesthetics as contextual decisions, not compulsory flourishes.
+
+## Fifth reel batch: error prevention and informed interfaces
+
+[38 — UX Error Prevention](38-UX-ERROR-PREVENTION-AND-DECISION-SAFETY.md) adds safe constraints, nonmanipulative defaults, timely form validation, consequence-labeled confirmations and genuine recovery. An AI prompt saying “no mistakes” cannot replace task testing. See [37 — Prelaunch QA](37-WEBSITE-PRELAUNCH-RELEASE-CHECKLIST.md) for real mobile/browser checks.
