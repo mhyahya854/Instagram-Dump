@@ -109,3 +109,7 @@ The speaker often says, “45 UX Laws, Day [number].” Translation keeps recove
 ## 5. Remaining provenance work
 
 Find the original Instagram handle or video links to verify (a) actual Day 3/Fitts episode label, (b) Day 5/“Visible Stock,” and (c) original episodes Day 12–45. Do **not** overwrite this curated collection with invented episode numbering.
+
+## Distinction from Jon Yablonski's copyrighted book
+
+The related [29 — Laws of UX Book Study Guide](29-UX-PSYCHOLOGY-LAWS-OF-UX-BOOK-AND-ETHICS.md) summarizes the official **2024 second-edition** book's ten named principle chapters and application/ethics chapters in *new original language*. This **curated 45-principle list** is not the O'Reilly book's table of contents, nor a reproduced edition or the Instagram creator's verified 45-video sequence.
