@@ -14,6 +14,7 @@ Personal, evolving design, UX, vibe-coded app and production engineering notes. 
 | [04 — Design Style Library](04-DESIGN-STYLE-LIBRARY.md) | Visual aesthetic vocabulary, **not** mandatory styling |
 | [05 — Things to Find](05-THINGS-TO-FIND.md) | Original discoveries, eight user-approved catalog selections, open leads and skill scanning |
 | [06 — AI Failure Mitigation Repositories & Skills](06-AI-FAILURE-MITIGATION-REPOS-AND-SKILLS.md) | 68 verified GitHub repos mapped to design, app-quality and production failure modes |
+| [07 — 45 UX Laws (English Reference)](07-45-UX-LAWS-ENGLISH.md) | Translated Hindi Instagram excerpts, 30-source principles + 15 researched additions, explicit uncertainty notes |
 | [Transcription Notes](TRANSCRIPTION-NOTES.md) | Unclear phrases and tentative corrections retained transparently |
 
 ## Decision labels
