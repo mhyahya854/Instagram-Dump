@@ -67,3 +67,7 @@ Do not install unknown agents, grant accessibility/admin permissions, test arbit
 ## Sixth batch — new mobile/edge sources
 
 [49 — CarLink / Whistle](49-CARLINK-SMALL-SPEECH-MODELS-AND-LOCAL-OSS.md) covers reuse of an Android display with an iPhone CarPlay connection, official APK integrity checks and a 16.9 MB on-device speech model. The alleged Tiger S1 FreeCAD model is unverified and remains explicitly unresolved.
+
+## Sixth batch — CarLink and Whistle
+
+[49 — CarLink, Whistle and Local OSS](49-CARLINK-SMALL-SPEECH-MODELS-AND-LOCAL-OSS.md) covers Android devices reused for iPhone CarPlay, official release hashes, device permissions and a 16.9 MB Cactus speech model. Alleged Tiger S1 FreeCAD click model is not verified.
