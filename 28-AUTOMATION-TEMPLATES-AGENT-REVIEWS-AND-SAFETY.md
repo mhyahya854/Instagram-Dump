@@ -55,3 +55,7 @@ Suggested acceptance table: required route; actual route; critical blocks; inter
 - Never treat a GitHub repo, test badge, chat transcript or promotional headline as a security guarantee.
 
 Related notes: [14 — Project Handoff](14-AGENT-PROJECT-HANDOFF-AND-WORKFLOWS.md), [20 — Security Hardening](20-SECURITY-SERVER-HARDENING-OSI-LAYERS.md), [22 — UX Prelaunch](22-UX-MOTION-TYPOGRAPHY-TOUCH-AND-TRUST.md).
+
+## The “AI video editor made 6 videos a day” and “instant workflows” claims
+
+Both are creator promotional anecdotes. For credible reuse of automation, maintain sample data, expected outputs, task ownership and actual production runtime metrics. Verify third-party workflow JSON before any Gmail or account connection. Disentangle *one-click copying* from *safe deployment*.
