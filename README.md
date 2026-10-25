@@ -24,6 +24,14 @@ Personal, evolving design, UX, vibe-coded app and production engineering notes. 
 | [14 — Project Handoff & Agent Workflows](14-AGENT-PROJECT-HANDOFF-AND-WORKFLOWS.md) | App specification: goal, user, flows, stack, permissions, done, test evidence |
 | [15 — Hermes Agent Ecosystem](15-HERMES-AGENT-ECOSYSTEM.md) | GBrain, Skills Hub, Agent Reach, Open Design, Hermes Studio |
 | [16 — Reel Source Register](16-INSTAGRAM-REELS-SOURCE-REGISTER.md) | All 23 reel segments mapped to detailed notes, claim corrections and offline-consolidation policy |
+| [17 — Design Websites and Component Libraries](17-DESIGN-WEBSITES-AND-COMPONENT-LIBRARIES.md) | 22 spoken resources with official links, uncertain matches and licensing guards |
+| [18 — Learning UI Critique and Visual Taxonomy](18-LEARNING-UI-CRITIQUE-VISUAL-TAXONOMY.md) | Critique method, unverified design educator leads, visual idea mechanisms |
+| [19 — Agent Skills, Hooks and Code Animation](19-AGENT-SKILLS-HOOKS-AND-CODE-ANIMATION.md) | GSD, CodeRabbit, SlopMonster, Emil Kowalski, Claude hooks, Figma/Playwright workflow |
+| [20 — Security, Server Hardening and OSI](20-SECURITY-SERVER-HARDENING-OSI-LAYERS.md) | SQL injection, secrets, authorization, SSH/firewalls, seven network layers |
+| [21 — Architecture and Networking Glossary](21-ARCHITECTURE-SYSTEMS-NETWORKS-GLOSSARY.md) | Context-based system design vocabulary, networks, caching, scaling, delivery |
+| [22 — UX Motion, Typography, Touch and Trust](22-UX-MOTION-TYPOGRAPHY-TOUCH-AND-TRUST.md) | Anti-slop trends, mobile targets, honest progress, website prelaunch checks |
+| [23 — Data Backfills, Replay and Idempotency](23-DATA-BACKFILLS-REPLAY-AND-IDEMPOTENCY.md) | Rebuild historical periods without double counting; ledger exceptions |
+| [24 — Reel Source Register: Second Collection](24-INSTAGRAM-REELS-OCT25-BATCH-REGISTER.md) | 26 more reel fragments mapped to files with corrections and provenance |
 | [Transcription Notes](TRANSCRIPTION-NOTES.md) | Unclear phrases and tentative corrections retained transparently |
 
 ## Decision labels
@@ -53,3 +61,7 @@ The October 25, 2026 user-supplied Instagram reel batch is organized into **nine
 - **Do not merge now.** Keep clear file boundaries; preserve Git history and issue dates for later comparison.
 - **Not a software mirror or fully offline executable stack.** Upstream source, dependencies, models and licenses would require separate authorized preservation.
 - **Research approval ≠ install permission.** No third-party skills or repositories from these notes have been installed or executed by this archival task.
+
+## Second Instagram reel collection: offline-first knowledge
+
+The second October 25 collection has **26 source fragments** and **eight new subject/source files (17–24)**. The original 22 design-resource names are catalogued even where the spoken identity is unresolved. Preserve standalone topic files until a separate, user-approved consolidation is requested. Treat external links as provenance, not as the only documentation; the core explanations and examples remain in these Markdown files.
