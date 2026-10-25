@@ -135,3 +135,12 @@ Original notes: “Take the thing that you like, just go and purchase it,” the
 > “Do not throw out random recommendations.”
 
 See [transcription notes](TRANSCRIPTION-NOTES.md) for unresolved words.
+
+## Second reel batch: design sources and UX checks
+
+- [17 — Design Websites](17-DESIGN-WEBSITES-AND-COMPONENT-LIBRARIES.md): the 22 original website names, with verified and uncertain identities.
+- [18 — Design Critique and Visual Taxonomy](18-LEARNING-UI-CRITIQUE-VISUAL-TAXONOMY.md): reasoned diagnosis, visual mechanisms versus aesthetics, and educational leads.
+- [22 — Motion, Typography, Touch and Trust](22-UX-MOTION-TYPOGRAPHY-TOUCH-AND-TRUST.md): touch targets, meaningful loading, optional social-post type scale, website launch checks and ethical conversion.
+- [19 — Design Skills and Hooks](19-AGENT-SKILLS-HOOKS-AND-CODE-ANIMATION.md): persistent design-system instructions and visual browser testing.
+
+These are **consider/refer-to** notes, not requirements to add glow, glass, radial orbs or animations.
