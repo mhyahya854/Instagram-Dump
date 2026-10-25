@@ -174,3 +174,7 @@ These supplement the existing architecture glossary and security controls, not m
 ## Fifth reel batch: deployment evidence and compliance exposure
 
 [37 — Prelaunch QA](37-WEBSITE-PRELAUNCH-RELEASE-CHECKLIST.md) specifies domain/HTTPS, form delivery, payment processor sandbox/webhook, secrets, backups and monitoring acceptance evidence; [41 — Launch Legal & Privacy Claims](41-LEGAL-PRIVACY-COMPLIANCE-CLAIMS.md) covers remote fonts, session replay, commercial email, recurring billing and copyright safe-harbor evaluation. These are conditional legal/regulatory research topics, not universally mandatory requirements for all products or jurisdictions.
+
+## Sixth source batch: AI-integrable app architecture and developer learning
+
+[45 — Agent-Navigable App Architecture](45-AGENT-NAVIGABLE-APP-ARCHITECTURE.md) documents permission-scoped AI actions, OpenAPI/MCP boundaries and matching human/server authorization. [46 — Untrusted Documents](46-PROMPT-INJECTION-UNTRUSTED-DOCUMENTS-AND-REEL-INGESTION.md) addresses prompt injection. [50 — Engineering Guides](50-PROGRAMMING-SYSTEM-DESIGN-GUIDES-FREE-LLM-APIS.md) indexes APIs, databases, auth, CI/CD, AWS, Rust, security and legitimate free LLM API resources. [51 — Universal-Rules Candidates](51-UNIVERSAL-RULES-RESEARCH-PROPOSALS.md) contains **unratified** proposals only.
