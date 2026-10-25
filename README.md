@@ -44,6 +44,13 @@ Personal, evolving design, UX, vibe-coded app and production engineering notes. 
 | [34 — Video Editing, Taste & Sunehra Kit](34-VIDEO-EDITING-TASTE-STORYTELLING-AND-SUNEHRA-KIT.md) | Hindi clips translated; 40+ skill kit unverified; editing craft and storytelling |
 | [35 — openGym, Mock Interviews & Reverse Engineering](35-OPENGYM-MOCK-INTERVIEW-REVERSE-ENGINEERING-RESEARCH.md) | Self-hosted fitness tracker, interview-panel specification and REA source/permissions |
 | [36 — Fourth Reel Source Register](36-INSTAGRAM-REELS-FOURTH-BATCH-REGISTER.md) | Twelve spoken fragments mapped to topic files and open questions |
+| [37 — Website Prelaunch & Release Checklist](37-WEBSITE-PRELAUNCH-RELEASE-CHECKLIST.md) | Mobile, forms, links, WhatsApp, email, analytics, indexing, HTTPS, backups, payments |
+| [38 — UX Error Prevention](38-UX-ERROR-PREVENTION-AND-DECISION-SAFETY.md) | Constraint design, ethical defaults, validation, recovery and risky-action confirmation |
+| [39 — AI Fundamentals & Embeddings](39-AI-FUNDAMENTALS-EMBEDDINGS-STUDY.md) | Explained vector embeddings, toy arithmetic, examples and learning resources |
+| [40 — Doory, MiroFish & REA](40-DOORY-MIROFISH-REA-RESEARCH.md) | Verified project descriptions, simulation vs prediction and lawful software analysis |
+| [41 — Launch Legal & Privacy Claims](41-LEGAL-PRIVACY-COMPLIANCE-CLAIMS.md) | German remote-font judgment, CIPA, CAN-SPAM, renewal terms and DMCA applicability |
+| [42 — Personal Digital-Footprint Removal](42-DIGITAL-FOOTPRINT-DATA-BROKER-REMOVAL.md) | Self-service privacy opt-outs, identity protections and realistic removal limits |
+| [43 — Fifth Reel Source Register](43-INSTAGRAM-REELS-FIFTH-BATCH-REGISTER.md) | Twelve distinct transcript fragments, verified claims, unresolved speech |
 | [Transcription Notes](TRANSCRIPTION-NOTES.md) | Unclear phrases and tentative corrections retained transparently |
 
 ## Decision labels
@@ -87,3 +94,7 @@ Captured **48 distinct transcript fragments/topics** in **seven new Markdown fil
 ## Fourth reel collection — 2026-10-25
 
 Five new standalone Markdown files (32–36) capture **12 distinct source fragments**, not twelve independently verified Instagram videos. Research distinguishes verified GitHub repositories, unverified DM-only guides, portable original examples, licensing and copyright limits. Keep the files separate until explicitly asked to consolidate. **No external tools, skills or fitness software installed.**
+
+## Fifth reel collection — 2026-10-25
+
+**Seven additional standalone files (37–43)** document **12 transcript fragments**, not 12 independently verified original reels. The legal section is a jurisdiction-specific research inventory, **not a lawyer's clearance or a completed website audit**. The self-service privacy notes must **never** contain personal addresses or other sensitive listings in this public repository. Existing UX and production rules are referenced, not overwritten. No tools installed, external accounts connected, website deployed or privacy-removal forms submitted.
