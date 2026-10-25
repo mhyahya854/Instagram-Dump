@@ -59,3 +59,7 @@ See [13 — Design Interactions & Icon Styles](13-DESIGN-INTERACTIONS-ICON-STYLE
 ## Sixth batch — visual style vocabulary additions (references only)
 
 The source mentions **claymorphism, neo-futurism, flat design, Material Design, pop art, industrial design, aurora, vector, classy/elegant UI, real-object UI and soft-surface/neumorphic styles** alongside familiar maximalism, minimalism, bento, glassmorphism, retro, Y2K, cyberpunk, Swiss, Victorian and surrealism. See [48 — AI Design References](48-AI-DESIGN-VIDEO-SEO-MARKETING-REFERENCES.md). These labels are not mutually exclusive, don't require implementation and do not override anti-generic UX defaults.
+
+## Sixth batch — additional visual style labels (REFERENCE ONLY)
+
+Includes claymorphism, neo-futurism, flat design, Material Design, pop art, industrial, aurora, vector, elegant/classy UI, real-object UI and soft-surface/neumorphic variants. See [48 — Design/Video/SEO](48-AI-DESIGN-VIDEO-SEO-MARKETING-REFERENCES.md). **No automatic application; standing avoid-by-default rules remain.**
