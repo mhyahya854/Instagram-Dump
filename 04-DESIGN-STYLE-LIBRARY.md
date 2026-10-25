@@ -51,3 +51,7 @@ Bento grids, glassmorphism, neon/synthwave treatments, pixel motifs, and ornamen
 ## Icon style vocabulary (reference only)
 
 See [13 — Design Interactions & Icon Styles](13-DESIGN-INTERACTIONS-ICON-STYLES.md) for outline, filled, monoline, pixel, rounded, sharp, two-tone, Material Symbols, 3D, neon/glow, skeuomorphic, animated and adaptive icons. These are visual categories **to recognize**; they do not override the default avoidance of decorative icons, emoji placeholders or repetitive Lucide icon usage.
+
+## Design sources vs mechanisms vs aesthetics
+
+[17 — Website and Component References](17-DESIGN-WEBSITES-AND-COMPONENT-LIBRARIES.md) is a resource list; [18 — Visual Mechanism Taxonomy](18-LEARNING-UI-CRITIQUE-VISUAL-TAXONOMY.md) distinguishes operations such as differentiation, grouping and contrast from aesthetic styles; [22 — UX](22-UX-MOTION-TYPOGRAPHY-TOUCH-AND-TRUST.md) is design/use guidance. None overrides the avoid-by-default rulebook.
