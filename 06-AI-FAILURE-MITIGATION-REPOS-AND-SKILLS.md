@@ -168,3 +168,11 @@ The goal is to cover the existing three rulebook categories with GitHub tools **
 - [20 — Security/OSI](20-SECURITY-SERVER-HARDENING-OSI-LAYERS.md) and [23 — Data Backfills](23-DATA-BACKFILLS-REPLAY-AND-IDEMPOTENCY.md): deeper defensive tests and replay safety.
 
 No new entries have been automatically approved, security-cleared or installed.
+
+## Third reel batch: additional discovered projects (outside original 68 total)
+
+- [27 — AI Tool Catalog](27-EMERGING-AI-AGENTS-DEVICES-AND-MEDIA-TOOLS.md): Strix, ARTEMIS, website-cloner template and media editors with safety/permission boundaries.
+- [28 — Agent Review & Automation](28-AUTOMATION-TEMPLATES-AGENT-REVIEWS-AND-SAFETY.md): CodeRabbit, Claude version-specific review workflows, n8n template auditing and reproducible tests.
+- [30 — Agent Harness](30-AGENT-HARNESS-REPOS-GITHUB-PRESENTATION.md): tool poisoning, background runs, memory compaction, structured evaluation and GitHub presentation.
+
+**Do not increase the previously verified 68-item catalog count without a separate complete inventory audit.**
