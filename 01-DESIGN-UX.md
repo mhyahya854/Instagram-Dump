@@ -152,3 +152,10 @@ These are **consider/refer-to** notes, not requirements to add glow, glass, radi
 - [28 — Checklist Design](28-AUTOMATION-TEMPLATES-AGENT-REVIEWS-AND-SAFETY.md): page inventory and functional completeness tests.
 
 Preserve no-fake-progress, no forced dark-pattern consent and no compulsory loading skeletons. Attractive design never proves usable behavior.
+
+## Fourth reel batch: UI / UX / CX and creative judgment
+
+- [33 — UI, UX & CX Framework](33-UI-UX-CX-SCOPE-AND-QUALITY-FRAMEWORK.md) distinguishes interface presentation and behavior, end-to-end usability, and the broader customer relationship; categories overlap.
+- [34 — Editing, Taste & Storytelling](34-VIDEO-EDITING-TASTE-STORYTELLING-AND-SUNEHRA-KIT.md) reinforces that reference images and skills cannot replace understanding creative intent.
+
+Keep hierarchy, interaction, motion and aesthetics as contextual decisions, not compulsory flourishes.
