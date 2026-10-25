@@ -12,7 +12,8 @@ Personal, evolving design, UX, vibe-coded app and production engineering notes. 
 | [02 — Vibe-Coded App Quality](02-VIBE-CODED-APP-QUALITY.md) | Authenticity, functioning demos, product completeness and launch readiness |
 | [03 — Production & System Architecture](03-PRODUCTION-SYSTEM-ARCHITECTURE.md) | Deployment, security, databases, distributed systems, performance, reliability and tests |
 | [04 — Design Style Library](04-DESIGN-STYLE-LIBRARY.md) | Visual aesthetic vocabulary, **not** mandatory styling |
-| [05 — Things to Find](05-THINGS-TO-FIND.md) | Research backlog for GitHub repositories, AI agent skills, and pre-install security scanning |
+| [05 — Things to Find](05-THINGS-TO-FIND.md) | Original discoveries, eight user-approved catalog selections, open leads and skill scanning |
+| [06 — AI Failure Mitigation Repositories & Skills](06-AI-FAILURE-MITIGATION-REPOS-AND-SKILLS.md) | 68 verified GitHub repos mapped to design, app-quality and production failure modes |
 | [Transcription Notes](TRANSCRIPTION-NOTES.md) | Unclear phrases and tentative corrections retained transparently |
 
 ## Decision labels
@@ -31,4 +32,4 @@ Personal, evolving design, UX, vibe-coded app and production engineering notes. 
 - Avoid fake reviews, fake metrics, unverifiable social proof and fake demos.
 - Test real functionality in production-like environments, not just screenshots or a local development server.
 
-_Last organized: 2026-10-24._
+_Last organized: 2026-10-25._
