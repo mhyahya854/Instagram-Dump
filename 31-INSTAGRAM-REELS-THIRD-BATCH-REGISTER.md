@@ -73,3 +73,7 @@ There are **48 distinct fragments or topics** in the third dictated block. Items
 ## Consolidation rules
 
 Retain separate Markdown files now. A future user-directed merge must preserve each file's source, confidence, examples, technical limitations, copyright/licensing boundaries and the distinction between principles, examples and actual executable tools. **A 1-billion-parameter hypothetical archive is a knowledge-preservation analogy, not a specification for training a model from these snippets.** Offline executability requires authorized model weights, runtime dependencies, fonts, licensed assets and source snapshots beyond Markdown.
+
+## Separate fourth Instagram batch
+
+[36 — Fourth Reel Source Register](36-INSTAGRAM-REELS-FOURTH-BATCH-REGISTER.md) indexes **12** independently distinguished fragments concerning Build Your Own X, UI/UX/CX, creative taste, openGym, mock interviews and REA. Separate source collection; do not insert as if they came from this third batch.
