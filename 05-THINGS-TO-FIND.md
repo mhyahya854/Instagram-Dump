@@ -180,3 +180,12 @@ This is a **developer tool rather than an agent skill**. Its platform setup, App
 - **“Sunehra” 40+ editing skill kit:** creator's promised DM guide/repo **not provided/verified**; [conceptual editing study notes](34-VIDEO-EDITING-TASTE-STORYTELLING-AND-SUNEHRA-KIT.md).
 
 **All new choices are catalog entries only; none installed, automatically trusted or security-approved.**
+
+## Fifth reel batch: verified AI/design project names
+
+- **Doory (spoken “Dory”)** — [shaongitbd/doory](https://github.com/shaongitbd/doory), browser graphic editor with MP4/GIF export; **not installed**.
+- **MiroFish** — [oneseanlee/MiroFish](https://github.com/oneseanlee/MiroFish), agent-simulation engine; synthetic scenarios **cannot predict everything**.
+- **REA (spoken “RIA”)** — [morluto/rea](https://github.com/morluto/rea), already recorded; this clip concerns a smart light/AC anecdote, not an independently confirmed demo.
+- **AI embeddings interactive lesson** — original website unknown; related real examples in [39 — Embeddings](39-AI-FUNDAMENTALS-EMBEDDINGS-STUDY.md).
+
+Detailed scope and limits: [40 — Project Research](40-DOORY-MIROFISH-REA-RESEARCH.md). All are *research entries*, not automatic installation or security approval.
