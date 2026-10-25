@@ -82,3 +82,7 @@ AI can generate plausible ETL code that runs and produces a table while silently
 ## Replaying/backfilling historical data
 
 A pipeline can also be “green” while doubling revenue by **appending** a complete month's reprocessed data instead of replacing/reconciling it. See **[23 — Data Backfills, Replay & Idempotency](23-DATA-BACKFILLS-REPLAY-AND-IDEMPOTENCY.md)** for stable keys, safe UPSERT/overwrite, validation and immutable-ledger exceptions.
+
+## Historical backfill safety
+
+A green pipeline can still **double a month's totals** when historical data is appended instead of reconciled. See [23 — Idempotent Data Backfills](23-DATA-BACKFILLS-REPLAY-AND-IDEMPOTENCY.md) for stable event keys, safe merge/overwrite, quality gates and append-only ledger exceptions.
