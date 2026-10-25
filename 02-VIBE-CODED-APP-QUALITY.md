@@ -64,3 +64,7 @@ See [11 — Data Pipeline Quality](11-DATA-PIPELINE-QUALITY.md): a successful ba
 ## Second reel batch: product-completeness check
 
 [22 — UX Motion, Touch and Trust](22-UX-MOTION-TYPOGRAPHY-TOUCH-AND-TRUST.md) extends the checks to mobile overflow, accessible controls, links, titles/metadata, functioning forms and authentic loading/progress. [20 — Security Hardening](20-SECURITY-SERVER-HARDENING-OSI-LAYERS.md) adds server/API safety. Do not mistake a beautiful screen or an AI security prompt for a verified product.
+
+## Third reel batch: product completion, automation and media
+
+[28 — Workflow Templates and Page Completeness](28-AUTOMATION-TEMPLATES-AGENT-REVIEWS-AND-SAFETY.md) describes n8n templates, why third-party JSON needs review, missing 404/blog/other scoped pages and actual checks before marking delivery “complete.” [25 — Programmatic Media](25-STICKMAN-PROGRAMMATIC-VIDEO-WORKFLOWS.md) covers honest production proof rather than one-prompt promises. [26 — Local/OSS Alternatives](26-OPEN-SOURCE-ALTERNATIVES-AND-LOCAL-TOOLS.md) distinguishes open application code from commercial model or hosted costs.
