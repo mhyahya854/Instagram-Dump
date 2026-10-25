@@ -158,3 +158,11 @@ These case studies refine existing checks; they are not an instruction to instal
 - [23 — Safe Data Backfills](23-DATA-BACKFILLS-REPLAY-AND-IDEMPOTENCY.md): replay historical data without duplicating revenue, considering event logs and legitimate immutable ledgers.
 
 These extend earlier checks. No live infrastructure changes were performed.
+
+## Third reel batch: security tooling and agent automation boundaries
+
+- [27 — Emerging Devices, Agents & Tools](27-EMERGING-AI-AGENTS-DEVICES-AND-MEDIA-TOOLS.md): Google ARTEMIS device automation, Strix authorized pentesting, user data privacy risks in computer-use agents, and versioned OSS editor/tool cautions.
+- [28 — Workflow Automation Safety](28-AUTOMATION-TEMPLATES-AGENT-REVIEWS-AND-SAFETY.md): workflow-template trust checks, scoped Gmail/connector permissions, idempotent triggers and explicit external-action approvals.
+- [30 — Agent Harness Engineering](30-AGENT-HARNESS-REPOS-GITHUB-PRESENTATION.md): context management, skills vs tool runtimes, MCP, hooks, compaction, testing, concurrency, tool poisoning and auditability.
+
+These supplement the existing architecture glossary and security controls, not mandate deployments or unapproved penetration tests.
