@@ -70,3 +70,7 @@ A later, separate transcript covering 26 more fragments (design websites, learni
 ## Second, separate Instagram reel collection
 
 A later batch of **26 distinct fragments**, including websites, UI education, agent skills, security, OSI layers and backfills, is indexed in **[24 — Second Source Register](24-INSTAGRAM-REELS-OCT25-BATCH-REGISTER.md)**. Keep the two source sets separate for provenance and future merging.
+
+## Third, separately sourced Instagram collection
+
+[31 — Third Batch Source Register](31-INSTAGRAM-REELS-THIRD-BATCH-REGISTER.md) indexes **48** independently distinguished transcript segments including the Real Stickman Stories pipeline, open-source alternatives, device automation, UX psychology, O'Reilly Laws of UX, n8n, and agent/code/media tools. Preserve the earlier first/second batch records unchanged.
