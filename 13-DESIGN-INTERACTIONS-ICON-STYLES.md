@@ -101,3 +101,7 @@ The reel rapidly dictates icon styles and some distorted names. Classify by inde
 ## Additional UX interaction reference
 
 [22 — UX Motion, Typography, Touch & Trust](22-UX-MOTION-TYPOGRAPHY-TOUCH-AND-TRUST.md) expands the icon taxonomy with touch target sizing, meaningful loading, unverified “Linking Orbs,” social-media type sizing versus web UI and manipulative paywalls. [18 — UI Critique & Visual Taxonomy](18-LEARNING-UI-CRITIQUE-VISUAL-TAXONOMY.md) separates the mechanism of a visual idea from an aesthetic.
+
+## UX extension: touch and motion
+
+[22 — Motion, Typography, Touch and Trust](22-UX-MOTION-TYPOGRAPHY-TOUCH-AND-TRUST.md) adds platform-specific touch target sizing, honest progress, a social-graphic type-scale example and manipulative paywall cautions. [18 — Visual Taxonomy](18-LEARNING-UI-CRITIQUE-VISUAL-TAXONOMY.md) covers meaning-making mechanisms rather than visual styles.
