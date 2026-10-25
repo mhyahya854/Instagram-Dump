@@ -84,3 +84,7 @@ Linked references: [08-AGENT-REPOS-AND-SKILL-WISHLIST.md](08-AGENT-REPOS-AND-SKI
 **“Gemini beat Claude 14 out of 18 tests at half price”** is an unverified anecdote lacking test prompts, scoring rubric, model versions, total token costs and independent repeatability. Model selection should depend on **task-specific current evaluation, latency, privacy, price and tool reliability**. Don't store as a universal winner (Claude for coding, Gemini for research or vice versa).
 
 **“Thanos design library”** was described as a box of design decisions — paired display/body typefaces, fixed typographic sizes, grid and motion curves. Its exact repo/vendor is **not found**. Treat “Thanos” as unresolved design-system file/reference, not the unrelated Thanos snap particle animation repository. Those decisions could live in a project DESIGN.md, not imply that the creator's library exists at a verified URL.
+
+## Sixth batch — agent-compatible apps and verification
+
+[45 — Agent-Navigable App Architecture](45-AGENT-NAVIGABLE-APP-ARCHITECTURE.md) extends AI tool design to accessible human UI, OpenAPI, MCP, and permission-aware action services. [44 — Unlazy](44-REPLICA-UNLAZY-AGENT-SKILLS-AND-TOOL-WISHLIST.md) records acceptance-ledger verification. [46 — Document Safety](46-PROMPT-INJECTION-UNTRUSTED-DOCUMENTS-AND-REEL-INGESTION.md) documents lower-trust text boundaries.
