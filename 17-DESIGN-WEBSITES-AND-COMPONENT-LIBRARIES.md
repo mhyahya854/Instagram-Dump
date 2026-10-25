@@ -79,3 +79,15 @@ A file is **a reference for an agent**, not guaranteed enforcement; browser test
 Verified official reference pages: https://minimal.gallery/ ; https://kage.design/ ; https://component.gallery/about/ ; https://designmd.ai/about ; https://styles.refero.design/ ; https://21st.dev/ ; https://ui.aceternity.com/ ; https://microkit.co/ ; https://motion-primitives.com/ ; https://animejs.com/ ; https://www.mapcn.dev/ ; https://uiverse.io/ ; https://3dicons.co/ .
 
 Related original design list: [01-DESIGN-UX.md](01-DESIGN-UX.md). Visual aesthetic vocabulary: [04-DESIGN-STYLE-LIBRARY.md](04-DESIGN-STYLE-LIBRARY.md).
+
+## Addendum — design-resource names from October 25 third reel batch
+
+| Spoken | Source / what can be verified | Confidence |
+| --- | --- | --- |
+| “Mobin curated design” | **Mobbin**, https://mobbin.com — searchable real app/screens/flows from shipping products | Strong phonetic match |
+| “SaaS pool” | **SaaSpo**, https://saaspo.com — SaaS website/marketing design inspiration | Strong phonetic match |
+| “dot design” | Many unrelated domains use those words, including physical product-design consultancies; no single source proved to be the intended UI gallery | Unresolved |
+| “Page Flows” | https://pageflows.com — documented end-to-end real-product interaction flows | Verified |
+| “Checklist Design” | https://www.checklist.design/ — website/web app/mobile page and component checklist library | Verified |
+
+**Use boundaries:** Mobbin and Page Flows display references, not source rights. Observe screen sequencing and design decisions but do not automatically reproduce copyrighted imagery or deceptive copies of a business.
