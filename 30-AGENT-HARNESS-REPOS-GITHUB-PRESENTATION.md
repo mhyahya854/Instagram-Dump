@@ -78,3 +78,9 @@ Potential implementation styles:
 - **Public repo exists** versus security/quality audit passed.
 
 Linked references: [08-AGENT-REPOS-AND-SKILL-WISHLIST.md](08-AGENT-REPOS-AND-SKILL-WISHLIST.md), [14-AGENT-PROJECT-HANDOFF-AND-WORKFLOWS.md](14-AGENT-PROJECT-HANDOFF-AND-WORKFLOWS.md), [19-AGENT-SKILLS-HOOKS-AND-CODE-ANIMATION.md](19-AGENT-SKILLS-HOOKS-AND-CODE-ANIMATION.md).
+
+## Additional raw transcript and research clarifications
+
+**“Gemini beat Claude 14 out of 18 tests at half price”** is an unverified anecdote lacking test prompts, scoring rubric, model versions, total token costs and independent repeatability. Model selection should depend on **task-specific current evaluation, latency, privacy, price and tool reliability**. Don't store as a universal winner (Claude for coding, Gemini for research or vice versa).
+
+**“Thanos design library”** was described as a box of design decisions — paired display/body typefaces, fixed typographic sizes, grid and motion curves. Its exact repo/vendor is **not found**. Treat “Thanos” as unresolved design-system file/reference, not the unrelated Thanos snap particle animation repository. Those decisions could live in a project DESIGN.md, not imply that the creator's library exists at a verified URL.
