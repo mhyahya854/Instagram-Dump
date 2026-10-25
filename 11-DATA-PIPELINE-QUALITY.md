@@ -13,8 +13,8 @@ The source system supplies **10,000 orders**. The destination table contains **4
 | Check | Example | What failure means |
 | --- | --- | --- |
 | **Completeness / count** | Expected 10,000 rows, actual 4,812 | Missing/dropped records *if* an equal count is required |
-| **Required fields / nulls** | 212 rows have \`customer_id IS NULL\` | Broken foreign-key join, attribution or contract |
-| **Uniqueness / duplicates** | Check repeated \`order_id\`; sample returns 0 duplicates | Passes this particular check, but doesn't prove records are valid |
+| **Required fields / nulls** | 212 rows have `customer_id IS NULL` | Broken foreign-key join, attribution or contract |
+| **Uniqueness / duplicates** | Check repeated `order_id`; sample returns 0 duplicates | Passes this particular check, but doesn't prove records are valid |
 | **Freshness / latency** | Newest order is 12 minutes old, below an agreed delay budget | Passes this check; stale data would fail if over threshold |
 
 **Distinction:** “Pipeline executed” reports operational success; “data is correct” needs domain-aware quality validation. Do not make every quality check pass simply by changing thresholds after failure.
@@ -53,7 +53,7 @@ The destination and source counts must be compared using the **same business win
 
 - **Schema:** required columns, types, allowed enums, nonnullable keys, valid currency units.
 - **Accuracy/ranges:** amounts within legal/expected bounds, no accidental negative totals, no lost decimal precision.
-- **Referential integrity:** each \`customer_id\` refers to a valid or intentionally anonymized customer.
+- **Referential integrity:** each `customer_id` refers to a valid or intentionally anonymized customer.
 - **Distribution/drift:** unusual changes in revenue or volume may indicate upstream bugs even when row counts pass.
 - **Exactly-once effects:** use idempotent event IDs, deduplication rules and replay-safe ingestion, not wishful claims of exactly-once networks.
 - **PII hygiene:** scrub sample errors of sensitive user data; enforce dataset access control.
@@ -62,7 +62,7 @@ The destination and source counts must be compared using the **same business win
 ## Example checks as acceptance criteria
 
 - For direct 1:1 ingest, expected destination orders = source orders for the same cutoff, allowing only a documented exception list.
-- \`order_id\` unique in the defined scope; \`customer_id\` required unless the business rule explicitly permits guest customers.
+- `order_id` unique in the defined scope; `customer_id` required unless the business rule explicitly permits guest customers.
 - No partition promoted when a **critical** rule fails.
 - The dashboard displays last successful run time and stale-data state, not a misleading green success.
 - Audit output shows exactly **which assertion failed and what rows or counts demonstrate it**.
