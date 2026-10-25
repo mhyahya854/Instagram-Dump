@@ -82,3 +82,7 @@ Possible meaning is **UI/UX Pro Max**, an existing design-intelligence skill doc
 ## “UI UX Comma Design” and the 136K-star claim
 
 The reel refers to a purported design skill “UI UX Comma Design” with 136,000 stars. It **may mean UI/UX Pro Max** (https://github.com/nextlevelbuilder/ui-ux-pro-max-skill), which is independently documented in the repo's existing skill notes. The wording and numerical claim are not conclusively matched to that upstream source. Keep **raw name and uncertainty**.
+
+## More code-media and local tools
+
+[25 — Stickman Video Pipeline](25-STICKMAN-PROGRAMMATIC-VIDEO-WORKFLOWS.md) contains a reproducible *conceptual* vector rig/storyboard/render/TTS architecture with source gaps called out. [27 — Emerging Media & Devices](27-EMERGING-AI-AGENTS-DEVICES-AND-MEDIA-TOOLS.md) contains HTML Anime, Concat, OpenCut, ARTEMIS, Strix and the website cloning skill; **none was installed here**.
