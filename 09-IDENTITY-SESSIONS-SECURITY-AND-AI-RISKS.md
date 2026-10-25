@@ -58,13 +58,13 @@ Consider limits on **IP/network** (account for proxies and shared IPs), account,
 | Export all users | No | No | No | Only with approved business need |
 | Change roles or billing settings | No | No | No | Restricted/high-risk, step-up auth |
 
-This is **an illustrative example**. Adapt to product roles, ownership, tenancy, actions and data sensitivity. Store rules alongside specifications (\`CLAUDE.md\`/\`AGENTS.md\`), **enforce them in server/database code**, and test denied cases and IDOR across tenants. Prompt instructions alone do not protect endpoints.
+This is **an illustrative example**. Adapt to product roles, ownership, tenancy, actions and data sensitivity. Store rules alongside specifications (`CLAUDE.md`/`AGENTS.md`), **enforce them in server/database code**, and test denied cases and IDOR across tenants. Prompt instructions alone do not protect endpoints.
 
 ## Five named security resources from the reel
 
 | Source | Description and application | Limitation |
 | --- | --- | --- |
-| **Supabase advisors / MCP** — https://supabase.com/docs/guides/observability/advisors | \`get_advisors\` security/performance finds missing or permissive RLS policies, exposed data, etc. Use least privilege; inspect suggestions before applying. | Cannot prove every RLS policy is safe; add deny/allow policy tests. |
+| **Supabase advisors / MCP** — https://supabase.com/docs/guides/observability/advisors | `get_advisors` security/performance finds missing or permissive RLS policies, exposed data, etc. Use least privilege; inspect suggestions before applying. | Cannot prove every RLS policy is safe; add deny/allow policy tests. |
 | **TruffleHog** — https://github.com/trufflesecurity/trufflehog | Search for leaked credentials in code/history, and check certain credential validity. | Rotate any confirmed compromise; removal from Git alone is insufficient. |
 | **Anthropic Security Guidance** — https://github.com/anthropics/claude-plugins-official/tree/main/plugins/security-guidance | Hook-based warnings plus optional LLM reviews for suspicious edits/diffs/commits; can flag injection, XSS, SSRF and auth problems. | LLM reviews can send changed code to configured provider and add cost. Best-effort only. |
 | **Google OSV-Scanner** — https://github.com/google/osv-scanner | Compare dependency versions against known open-source vulnerability advisories. | A package without known CVEs is not proven “safe”; inventory, license, maintenance and configuration also matter. |
