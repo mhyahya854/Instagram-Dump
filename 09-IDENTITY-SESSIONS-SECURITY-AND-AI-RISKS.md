@@ -98,3 +98,8 @@ One clip claims an AI could infer where a photographed oven and field are locate
 - Supabase advisors: https://supabase.com/docs/guides/observability/advisors
 - Security Guidance: https://github.com/anthropics/claude-plugins-official/blob/main/plugins/security-guidance/README.md
 - HTTP Observatory limits: https://developer.mozilla.org/en-US/observatory/docs/faq
+
+
+## New security hardening and OSI-layer collection
+
+The second reel batch adds a deeper self-contained reference at **[20 — Security, Server Hardening & OSI Layers](20-SECURITY-SERVER-HARDENING-OSI-LAYERS.md)** covering parameterized SQL, authZ, server port/firewall and SSH access planning, secrets and a seven-layer defense map. Treat AI security findings as supplementary, not guaranteed verification.
