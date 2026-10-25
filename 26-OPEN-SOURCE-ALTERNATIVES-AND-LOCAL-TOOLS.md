@@ -43,3 +43,7 @@ Recorded as **discovery**, not approved for installation or migration. The known
 ## Sixth batch — additional local projects
 
 [49 — CarLink, Whistle and OSS](49-CARLINK-SMALL-SPEECH-MODELS-AND-LOCAL-OSS.md) includes CarLink/DiPlay, Cactus Whistle speech-to-text, Handy offline dictation, Nuclear music player, AnythingLLM, Cap and OpenCut. Distinguish source-code license, bundled models, app permissions and real hardware compatibility.
+
+## Sixth batch — local and edge project additions
+
+[49 — CarLink, Whistle & Local OSS](49-CARLINK-SMALL-SPEECH-MODELS-AND-LOCAL-OSS.md) covers CarLink/DiPlay, Cactus Whistle, Handy, Nuclear, AnythingLLM, Cap and OpenCut, with licensing, privacy and platform caveats.
