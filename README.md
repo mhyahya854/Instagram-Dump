@@ -39,6 +39,11 @@ Personal, evolving design, UX, vibe-coded app and production engineering notes. 
 | [29 — UX Psychology & Laws of UX Book](29-UX-PSYCHOLOGY-LAWS-OF-UX-BOOK-AND-ETHICS.md) | Original book study guide, 10 named law chapters, ethical defaults, dark patterns, mental models |
 | [30 — Agent Harness & GitHub Presentation](30-AGENT-HARNESS-REPOS-GITHUB-PRESENTATION.md) | Tool orchestration, memory, compaction, context, Github README ideas and unresolved repos |
 | [31 — Third Reel Source Register](31-INSTAGRAM-REELS-THIRD-BATCH-REGISTER.md) | 48 distinct reel/topic fragments indexed by source and confidence |
+| [32 — Build Your Own X: First-Principles Learning](32-BUILD-YOUR-OWN-X-FIRST-PRINCIPLES-LEARNING.md) | Rebuild Git, databases, web servers and other systems to understand their internals |
+| [33 — UI, UX & CX Quality Framework](33-UI-UX-CX-SCOPE-AND-QUALITY-FRAMEWORK.md) | Interface, task experience and full customer-journey responsibilities |
+| [34 — Video Editing, Taste & Sunehra Kit](34-VIDEO-EDITING-TASTE-STORYTELLING-AND-SUNEHRA-KIT.md) | Hindi clips translated; 40+ skill kit unverified; editing craft and storytelling |
+| [35 — openGym, Mock Interviews & Reverse Engineering](35-OPENGYM-MOCK-INTERVIEW-REVERSE-ENGINEERING-RESEARCH.md) | Self-hosted fitness tracker, interview-panel specification and REA source/permissions |
+| [36 — Fourth Reel Source Register](36-INSTAGRAM-REELS-FOURTH-BATCH-REGISTER.md) | Twelve spoken fragments mapped to topic files and open questions |
 | [Transcription Notes](TRANSCRIPTION-NOTES.md) | Unclear phrases and tentative corrections retained transparently |
 
 ## Decision labels
@@ -78,3 +83,7 @@ The second October 25 collection has **26 source fragments** and **eight new sub
 Captured **48 distinct transcript fragments/topics** in **seven new Markdown files (25–31)**. These are counts of categorized *transcript portions*, not independently verified original Instagram reels. The book study guide is original explanatory material, **not reproduction of Jon Yablonski's copyrighted O'Reilly book**. The Real Stickman Stories creator guide was not present in the supplied excerpt; an independently reconstructed production architecture is documented instead. External websites are provenance, while core concepts and examples remain written inside the files.
 
 **Keep everything separate for now.** Do not automatically install any listed agent, run security penetration tests, access signed-in sessions, reproduce copyrighted designs or merge everything into a single document without an explicit future request.
+
+## Fourth reel collection — 2026-10-25
+
+Five new standalone Markdown files (32–36) capture **12 distinct source fragments**, not twelve independently verified Instagram videos. Research distinguishes verified GitHub repositories, unverified DM-only guides, portable original examples, licensing and copyright limits. Keep the files separate until explicitly asked to consolidate. **No external tools, skills or fitness software installed.**
