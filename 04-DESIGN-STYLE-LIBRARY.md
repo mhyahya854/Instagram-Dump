@@ -47,3 +47,7 @@
 ## Important cross-reference
 
 Bento grids, glassmorphism, neon/synthwave treatments, pixel motifs, and ornamental styles can be legitimate *intentional* design directions. They remain **avoid-by-default as generic AI-generated tropes** when their use is unjustified. Do not select or mix aesthetics randomly.
+
+## Icon style vocabulary (reference only)
+
+See [13 — Design Interactions & Icon Styles](13-DESIGN-INTERACTIONS-ICON-STYLES.md) for outline, filled, monoline, pixel, rounded, sharp, two-tone, Material Symbols, 3D, neon/glow, skeuomorphic, animated and adaptive icons. These are visual categories **to recognize**; they do not override the default avoidance of decorative icons, emoji placeholders or repetitive Lucide icon usage.
