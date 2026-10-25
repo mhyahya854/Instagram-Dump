@@ -32,6 +32,13 @@ Personal, evolving design, UX, vibe-coded app and production engineering notes. 
 | [22 — UX Motion, Typography, Touch and Trust](22-UX-MOTION-TYPOGRAPHY-TOUCH-AND-TRUST.md) | Anti-slop trends, mobile targets, honest progress, website prelaunch checks |
 | [23 — Data Backfills, Replay and Idempotency](23-DATA-BACKFILLS-REPLAY-AND-IDEMPOTENCY.md) | Rebuild historical periods without double counting; ledger exceptions |
 | [24 — Reel Source Register: Second Collection](24-INSTAGRAM-REELS-OCT25-BATCH-REGISTER.md) | 26 more reel fragments mapped to files with corrections and provenance |
+| [25 — Stickman & Programmatic Video](25-STICKMAN-PROGRAMMATIC-VIDEO-WORKFLOWS.md) | AI-assisted stickman animation pipeline, procedural audio, render, source limitations |
+| [26 — Open-Source Alternatives](26-OPEN-SOURCE-ALTERNATIVES-AND-LOCAL-TOOLS.md) | OpenHiggsfield, VoiceStudio, AppFlowy, OpenWhisper, OpenProject, Cal.diy, Chatwoot and unresolved names |
+| [27 — Emerging Agents & Devices](27-EMERGING-AI-AGENTS-DEVICES-AND-MEDIA-TOOLS.md) | Artemis, Atticus, Hermes Gadget, OpenCut, Concat, HTML Anime, Strix, cloner template, uncertain tools |
+| [28 — Workflow Templates & Agent Reviews](28-AUTOMATION-TEMPLATES-AGENT-REVIEWS-AND-SAFETY.md) | n8n templates, Claude review commands, CodeRabbit, Handify and workflow trust boundaries |
+| [29 — UX Psychology & Laws of UX Book](29-UX-PSYCHOLOGY-LAWS-OF-UX-BOOK-AND-ETHICS.md) | Original book study guide, 10 named law chapters, ethical defaults, dark patterns, mental models |
+| [30 — Agent Harness & GitHub Presentation](30-AGENT-HARNESS-REPOS-GITHUB-PRESENTATION.md) | Tool orchestration, memory, compaction, context, Github README ideas and unresolved repos |
+| [31 — Third Reel Source Register](31-INSTAGRAM-REELS-THIRD-BATCH-REGISTER.md) | 48 distinct reel/topic fragments indexed by source and confidence |
 | [Transcription Notes](TRANSCRIPTION-NOTES.md) | Unclear phrases and tentative corrections retained transparently |
 
 ## Decision labels
@@ -65,3 +72,9 @@ The October 25, 2026 user-supplied Instagram reel batch is organized into **nine
 ## Second Instagram reel collection: offline-first knowledge
 
 The second October 25 collection has **26 source fragments** and **eight new subject/source files (17–24)**. The original 22 design-resource names are catalogued even where the spoken identity is unresolved. Preserve standalone topic files until a separate, user-approved consolidation is requested. Treat external links as provenance, not as the only documentation; the core explanations and examples remain in these Markdown files.
+
+## Third source batch — programmatic media, tools, UX and agent systems
+
+Captured **48 distinct transcript fragments/topics** in **seven new Markdown files (25–31)**. These are counts of categorized *transcript portions*, not independently verified original Instagram reels. The book study guide is original explanatory material, **not reproduction of Jon Yablonski's copyrighted O'Reilly book**. The Real Stickman Stories creator guide was not present in the supplied excerpt; an independently reconstructed production architecture is documented instead. External websites are provenance, while core concepts and examples remain written inside the files.
+
+**Keep everything separate for now.** Do not automatically install any listed agent, run security penetration tests, access signed-in sessions, reproduce copyrighted designs or merge everything into a single document without an explicit future request.
