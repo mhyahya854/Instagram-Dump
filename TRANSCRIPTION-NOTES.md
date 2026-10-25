@@ -42,6 +42,20 @@ Original dictations contain speech-to-text artifacts. Preserve intent and avoid 
 - “base properties” — likely BASE properties.
 - “state attention policies” — likely data retention policies.
 
+## Hindi Instagram series — “45 UX Laws” (2026-10-25)
+
+English-translated clips and the *curated* 45-principle learning reference are in [07-45-UX-LAWS-ENGLISH.md](07-45-UX-LAWS-ENGLISH.md). The original creator/page and original Days 12–45 are **not verified**.
+
+- **“Weber Illusion”** is the spoken Day 1 wording. Weber's Illusion is a documented perceptual phenomenon, **not an alternative label for Weber's Law**, which concerns proportional discrimination. Both are distinct; do not silently merge.
+- **“Hicks Slot”** → likely Hick's Law (Day 2).
+- **“Hit Slot”** → likely Fitts's Law; episode transcription repeats **Day 5** even though it seems to fit Day 3 by order. Preserve that uncertainty.
+- **“Jake Up Slot”** → Jakob's Law (Day 4).
+- **“Visible Stock”** plus incomplete “hum padhte toh…” → Day 5 **unidentified**; do not guess a law.
+- **“Hole Gradient Effect”** → Goal-Gradient Effect (Day 7).
+- Days 6, 8, 9, 10, and 11 map to Zeigarnik Effect, Peak-End Rule, Von Restorff Effect, Serial Position Effect, and Aesthetic–Usability Effect respectively.
+- Day 8 and Day 10 example scenes and Day 11 credit-card-bill comparison are clipped. Their missing material was not invented.
+- Number **45** refers to the series framing. A known Laws of UX list has **30 items**; the additional 15 in our reference are independently sourced design/psychology concepts, not claims about unretrieved Instagram videos.
+
 ## Handling new notes
 
 1. Record exact phrases if needed.
