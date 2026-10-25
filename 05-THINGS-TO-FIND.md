@@ -154,3 +154,7 @@ For each lead, record:
 - [17 — Design Websites and Component Libraries](17-DESIGN-WEBSITES-AND-COMPONENT-LIBRARIES.md) catalogs 22 spoken names with confidence labels and unresolved leads.
 - [19 — Agent Skills, Hooks and Code Animation](19-AGENT-SKILLS-HOOKS-AND-CODE-ANIMATION.md) catalogs Get Shit Done, CodeRabbit, Emil Kowalski Apple Design, SlopMonster and uncertain names.
 - These entries are **not approved for privileged installation or execution** by being written down.
+
+## VoiceStudio source identity correction — third reel batch
+
+The earlier `voicestudiohq/voicestudio` is **not the same product** as the local cross-platform **`debpalash/VoiceStudio`** (https://github.com/debpalash/VoiceStudio), which the later reels specifically describe as Windows/macOS/Linux local voice clone/design/dubbing. Record both source identities separately. Do **not** treat the earlier macOS-only compatibility note as applying to `debpalash/VoiceStudio`. Review the license for the app **and** model weights separately. Details in [26 — Alternatives](26-OPEN-SOURCE-ALTERNATIVES-AND-LOCAL-TOOLS.md).
