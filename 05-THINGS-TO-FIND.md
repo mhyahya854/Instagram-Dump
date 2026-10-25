@@ -162,3 +162,11 @@ The earlier `voicestudiohq/voicestudio` is **not the same product** as the local
 ## Third source batch: newly researched GitHub projects (catalog only)
 
 See [27 — Emerging Agents, Devices & Tools](27-EMERGING-AI-AGENTS-DEVICES-AND-MEDIA-TOOLS.md): **google/artemis**, **usestrix/strix**, **OpenCut-app/OpenCut**, **jub0t/Concat**, **blixvip/html-anime**, **JCodesMore/ai-website-cloner-template**, **SaarthurR/atticus-mac**, **Adolanium/hermes-gadget-sdk** and other uncertain devices. See [26 — Open Source Alternatives](26-OPEN-SOURCE-ALTERNATIVES-AND-LOCAL-TOOLS.md) for AppFlowy, OpenHiggsfield, VoiceStudio, OpenProject, OpenWhisper and Cal.diy. None is automatically approved for installation merely by being researched.
+
+## Addition — xtool (iOS development, 2026-10-25)
+
+| Name | Verified repository | Category | Status |
+| --- | --- | --- | --- |
+| **xtool for iOS** | [`xtool-org/xtool`](https://github.com/xtool-org/xtool), official https://xtool.sh/ | SwiftPM-based iOS app building, signing, installing and launching from Linux/Windows via WSL/macOS, plus Apple Developer Services and device CLI | **Verified; user-requested reference. Not installed/security-reviewed.** |
+
+This is a **developer tool rather than an agent skill**. Its platform setup, Apple credential handling and supported SwiftPM workflows matter. See [27 — Emerging AI Agents, Devices & Media Tools](27-EMERGING-AI-AGENTS-DEVICES-AND-MEDIA-TOOLS.md) for the practical scope and limitations.
