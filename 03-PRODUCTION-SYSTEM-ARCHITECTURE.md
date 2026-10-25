@@ -139,3 +139,14 @@
 - “State attention policies” likely **data retention policies**.
 
 All mappings above are retained as interpretation notes, not treated as quotes from a formal specification.
+
+## Additional production failure case studies (October 25 reels)
+
+- **Former employees still logged in:** [09 — Sessions & Security](09-IDENTITY-SESSIONS-SECURITY-AND-AI-RISKS.md) distinguishes opaque sessions, stateless JWTs, refresh-token revocation and immediate authorization requirements.
+- **Huge cloud bills from API abuse:** file 09 covers user/IP/request/cost rate limits, server-side credentials, permissions matrices and billing alerts.
+- **AI destroys production data while adding a feature:** [10 — Database Transactions & Migrations](10-DATABASE-TRANSACTIONS-AND-MIGRATIONS.md) adds scoped production access, staging, restore tests and safe migration rollout/forward recovery.
+- **Concurrent transfer fraud:** file 10 explains ACID, isolation, row locks, atomic conditional updates and idempotency rather than assuming a transaction alone solves concurrency.
+- **Green pipeline publishes corrupted analytics:** [11 — Data Pipeline Quality](11-DATA-PIPELINE-QUALITY.md) adds completeness/null/uniqueness/freshness tests as a publish gate.
+- **Vague agent prompts:** [14 — Agent Project Handoff](14-AGENT-PROJECT-HANDOFF-AND-WORKFLOWS.md) adds explicit goal, audience, core flows, stack, change permissions and definition-of-done.
+
+These case studies refine existing checks; they are not an instruction to install every listed tool or run privileged security tests automatically.
