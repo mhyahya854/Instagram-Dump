@@ -150,3 +150,11 @@ All mappings above are retained as interpretation notes, not treated as quotes f
 - **Vague agent prompts:** [14 — Agent Project Handoff](14-AGENT-PROJECT-HANDOFF-AND-WORKFLOWS.md) adds explicit goal, audience, core flows, stack, change permissions and definition-of-done.
 
 These case studies refine existing checks; they are not an instruction to install every listed tool or run privileged security tests automatically.
+
+## Second reel batch: security, networks and replay safety
+
+- [20 — Security, Server Hardening and OSI Layers](20-SECURITY-SERVER-HARDENING-OSI-LAYERS.md): parameterized SQL, authorization, server ports, SSH/firewall care, token/secret handling and layered network protection.
+- [21 — Systems and Network Glossary](21-ARCHITECTURE-SYSTEMS-NETWORKS-GLOSSARY.md): network protocols, concurrency, caching, scaling, CI/CD, monitoring and recovery.
+- [23 — Safe Data Backfills](23-DATA-BACKFILLS-REPLAY-AND-IDEMPOTENCY.md): replay historical data without duplicating revenue, considering event logs and legitimate immutable ledgers.
+
+These extend earlier checks. No live infrastructure changes were performed.
