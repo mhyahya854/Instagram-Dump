@@ -72,3 +72,7 @@ See [11 — Data Pipeline Quality](11-DATA-PIPELINE-QUALITY.md): a successful ba
 ## Fourth reel batch: UX/CX end-to-end quality
 
 [33 — UI, UX & CX](33-UI-UX-CX-SCOPE-AND-QUALITY-FRAMEWORK.md) connects working product tasks to marketing promises, purchasing/support, and service reliability. Check meaningful user success across interfaces and customer touchpoints, not only “looks good.”
+
+## Fifth reel batch: release checklist with evidence
+
+[37 — Website Prelaunch & Release Checklist](37-WEBSITE-PRELAUNCH-RELEASE-CHECKLIST.md) covers mobile, actual link/form/email/WhatsApp behavior, real payments, HTTPS, performance, GA4, Search Console, social previews and backup restore drills. [41 — Legal/Privacy](41-LEGAL-PRIVACY-COMPLIANCE-CLAIMS.md) adds jurisdiction-sensitive compliance questions. A prompt-only checklist is **not** verification the checks ran.
