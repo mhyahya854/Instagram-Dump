@@ -60,3 +60,7 @@
 See [12 — Product Marketing, Pricing & Homepages](12-PRODUCT-MARKETING-PRICING-HOMEPAGES.md): clearly communicate product and target audience, offer a real first-use result, keep onboarding proportionate, and prefer genuine evidence and usable CTAs over fake social proof or decorative splash screens. These are **considerations**, not a demand to hide important pricing/features or automate spam submissions.
 
 See [11 — Data Pipeline Quality](11-DATA-PIPELINE-QUALITY.md): a successful background job does not imply valid data; enforce checks before publishing dashboards. See [14 — Agent Project Handoff](14-AGENT-PROJECT-HANDOFF-AND-WORKFLOWS.md) for goals, boundaries and acceptance tests.
+
+## Second reel batch: product-completeness check
+
+[22 — UX Motion, Touch and Trust](22-UX-MOTION-TYPOGRAPHY-TOUCH-AND-TRUST.md) extends the checks to mobile overflow, accessible controls, links, titles/metadata, functioning forms and authentic loading/progress. [20 — Security Hardening](20-SECURITY-SERVER-HARDENING-OSI-LAYERS.md) adds server/API safety. Do not mistake a beautiful screen or an AI security prompt for a verified product.
