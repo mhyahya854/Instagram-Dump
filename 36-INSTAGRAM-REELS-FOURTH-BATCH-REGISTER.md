@@ -33,3 +33,7 @@ Captured: **2026-10-25**. The list is an editorial breakdown of **distinct speec
 ## Offline-first and future merge
 
 Keep files 32–36 separate. If consolidation is later requested, retain definitions, primary source status, uncertainty, permissions/licensing, example implementations, version/dates and citations. Text is a **human-readable knowledge archive**, not a backup of live GitHub repositories or paywalled material. Previous source registers: [16](16-INSTAGRAM-REELS-SOURCE-REGISTER.md), [24](24-INSTAGRAM-REELS-OCT25-BATCH-REGISTER.md), [31](31-INSTAGRAM-REELS-THIRD-BATCH-REGISTER.md).
+
+## Later fifth source batch
+
+[43 — Fifth Reel Source Register](43-INSTAGRAM-REELS-FIFTH-BATCH-REGISTER.md) indexes 12 new spoken fragments: web launch QA, Doory, UX error prevention, embeddings, MiroFish, REA, jurisdictional privacy/legal risks, and personal data-broker removal. Keep batch origins separate.
