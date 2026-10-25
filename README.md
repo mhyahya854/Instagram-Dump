@@ -51,6 +51,15 @@ Personal, evolving design, UX, vibe-coded app and production engineering notes. 
 | [41 — Launch Legal & Privacy Claims](41-LEGAL-PRIVACY-COMPLIANCE-CLAIMS.md) | German remote-font judgment, CIPA, CAN-SPAM, renewal terms and DMCA applicability |
 | [42 — Personal Digital-Footprint Removal](42-DIGITAL-FOOTPRINT-DATA-BROKER-REMOVAL.md) | Self-service privacy opt-outs, identity protections and realistic removal limits |
 | [43 — Fifth Reel Source Register](43-INSTAGRAM-REELS-FIFTH-BATCH-REGISTER.md) | Twelve distinct transcript fragments, verified claims, unresolved speech |
+| [44 — replica unlazy agent skills and tool wishlist](44-REPLICA-UNLAZY-AGENT-SKILLS-AND-TOOL-WISHLIST.md) | Replica, Unlazy, GSD, Ralph, Taste, CodeRabbit, Brag, unresolved skills |
+| [45 — agent navigable app architecture](45-AGENT-NAVIGABLE-APP-ARCHITECTURE.md) | Accessible interfaces, stable API actions, MCP, scoped permissions and tests |
+| [46 — prompt injection untrusted documents and reel ingestion](46-PROMPT-INJECTION-UNTRUSTED-DOCUMENTS-AND-REEL-INGESTION.md) | Trojan document detectors, prompt-injection boundaries and reel-to-knowledge ingestion |
+| [47 — ai engineering learning model training rag](47-AI-ENGINEERING-LEARNING-MODEL-TRAINING-RAG.md) | AI curriculum, model pretraining, LoRA, fine-tuning and RAG |
+| [48 — ai design video seo marketing references](48-AI-DESIGN-VIDEO-SEO-MARKETING-REFERENCES.md) | Prompt Motion, design tools, video editing, marketing copy and realistic SEO |
+| [49 — carlink small speech models and local oss](49-CARLINK-SMALL-SPEECH-MODELS-AND-LOCAL-OSS.md) | CarLink Android-to-CarPlay, Whistle, Handy, local software research |
+| [50 — programming system design guides free llm apis](50-PROGRAMMING-SYSTEM-DESIGN-GUIDES-FREE-LLM-APIS.md) | Architecture, SQL, APIs, Rust/Java, DevOps, AWS, free LLM API sources |
+| [51 — universal rules research proposals](51-UNIVERSAL-RULES-RESEARCH-PROPOSALS.md) | Proposed skills-only workflows and evidence rules; NOT ratified |
+| [52 — instagram reels sixth batch register](52-INSTAGRAM-REELS-SIXTH-BATCH-REGISTER.md) | All 48 transcript fragments, skips, corrections and source provenance |
 | [Transcription Notes](TRANSCRIPTION-NOTES.md) | Unclear phrases and tentative corrections retained transparently |
 
 ## Decision labels
@@ -98,3 +107,7 @@ Five new standalone Markdown files (32–36) capture **12 distinct source fragme
 ## Fifth reel collection — 2026-10-25
 
 **Seven additional standalone files (37–43)** document **12 transcript fragments**, not 12 independently verified original reels. The legal section is a jurisdiction-specific research inventory, **not a lawyer's clearance or a completed website audit**. The self-service privacy notes must **never** contain personal addresses or other sensitive listings in this public repository. Existing UX and production rules are referenced, not overwritten. No tools installed, external accounts connected, website deployed or privacy-removal forms submitted.
+
+## Sixth collection — safe offline reference
+
+The October 25 pasted sixth batch is indexed in [52 — Sixth Register](52-INSTAGRAM-REELS-SIXTH-BATCH-REGISTER.md). The 48 counted items are **editorially separated fragments**, not 48 independently verified videos. Each subject remains self-contained in 44–51. Browser games were skipped on request. The Universal-Rules research ideas remain **proposals in Instagram-Dump** and were not merged into the separate rules project. All external code/skills remain **not installed**.
