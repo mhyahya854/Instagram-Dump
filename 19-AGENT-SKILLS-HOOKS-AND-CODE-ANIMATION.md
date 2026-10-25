@@ -86,3 +86,7 @@ The reel refers to a purported design skill “UI UX Comma Design” with 136,00
 ## More code-media and local tools
 
 [25 — Stickman Video Pipeline](25-STICKMAN-PROGRAMMATIC-VIDEO-WORKFLOWS.md) contains a reproducible *conceptual* vector rig/storyboard/render/TTS architecture with source gaps called out. [27 — Emerging Media & Devices](27-EMERGING-AI-AGENTS-DEVICES-AND-MEDIA-TOOLS.md) contains HTML Anime, Concat, OpenCut, ARTEMIS, Strix and the website cloning skill; **none was installed here**.
+
+## Sixth batch — more skills, video references and loop safety
+
+[44 — Skill Wishlist](44-REPLICA-UNLAZY-AGENT-SKILLS-AND-TOOL-WISHLIST.md) adds Replica, Unlazy, Anthropic Ralph Loop, Brag, uncertain Zero Code and vendor verification. [48 — Prompt Motion](48-AI-DESIGN-VIDEO-SEO-MARKETING-REFERENCES.md) adds the motion gallery and Pocket Creative Director research. Persistent loops and executable hooks require explicit scope, permissions, budgets and a tested stop condition.
