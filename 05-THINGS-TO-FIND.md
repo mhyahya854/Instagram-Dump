@@ -170,3 +170,13 @@ See [27 — Emerging Agents, Devices & Tools](27-EMERGING-AI-AGENTS-DEVICES-AND-
 | **xtool for iOS** | [`xtool-org/xtool`](https://github.com/xtool-org/xtool), official https://xtool.sh/ | SwiftPM-based iOS app building, signing, installing and launching from Linux/Windows via WSL/macOS, plus Apple Developer Services and device CLI | **Verified; user-requested reference. Not installed/security-reviewed.** |
 
 This is a **developer tool rather than an agent skill**. Its platform setup, Apple credential handling and supported SwiftPM workflows matter. See [27 — Emerging AI Agents, Devices & Media Tools](27-EMERGING-AI-AGENTS-DEVICES-AND-MEDIA-TOOLS.md) for the practical scope and limitations.
+
+## Fourth reel batch: education, local fitness and agent skill research
+
+- **Build Your Own X:** [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) — verified educational tutorial index; [first-principles learning notes](32-BUILD-YOUR-OWN-X-FIRST-PRINCIPLES-LEARNING.md).
+- **openGym:** [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) — verified local/self-hostable workout tracker, subject to source/media licenses; [review](35-OPENGYM-MOCK-INTERVIEW-REVERSE-ENGINEERING-RESEARCH.md).
+- **Reverse Engineer Anything (REA):** [morluto/rea](https://github.com/morluto/rea) — verified agent-based application analysis, **not** authorization to bypass subscriptions/DRM or copy protected code; [review](35-OPENGYM-MOCK-INTERVIEW-REVERSE-ENGINEERING-RESEARCH.md).
+- **Five Claude avatar interview panel:** source website/repo **unresolved**, preserve as functional concept; [panel design notes](35-OPENGYM-MOCK-INTERVIEW-REVERSE-ENGINEERING-RESEARCH.md).
+- **“Sunehra” 40+ editing skill kit:** creator's promised DM guide/repo **not provided/verified**; [conceptual editing study notes](34-VIDEO-EDITING-TASTE-STORYTELLING-AND-SUNEHRA-KIT.md).
+
+**All new choices are catalog entries only; none installed, automatically trusted or security-approved.**
