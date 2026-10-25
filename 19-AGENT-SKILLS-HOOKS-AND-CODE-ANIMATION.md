@@ -90,3 +90,7 @@ The reel refers to a purported design skill “UI UX Comma Design” with 136,00
 ## Sixth batch — more skills, video references and loop safety
 
 [44 — Skill Wishlist](44-REPLICA-UNLAZY-AGENT-SKILLS-AND-TOOL-WISHLIST.md) adds Replica, Unlazy, Anthropic Ralph Loop, Brag, uncertain Zero Code and vendor verification. [48 — Prompt Motion](48-AI-DESIGN-VIDEO-SEO-MARKETING-REFERENCES.md) adds the motion gallery and Pocket Creative Director research. Persistent loops and executable hooks require explicit scope, permissions, budgets and a tested stop condition.
+
+## Sixth batch — additional skills and media sources
+
+[44 — Skill Research](44-REPLICA-UNLAZY-AGENT-SKILLS-AND-TOOL-WISHLIST.md) records Replica, Unlazy, Anthropic Ralph Loop, Brag and unresolved model-router claims. [48 — Prompt Motion and Creative Direction](48-AI-DESIGN-VIDEO-SEO-MARKETING-REFERENCES.md) researches Prompt Motion/Pocket Creative Director. Executable hooks and persistent loops need explicit permissions, budgets and stop conditions.
