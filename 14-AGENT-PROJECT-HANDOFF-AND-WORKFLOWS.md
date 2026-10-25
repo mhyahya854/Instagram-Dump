@@ -83,3 +83,7 @@ Keep the project-specific handoff file alongside the source rulebook. When conso
 ## Sixth batch — verifiable skill-based work
 
 [44 — Unlazy/Replica and Agent Skills](44-REPLICA-UNLAZY-AGENT-SKILLS-AND-TOOL-WISHLIST.md) defines a **completion contract** with traceable evidence rather than trusting a “done” response. [51 — Universal-Rules Proposals](51-UNIVERSAL-RULES-RESEARCH-PROPOSALS.md) proposes keeping detailed project workflows in on-demand skills while minimal permanent rules preserve authorization and privacy. **Not yet ratified in Universal-Rules.**
+
+## Sixth batch — verifiable agent completion and skills
+
+[44 — Replica/Unlazy Skills](44-REPLICA-UNLAZY-AGENT-SKILLS-AND-TOOL-WISHLIST.md) explains scope-first acceptance and independent evidence, rather than trusting “done”. [51 — Universal-Rules Research Proposals](51-UNIVERSAL-RULES-RESEARCH-PROPOSALS.md) proposes project workflows as on-demand skills, while keeping always-on permission safeguards. **Not ratified in Universal-Rules.**
