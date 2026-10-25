@@ -66,3 +66,7 @@ This repository is a **human-readable, self-contained interpretation archive**. 
 ## Separate October 25 reel collection
 
 A later, separate transcript covering 26 more fragments (design websites, learning channels, skills, site hardening, OSI layers, backfills, touch targets and UX effects) is indexed at **[24 — Second Reel Source Register](24-INSTAGRAM-REELS-OCT25-BATCH-REGISTER.md)**. Keep the two source batches distinct instead of altering this first register.
+
+## Second, separate Instagram reel collection
+
+A later batch of **26 distinct fragments**, including websites, UI education, agent skills, security, OSI layers and backfills, is indexed in **[24 — Second Source Register](24-INSTAGRAM-REELS-OCT25-BATCH-REGISTER.md)**. Keep the two source sets separate for provenance and future merging.
