@@ -188,7 +188,33 @@ This is a **reusable goal-oriented audit prompt**, not evidence that any app has
 - OWASP: **Information Exposure Through Query Strings** — https://community.owasp.org/vulnerabilities/Information_exposure_through_query_strings_in_url
 - MDN: **Referrer-Policy** — https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/Referrer-Policy
 
-## 11. Related archive documents
+
+## 12. Domain, URL ownership and deployment exposure
+
+URL protection also means protecting **the app's public web address and every alternate host** (preview deployments, staging, old domains and redirects), not just sanitizing query strings.
+
+- **Domain account and DNS:** enable MFA/2FA on domain registrar and hosting; restrict DNS editing privileges; monitor unexpected changes/expiry. Use registrar lock and DNSSEC where supported/appropriate, with careful key/rollover management. DNSSEC is not a substitute for HTTPS/TLS.
+- **Canonical hostname:** decide whether `www` or bare domain is canonical; enforce consistent HTTPS redirect and avoid trusting arbitrary `Host`/`X-Forwarded-Host` headers when generating password reset links or absolute redirects. Behind a proxy, configure trusted proxies and allowed hostnames.
+- **TLS:** valid certificate with automatic renewal, correct TLS redirect, no mixed content, `Secure` session cookies, and consider HSTS **only after** all relevant subdomains and HTTPS behavior are verified; a badly configured `includeSubDomains` can lock out old hosts.
+- **Subdomain takeover:** stale CNAMEs/records to disconnected Vercel/Netlify/GitHub Pages/storage resources may be claimable by other parties. Maintain a DNS inventory, verify resource ownership, remove abandoned records.
+- **Preview/staging URLs:** don't treat a complex preview URL as a password; protect staging with authentication when it includes real customer data, admin consoles, test payments, unreleased features or privileged API credentials.
+- **Email verification/reset URLs:** build absolute links from configured trusted origin rather than request-controlled headers; use scoped expiring one-time tokens and avoid third-party assets/analytics on token landing pages where leakage is a risk.
+- **Deep links/app links:** Android App Links and iOS Universal Links need proper domain-to-app association, allowlisted schemes and authorization once opened; a deep link to a privileged screen must not bypass login/server permissions.
+- **Link management:** log when external destination links are changed, monitor abused public URL shorteners, and consider warning UX for destinations outside the trusted product.
+
+### Additional verification gates
+
+| Test ID | Scenario | Expected |
+|---|---|---|
+| URL-19 | Send spoofed Host/forwarded-host header to a test account-reset action | Generated absolute URLs remain on configured trusted hostname |
+| URL-20 | Inspect old DNS CNAMEs, preview app, retired domain, cloud storage endpoints | No orphaned claimable integration or accidentally public tenant data |
+| URL-21 | Confirm HTTPS and certificate renewals across canonical and allowed alternate domains | Correct redirection, trusted certificate, no mixed content |
+| URL-22 | Open unpublished staging/preview URL from logged-out browser | Environment correctly gated or explicitly sanitized public demo |
+| URL-23 | Launch mobile deep link to protected record while logged out or as another user | App sign-in and actual server object authorization enforced |
+
+These are conditional controls; a local-only private app may have no public domains, DNS, OAuth or website at all. **Do not add complex infrastructure just because it appears on a checklist.**
+
+## 13. Related archive documents
 
 [03 — Production Architecture](03-PRODUCTION-SYSTEM-ARCHITECTURE.md); [09 — Authentication and Session Risks](09-IDENTITY-SESSIONS-SECURITY-AND-AI-RISKS.md); [20 — App/Server Security](20-SECURITY-SERVER-HARDENING-OSI-LAYERS.md); [56 — JWT and Dependencies](56-AUTHENTICATION-JWT-REVOCATION-DEPENDENCY-SECURITY.md); [57 — Security Verification](57-RETICLE-ADVERSARIAL-REVIEWS-SECURITY-GATES.md); [78 — Security Checks 55–70](78-SECURITY-CHECKS-55-70-GRAPHQL-AND-AI-PERMISSIONS.md); [37 — Prelaunch Checklist](37-WEBSITE-PRELAUNCH-RELEASE-CHECKLIST.md).
 
