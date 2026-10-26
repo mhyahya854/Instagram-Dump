@@ -102,3 +102,7 @@ The reel refers to a purported design skill “UI UX Comma Design” with 136,00
 ## Eighth source batch: optional GSAP, registry MCPs, design and video skills
 
 [62 — Immersive Website Skills](62-IMMERSIVE-WEB-GSAP-TASTE-21ST-SHADCN-MCP.md) separates GSAP animation engine, community agent skills, possible Taste skill, 21st MCP and shadcn MCP. [63 — Ten Skills](63-TEN-AGENT-SKILLS-WEB-ASSETS-SLIDES-IOS-SUPABASE-MARKETING.md) includes web asset generation, HTML presentations, iOS simulator skills, Supabase, Emil Kowalski, HyperFrames, Impeccable and Find Skills. **“Test” and “Mills” are likely transcription errors, not confirmed identities.** No skills installed or executed.
+
+## Twelfth screenshot batch — DESIGN.md, prompts and motion tools
+
+[95 — Better Vibe-Coding Prompts](95-BETTER-VIBE-CODING-PROMPTS-SIX-SOURCES.md) catalogs the screenshot's **Vibe Code Source**, **nxcode**, **awesome-design-md**, **Google's DESIGN.md**, **Notion Prompt Library** and **Site of Sites** with ambiguous original URLs marked clearly. [89 — Design Systems](89-DESIGN-SYSTEMS-SIX-SOURCES.md) distinguishes independent DESIGN.md providers; Google's alpha spec is https://github.com/google-labs-code/design.md . [88 — UI Animations](88-UI-UX-ANIMATIONS-SIX-SOURCES.md) includes Ripplix/60fps/Animista/Motion/LottieFiles/GSAP. None were installed or run.
