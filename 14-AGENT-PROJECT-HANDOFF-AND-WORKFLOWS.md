@@ -87,3 +87,7 @@ Keep the project-specific handoff file alongside the source rulebook. When conso
 ## Sixth batch — verifiable agent completion and skills
 
 [44 — Replica/Unlazy Skills](44-REPLICA-UNLAZY-AGENT-SKILLS-AND-TOOL-WISHLIST.md) explains scope-first acceptance and independent evidence, rather than trusting “done”. [51 — Universal-Rules Research Proposals](51-UNIVERSAL-RULES-RESEARCH-PROPOSALS.md) proposes project workflows as on-demand skills, while keeping always-on permission safeguards. **Not ratified in Universal-Rules.**
+
+## Seventh reel addendum: independent critique and complete QA
+
+[57 — Reticle and Adversarial Review](57-RETICLE-ADVERSARIAL-REVIEWS-SECURITY-GATES.md) adds runtime acceptance/replay and independent code-security checks. [58 — AI Sycophancy and Critical Thinking](58-AI-SYCOPHANCY-CRITICAL-THINKING-LLM-COUNCIL.md) distinguishes evidence from AI agreement and records a method to challenge unsupported assumptions. Source [60](60-INSTAGRAM-REELS-SEVENTH-BATCH-REGISTER.md) retains reel-specific claims and uncertainty.
