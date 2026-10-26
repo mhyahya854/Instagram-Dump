@@ -128,6 +128,16 @@ Personal, evolving design, UX, vibe-coded app and production engineering notes. 
 | [118 — 500 AI Agents + Agentation](118-FIVE-HUNDRED-AI-AGENTS-AND-AGENTATION-UI-FEEDBACK.md) | Verified 500-AI-Agents-Projects and Agentation UI visual-feedback repo |
 | [119 — Windows Classic Context Menu](119-WINDOWS-11-CONTEXT-MENU-REGISTRY-COMMANDS-ARCHIVE.md) | Exact saved registry/Explorer commands, safe reversibility notes, unverified fragment |
 | [120 — Fourteenth Screenshot Register](120-INSTAGRAM-REELS-FOURTEENTH-BATCH-REGISTER.md) | Nineteen screenshot inventory, one typed Agentation lead, original claims vs independently researched sources |
+| [121 — RuView Wireless Sensing](121-RUVIEW-WIFI-SPATIAL-SENSING-RESEARCH.md) | ruvnet/RuView Wi-Fi sensing architecture; hardware verification, privacy and calibration |
+| [122 — Qalb, Bonsai-2, Are.na, OmniVoice](122-QALB-URDU-BONSAI2-ARENA-OMNIVOICE-RESEARCH.md) | Urdu LLM model lead, compressed local model, design curation and unresolved voice-logo identity |
+| [123 — Five Image-Editing Prompts](123-IMAGE-EDITING-FIVE-EXACT-INSTAGRAM-PROMPTS.md) | Exact removal, background, outfit, expansion and colour-grade prompts including source typos |
+| [124 — Coding Stack and Agent Workflow](124-COST-CONSCIOUS-STACK-GSD-ROO-RALPH-CODERABBIT-LINKEDIN.md) | Neon, Cloudflare, R2, GSD, Roo, Ralph, CodeRabbit, LinkedIn skill and docs-to-execution |
+| [125 — Forced Connection + Five Whys](125-FORCED-CONNECTION-AND-FIVE-WHYS-PRACTICAL-PLAYBOOK.md) | Two detailed creative/diagnostic methods, worked examples, validation and practical templates |
+| [126 — JEV + Browser Use](126-JEV-ULTRAFAST-AND-BROWSER-USE-AGENT-OPERATION-GUIDE.md) | Exact sourced setup, browser harness, safe agent loop, actual verification and permissions |
+| [127 — AI Agent Skills + Graft](127-GITHUB-AGENT-SKILLS-AND-GRAFT-MULTIPLE-PROJECTS.md) | Skill vetting and three distinct Graft products, including code memory and enterprise workflows |
+| [128 — Clicky](128-CLICKY-AI-SCREEN-BUDDY-AND-NAME-COLLISIONS.md) | Probable Farza AI cursor teacher and distinct Clicky security platform, identity unresolved |
+| [129 — Agency Agents, Memory, OpenMontage](129-AGENCY-AGENTS-AGENT-MEMORY-OPENMONTAGE-VISUAL-CARDS.md) | Source-exact large-number visual frames 1, 4, 5; missing links preserved as unknown |
+| [130 — Fifteenth Screenshot Register](130-INSTAGRAM-REELS-FIFTEENTH-BATCH-SOURCE-REGISTER.md) | Complete 18-image inventory, six typed research leads, provenance and access limitations |
 | [Transcription Notes](TRANSCRIPTION-NOTES.md) | Unclear phrases and tentative corrections retained transparently |
 
 ## Decision labels
@@ -215,3 +225,7 @@ Nineteen user-uploaded screenshots (one trending-tool collage, **seven** Hermes 
 ## Fourteenth Instagram screenshot and research batch — 2026-10-26
 
 **Completed archive:** **19 screenshot panels** and one separately typed **Agentation** GitHub research lead. **Ten individual Markdown documents (111–120)** preserve Manim versions, five Three.js/GSAP/design/motion/Genjutsu agent skills, FreeLLMAPI free-tier router claims, five open-source alternatives, Tencent Octop, twenty SEO reel tips, PixiJS ASCII flower technique and separate brilliant.org comment, 500 AI Agent projects, Agentation visual feedback, and exact Windows 11 context-menu registry commands (never run). Source images are not re-uploaded publicly. [120 — Full Source Register](120-INSTAGRAM-REELS-FOURTEENTH-BATCH-REGISTER.md) maps every image. No installations, registry writes, machine changes, accounts accessed or Universal-Rules edits.
+
+## Fifteenth Instagram screenshot/research collection — 2026-10-26
+
+**Ten new topic documents (121–130)** cover the 18 mounted original screenshots: RuView, Qalb Urdu AI, PrismML Bonsai-2, Are.na, five exact orange image-editing prompts, OmniVoice (identity unresolved), Neon/Cloudflare/R2 cost advice, GSD/Roo/Ralph/CodeRabbit workflows, a LinkedIn agent skill, three-file PRD-to-implementation instructions, and source cards **1 Agency Agents / 4 Agent Memory / 5 OpenMontage**. The user's typed additions are individually researched: **Clicky, Forced Connection, Five Whys, JEV, Browser Use, GitHub agent skills and Graft**. [130 — Source Register](130-INSTAGRAM-REELS-FIFTEENTH-BATCH-SOURCE-REGISTER.md) preserves the original-to-research distinction and notes three later inline images were not available for extraction at the time. **No apps installed, models downloaded, images edited, browser agents run or Universal-Rules changed.**
