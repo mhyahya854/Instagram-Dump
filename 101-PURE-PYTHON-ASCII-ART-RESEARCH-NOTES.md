@@ -55,3 +55,7 @@ Rotating cube/torus with depth buffer and normal-shading, particle rain/starfiel
 ## Safety and provenance
 
 No internet content was executed and no skill was installed. File 100 is **new authored source**, not “exact code from Instagram”. [Hitodama for Windows](99-WINDOWS-HITODAMA-AI-DESKTOP-ASSISTANT.md) is a separate independent research item. [Source Register](102-INSTAGRAM-REELS-TWELFTH-BATCH-REGISTER.md).
+
+## Related but NOT standard-library Python: PixiJS ASCII Lily Bouquet
+
+[117 — PixiJS ASCII Lily](117-PIXIJS-ASCII-LILY-FLOWERS-AND-BRILLIANT-DISCOVERY.md) preserves a comment suggesting **PixiJS + vectoral flowers + pixi js ascii filter**. This is GPU/web JavaScript and uses a community ASCII shader/filter; it is **not the same as the all-Python terminal example** and no original bouquet source/video was supplied.
