@@ -188,3 +188,7 @@ No new entries have been automatically approved, security-cleared or installed.
 ## Sixth source batch — new leads outside original 68 verified entries
 
 [44 — Replica/Unlazy](44-REPLICA-UNLAZY-AGENT-SKILLS-AND-TOOL-WISHLIST.md) adds testable task-completion gates; [45 — Agent-Navigable Apps](45-AGENT-NAVIGABLE-APP-ARCHITECTURE.md) adds accessible UI, API and MCP design; [46 — Prompt Injection](46-PROMPT-INJECTION-UNTRUSTED-DOCUMENTS-AND-REEL-INGESTION.md) covers lower-trust documents. New items are **not** counted in the original verified 68 or automatically approved.
+
+## Tenth collection — screenshot-verified quality skills (beyond original 68 inventory)
+
+[68 — Ten Trending GitHub Repos](68-TEN-TRENDING-CLAUDE-GITHUB-REPOS-SCREENSHOT.md) verifies REA, Ponytail, Hallmark, Humanizer, Onyx, Impeccable, UI/UX Pro Max, Last 30 Days, Scrapling and Diagram Design. The repo identifies **different kinds of tools** (agent skills, platform, Python library); they are **not** a mandatory stack or automatic safety approvals. [73 — Developer Platforms](73-APPWRITE-PUBLIC-APIS-SUPABASE-N8N-WEBAPP-BOILERPLATES.md) provides background on backend choices, APIs, licenses and template verification. Preserve original 68 list count unless a separate full inventory recalc is performed.
