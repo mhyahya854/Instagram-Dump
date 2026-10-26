@@ -40,3 +40,7 @@ Before submitting, show clearly that selected slot is full and provide alternati
 
 - NN/g error prevention heuristic: https://www.nngroup.com/articles/ten-usability-heuristics/
 - Related [29 UX Psychology](29-UX-PSYCHOLOGY-LAWS-OF-UX-BOOK-AND-ETHICS.md), [13 Design Interactions](13-DESIGN-INTERACTIONS-ICON-STYLES.md).
+
+## Thirteenth collection — actionable error prevention from 20 UI terms
+
+[107 — 20 UI Tips](107-TWENTY-UI-TIPS-FOR-CLAUDE-WITH-ACCEPTANCE-CHECKS.md): optimistic UIs need **rollback**, undo toast needs **real undo**, pre-rendered stale data needs **freshness handling**, swipe-dismiss needs **a visible non-gesture escape**, OTP autofill needs token expiry/origin validation, and **idempotency keys** need backend coordination. Do not copy these patterns blindly or show unverified success; test negative states.
