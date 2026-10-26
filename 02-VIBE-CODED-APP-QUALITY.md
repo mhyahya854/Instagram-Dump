@@ -84,3 +84,7 @@ See [11 — Data Pipeline Quality](11-DATA-PIPELINE-QUALITY.md): a successful ba
 ## Fifteenth batch — deep diagnosis over “make no mistakes” prompts
 
 [125 — Five Whys](125-FORCED-CONNECTION-AND-FIVE-WHYS-PRACTICAL-PLAYBOOK.md) supplies a disciplined investigate→evidence→root causes→test workflow, and [124 — PRD/Design/Tech Stack/Execution](124-COST-CONSCIOUS-STACK-GSD-ROO-RALPH-CODERABBIT-LINKEDIN.md) maps planning to bounded validated delivery. [126 — Jev/Browser Use](126-JEV-ULTRAFAST-AND-BROWSER-USE-AGENT-OPERATION-GUIDE.md) emphasizes browser *result verification* rather than trusting an agent “DONE” decision.
+
+## Seventeenth reel — evidence-backed site QA and secure completion
+
+[142 — 20 Website Clues](142-TWENTY-VIBECODED-WEBSITE-GIVEAWAYS-SOURCE-AND-FACT-CHECK.md) distinguishes real broken UI/semantics and slow bundles from “AI-made” stereotypes. [144 — Five Design Skills](144-TASTE-AWESOMEDESIGN-IMAGETOCODE-WEB-GUIDELINES-PLAYWRIGHT.md) calls for actual Playwright screenshots and interaction assertions. [149 — Production Auth Prompt](149-PRODUCTION-AUTHENTICATION-SECURITY-FIVE-POINT-PROMPT-AND-AUDIT.md) requires code-specific negative tests instead of trusting a generic “final security audit” command.
