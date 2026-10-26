@@ -60,6 +60,14 @@ Personal, evolving design, UX, vibe-coded app and production engineering notes. 
 | [50 — programming system design guides free llm apis](50-PROGRAMMING-SYSTEM-DESIGN-GUIDES-FREE-LLM-APIS.md) | Architecture, SQL, APIs, Rust/Java, DevOps, AWS, free LLM API sources |
 | [51 — universal rules research proposals](51-UNIVERSAL-RULES-RESEARCH-PROPOSALS.md) | Proposed skills-only workflows and evidence rules; NOT ratified |
 | [52 — instagram reels sixth batch register](52-INSTAGRAM-REELS-SIXTH-BATCH-REGISTER.md) | All 48 transcript fragments, skips, corrections and source provenance |
+| [Motion Graphics: Brand/Voice Workflow](53-MOTION-GRAPHICS-BRAND-GUIDE-VOICE-WORKFLOW.md) | Claude brand-guide, script, voice, editing and render workflow; unrecovered creator kit |
+| [Five Code-Video Styles](54-FIVE-CLAUDE-VIDEO-STYLES-AND-OPEN-REPOS.md) | HyperFrames, One Take, Collage B-roll, Claude Animation Base and Lemo Opuscar |
+| [Agent Skills Research Catalog](55-HERMES-AGENT-SKILLS-RESEARCH-CATALOG.md) | Agent Reach, Codebase Memory, Oh My Hermes, Defuddle, Browser Harness, Composio, Resemble and uncertain sources |
+| [JWT & Dependency Security](56-AUTHENTICATION-JWT-REVOCATION-DEPENDENCY-SECURITY.md) | Banned-account token revocation, refresh, server authorization, package supply-chain controls |
+| [Reticle & Adversarial Reviews](57-RETICLE-ADVERSARIAL-REVIEWS-SECURITY-GATES.md) | Real running-app verification, bounded regression loops and independent threat-model reviews |
+| [Critical Thinking & AI Sycophancy](58-AI-SYCOPHANCY-CRITICAL-THINKING-LLM-COUNCIL.md) | Stanford research correction, neutral prompts, devil's advocate, independent AI council |
+| [Web Performance & System Design](59-WEB-PERFORMANCE-CORE-WEB-VITALS-AND-INFRASTRUCTURE.md) | LCP, INP, CLS, real mobile testing and proportionate production architecture |
+| [Seventh Source Register](60-INSTAGRAM-REELS-SEVENTH-BATCH-REGISTER.md) | All eleven reel segments, claims, identifications and unverified guide gaps |
 | [Transcription Notes](TRANSCRIPTION-NOTES.md) | Unclear phrases and tentative corrections retained transparently |
 
 ## Decision labels
@@ -111,3 +119,7 @@ Five new standalone Markdown files (32–36) capture **12 distinct source fragme
 ## Sixth collection — safe offline reference
 
 The October 25 pasted sixth batch is indexed in [52 — Sixth Register](52-INSTAGRAM-REELS-SIXTH-BATCH-REGISTER.md). The 48 counted items are **editorially separated fragments**, not 48 independently verified videos. Each subject remains self-contained in 44–51. Browser games were skipped on request. The Universal-Rules research ideas remain **proposals in Instagram-Dump** and were not merged into the separate rules project. All external code/skills remain **not installed**.
+
+## Seventh Instagram batch — October 26, 2026
+
+**Eight standalone notes (53–60)** document **11 distinct spoken reel segments**, not necessarily eleven independently verified original videos. Verified repositories and independent technical corrections remain distinct from the creator's unshared skills/prompts, promotional quality claims, and unresolved skill names. Security and token safety are illustrated with tests and threat models, not executable attacks. No skills were installed; no production changes, scans, deployments or public postings were performed. The related Universal-Rules project remains untouched.
