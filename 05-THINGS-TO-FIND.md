@@ -225,3 +225,7 @@ Original site: **https://tree.icqr.com/**, no verified first-party open-source c
 - [70 — Original Turtle Code](70-TURTLE-HEART-SCREENSHOT-CODE.py) contains the exact logical Python script transcribed from screenshot, unrelated to GitHub skills.
 
 All additions are **research/catalog only**; no installers, unknown USB diagnostic software or live systems executed.
+
+## Eleventh source batch: desktop tool research, iOS dev, OS and transfer tools
+
+[79 — VoxelWall Cross-OS Plan](79-VOXELWALL-CROSS-PLATFORM-WINDOWS-LINUX-MAC-PLAN.md) records https://voxelwall.app/ and user-requested **independent Windows, Linux and macOS version**; VoxelWall's original Mac Metal source/artwork not verified open-source. [80 — xtool, ReactOS, Laravel, Raspberry Pi](80-XTOOL-REACTOS-LARAVEL-SIGNUP-RASPBERRY-PI.md) confirms xtool-org/xtool (cross-platform iOS building), reactos/reactos (alpha), official Laravel initial signup/Fortify and Raspberry Pi concept (original video only says “a Raspberry Pi”). [81 — ToffeeShare](81-TOFFEESHARE-PEER-TO-PEER-PRIVATE-FILE-TRANSFER.md) explains live WebRTC transfers. [82 — Hardware Shopping](82-PROJECT-BUILDING-HARDWARE-PURCHASE-SHORTLIST.md) records portable monitor and blue-switch keyboard needs. [83 — Eleventh Register](83-INSTAGRAM-REELS-ELEVENTH-BATCH-REGISTER.md). All research-only; no tools installed.
