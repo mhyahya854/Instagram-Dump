@@ -202,3 +202,7 @@ These supplement the existing architecture glossary and security controls, not m
 ## Thirteenth collection — user-visible speed vs server correctness
 
 [107 — 20 UI Tips](107-TWENTY-UI-TIPS-FOR-CLAUDE-WITH-ACCEPTANCE-CHECKS.md) includes **optimistic updates and stale-while-revalidate** (must reconcile server truth), pre-rendering (respect auth/private caching), and **idempotency keys** (prevent duplicate requests, payments and retries server-side). These are not substitutes for transactions, permissions or backups. [109 — Anthropic OSS Scanner](109-ANTHROPIC-OSS-SCANNER-OPEN-SOURCE-SECURITY-SERVICE.md) is an optional service for eligible public OSS projects, not a blanket audit guarantee.
+
+## Sixteenth collection — law, deployment and measured agent operations
+
+[132 — Legal Compliance Claim Ledger](132-VIBE-CODED-APP-LEGAL-COMPLIANCE-CLAIM-LEDGER.md) records six alarming Instagram fine claims and accurate conditional legal implications for applicable COPPA, GDPR/fonts, session replay, CAN-SPAM, subscription consent and DMCA takedown. **Don't hardcode universally automatic fines.** [135 — runs-on.dev](135-RUNS-ON-DEV-FREE-SUBDOMAIN-GITHUB-CLAIM-GUIDE.md) is a useful free subdomain but adds a provider/DNS/HTTPS availability dependency. [139 — Agent Forecast Observability](139-AGENT-TOKEN-COST-FORECAST-OBSERVABILITY-LOOP.md) defines cost and quality telemetry, budget guardrails and calibration on real measured tasks.
