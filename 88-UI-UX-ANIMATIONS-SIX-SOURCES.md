@@ -18,3 +18,7 @@ Observe a **specific transferable mechanism** (hierarchy, information density, l
 **Verification statement:** this document records original screenshot wording separately from externally researched URLs/caveats. Not every link was live-tested; unresolved destinations are labeled. No website cloned, dependency installed, proprietary asset downloaded, application tested, or Universal-Rules changed.
 
 [Resource Index](98-DESIGN-RESOURCE-CAROUSEL-MASTER-INDEX.md) · [Original directory](17-DESIGN-WEBSITES-AND-COMPONENT-LIBRARIES.md) · [Design principles](01-DESIGN-UX.md)
+
+## Sixteenth collection — two complementary motion options
+
+[133 — Motion Primitives and Haikei](133-WATERMELON-MOTION-PRIMITIVES-MANUS-HAIKEI-UI-TOOLS.md) covers motion-primitives.com reusable Motion/Tailwind UI animations, Watermelon UI components and Haikei SVG decorative shapes. [136 — Grainrad](136-GRAINRAD-ASCII-DITHER-HALFTONE-GENERATIVE-EFFECTS.md) converts source imagery into ASCII, dither, halftone and other graphic effects. Use reduced-motion and performance checks; do not assume browser tools are offline or their exports universally free for reuse.
