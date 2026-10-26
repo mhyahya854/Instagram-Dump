@@ -55,3 +55,7 @@ See [27 — AI Devices](27-EMERGING-AI-AGENTS-DEVICES-AND-MEDIA-TOOLS.md).
 ## Seventh reel batch — expanded Hermes skills research
 
 [55 — Hermes Agent Skills](55-HERMES-AGENT-SKILLS-RESEARCH-CATALOG.md) records Oh My Hermes, Codebase Memory MCP, Defuddle, Browser Harness, OpenMontage, Composio Skills, Resemble Detect and several unresolved names. Browser Harness and third-party connectors can operate real signed-in accounts, so permission and privacy gates matter more than claimed speed. **Catalog only.**
+
+## Tenth image collection: the Hermes all-in-one carousel
+
+[69 — Hermes Screenshots and Architecture](69-HERMES-UNIFIED-AGENT-ECOSYSTEM-CAROUSEL.md) preserves **seven actual screenshot panels**: centralized skills/MCP/files/browser/chats/agents/scheduled jobs; claimed computer-use/image/TTS/planning/delegation features; durable memory and user-approved corrections turned into task skills; Telegram/Slack chat triggers; scheduled daily and weekly jobs; and a unified memory/tools/workflows control plane. These are carousel illustrations, **not verified provider entitlements or automatically scheduled tasks**. User approval, data boundary, credentials, installation and reliable background host remain necessary.
