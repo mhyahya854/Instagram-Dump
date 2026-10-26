@@ -91,3 +91,7 @@ The twelve uploaded design-reference screenshots have all **70 source rows and o
 ## Fourteenth source batch — animated education and editing tools
 
 [111 — Manim](111-MANIM-GL-AND-COMMUNITY-MATH-ANIMATIONS.md) for mathematical explainer animation. [112 — 3D/Motion Agent Skills](112-THREEJS-GSAP-DESIGN-DNA-LOTTIE-GENJUTSU-AGENT-SKILLS.md) for Three.js scenes, GSAP sequencing, design-token extraction and intentional motion. [114 — Five Open-Source/Local Tools](114-OPENCUT-ANYTHINGLLM-NUCLEAR-CAP-HANDY-ALTERNATIVES.md) includes OpenCut and Cap as content creation tools, plus Handy for transcript dictation. [116 — SEO Reel](116-SEO-REEL-RANK-BY-FRIDAY-CLAIMS-AND-REAL-QA.md) documents ranking claims as promotion, not proof.
+
+## Fifteenth collection — image manipulation and reference library
+
+[123 — Five Source-Exact Image Editing Prompts](123-IMAGE-EDITING-FIVE-EXACT-INSTAGRAM-PROMPTS.md) stores full visible text for object removal, background swap, outfit swap, outpainting and cinematic colour grading, retaining screenshot typos. No image was edited. [122 — Are.na and Model Leads](122-QALB-URDU-BONSAI2-ARENA-OMNIVOICE-RESEARCH.md) includes hosted visual-reference curation; [129 — 1/4/5 Title Cards](129-AGENCY-AGENTS-AGENT-MEMORY-OPENMONTAGE-VISUAL-CARDS.md) captures typography/glow visuals as ideas only.
