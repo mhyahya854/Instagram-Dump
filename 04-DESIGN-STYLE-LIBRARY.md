@@ -67,3 +67,7 @@ Includes claymorphism, neo-futurism, flat design, Material Design, pop art, indu
 ## Eighth reel distinction: design references versus style instructions
 
 [61 — Hindi Design Reference Guide](61-DESIGN-INSPIRATION-WEBSITES-HINDI-TRANSLATION.md) encourages studying animation sequence, typography hierarchy and meaningful negative space, while avoiding one-to-one copying. [62 — GSAP/Taste/Registry MCP](62-IMMERSIVE-WEB-GSAP-TASTE-21ST-SHADCN-MCP.md) shows how tools can enable optional motion and components but **do not mandate immersive style** or supersede the user task. See [17 — Website Directory](17-DESIGN-WEBSITES-AND-COMPONENT-LIBRARIES.md).
+
+## Eleventh source batch: additional portfolio layout references (not automatically used)
+
+[77 — Screenshot Styles & Whitespace](77-PORTFOLIO-STYLE-SCREENSHOTS-AND-WHITESPACE-RULES.md) catalogues **Swiss Editorial**, **Floating Node**, **Brutalist Billboard**, **Bento Box** and user-requested **Architectural Split**. The first/floating styles appear twice in screenshots; video play icons belong to player overlays, not portfolio UI. Borrow hierarchy, grouping and geometry, not a copyrighted site template. References do not supersede user-defined UX quality rules.
