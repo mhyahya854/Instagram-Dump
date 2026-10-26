@@ -59,3 +59,7 @@ Recorded as **discovery**, not approved for installation or migration. The known
 ## Fourteenth batch — five additional open/local app references
 
 [114 — OpenCut, AnythingLLM, Nuclear, Cap and Handy](114-OPENCUT-ANYTHINGLLM-NUCLEAR-CAP-HANDY-ALTERNATIVES.md) preserves source captions, compared services and independently verified GitHub repos. Current OpenCut README identifies an ongoing rewrite and classic editor; AnythingLLM's local app may connect to remote LLMs. Cap's features vary with OS/release; Handy is designed for local speech transcription. [115 — Tencent Octop](115-TENCENT-OCTOP-SELF-HOSTED-MULTIAGENT-CLAIMS.md) is local orchestration but may still use remote model providers. None installed.
+
+## Fifteenth collection — offline and hosted are different claims
+
+[122 — Qalb/Bonsai-2](122-QALB-URDU-BONSAI2-ARENA-OMNIVOICE-RESEARCH.md) describes Urdu model lead and PrismML compression, with model footprint distinct from total inference RAM. [128 — Clicky](128-CLICKY-AI-SCREEN-BUDDY-AND-NAME-COLLISIONS.md) documents original open-source Mac helper versus newer private product development. [124 — Cost Stack](124-COST-CONSCIOUS-STACK-GSD-ROO-RALPH-CODERABBIT-LINKEDIN.md) preserves Neon/Cloudflare/R2 snapshot pricing claims, not permanent guarantees. [121 — RuView](121-RUVIEW-WIFI-SPATIAL-SENSING-RESEARCH.md) needs supported RF hardware and calibration.
