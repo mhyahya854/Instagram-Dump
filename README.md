@@ -73,6 +73,8 @@ Personal, evolving design, UX, vibe-coded app and production engineering notes. 
 | [63 — Ten Agent Skills](63-TEN-AGENT-SKILLS-WEB-ASSETS-SLIDES-IOS-SUPABASE-MARKETING.md) | Web assets, HTML slides, iOS simulator, Supabase, marketing, Emil, HyperFrames, Impeccable, Taste, Find Skills |
 | [64 — Design Resource Leads & Reversal Lab](64-DESIGNER-RESOURCE-LEADS-REVERSAL-LAB-SKILLS.md) | Prompt Motion, Prompt Flow, AI x Leaders, Claude Code Club, Prompt Cat and unresolved Reversal Lab |
 | [65 — Eighth Reel Source Register](65-INSTAGRAM-REELS-EIGHTH-BATCH-REGISTER.md) | Five source groups, complete names/corrections and offline-first provenance |
+| [66 — ICQR Voxel Tree and Scannable QR](66-ICQR-VOXEL-TREE-SCANNABLE-QR-INTERACTION.md) | Original ICQR project, visual-to-QR interaction, algorithm, four independent open-source implementations, scannability checks |
+| [67 — Ninth Source Register: ICQR Screenshot](67-INSTAGRAM-REELS-NINTH-BATCH-REGISTER.md) | Six source claims from the screenshot, research evidence and unresolved details |
 | [Transcription Notes](TRANSCRIPTION-NOTES.md) | Unclear phrases and tentative corrections retained transparently |
 
 ## Decision labels
@@ -132,3 +134,7 @@ The October 25 pasted sixth batch is indexed in [52 — Sixth Register](52-INSTA
 ## Eighth Instagram batch — 2026-10-26
 
 Five separately maintained files (61–65) record **five editorial source groups**, not a verified Instagram-video count. Hindi explanations have faithful English translations with uncertain phonetic names clearly marked. The original galleries, component-registry tools, and agent-skill candidates are categorized by purpose. Reversal Lab Skills remains unverified rather than being misidentified. All findings are research-only: **no third-party scripts installed and Universal-Rules untouched**.
+
+## Ninth Instagram collection — ICQR visual QR experiment (2026-10-26)
+
+A supplied screenshot, not a complete video, is preserved as one case study in [66 — ICQR](66-ICQR-VOXEL-TREE-SCANNABLE-QR-INTERACTION.md) and six source claims are indexed in [67 — Screenshot Register](67-INSTAGRAM-REELS-NINTH-BATCH-REGISTER.md). Original experience: https://tree.icqr.com/ . Four **independently licensed** public recreations are linked, but none is attributed as the site's own original source code. No code installed, app cloned, QR scanning performed or Universal-Rules changed.
