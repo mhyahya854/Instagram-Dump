@@ -198,3 +198,7 @@ These supplement the existing architecture glossary and security controls, not m
 ## Typed security research: URL protection
 
 [84 — URL Protection in Vibe-Coded Apps](84-URL-PROTECTION-VIBE-CODED-APP-SECURITY.md) adds server-side path/object authorization, safe redirects/OAuth, SSRF in link previews and webhook URLs, signed links, domain/DNS/host/HTTPS/staging and 23 negative/success test cases. A hidden client route, UUID, URL validator or WAF is not adequate protection by itself. [85 — Source Register](85-URL-PROTECTION-RESEARCH-SOURCE-REGISTER.md). No live system reviewed.
+
+## Thirteenth collection — user-visible speed vs server correctness
+
+[107 — 20 UI Tips](107-TWENTY-UI-TIPS-FOR-CLAUDE-WITH-ACCEPTANCE-CHECKS.md) includes **optimistic updates and stale-while-revalidate** (must reconcile server truth), pre-rendering (respect auth/private caching), and **idempotency keys** (prevent duplicate requests, payments and retries server-side). These are not substitutes for transactions, permissions or backups. [109 — Anthropic OSS Scanner](109-ANTHROPIC-OSS-SCANNER-OPEN-SOURCE-SECURITY-SERVICE.md) is an optional service for eligible public OSS projects, not a blanket audit guarantee.
