@@ -1,4 +1,4 @@
-# 69 — Hermes Agent: All-in-One Skills, Memory, Automation and Messaging (8-Slide Screenshot Capture)
+# 69 — Hermes Agent: All-in-One Skills, Memory, Automation and Messaging (7-Slide Screenshot Capture)
 
 **Source:** eight sequential user-uploaded carousel screenshots dated 2026-10-26. Captions/UI are **creator-generated illustrations**, not an audited live Hermes installation or a commitment that each feature exists in every release or deployment. Previous notes: [15 — Hermes](15-HERMES-AGENT-ECOSYSTEM.md), [27 — Device Tools](27-EMERGING-AI-AGENTS-DEVICES-AND-MEDIA-TOOLS.md), [30 — Agent Harness](30-AGENT-HARNESS-REPOS-GITHUB-PRESENTATION.md).
 
@@ -13,9 +13,8 @@
 | **5** | “Take Hermes away from your computer.” Telegram/Slack interactions send a task while user is out; desktop host does work and replies when done. Example: research three competitors before 3pm and return pricing/news summary. | Channel-agnostic task queue with explicit authentication, allowed actions, timeouts, results, and sensitive-data limits. Phone/chat channel alone does not grant desktop or production permission. |
 | **6** | “Have work happen without messaging it first.” Examples in slide: **morning brief daily 07:00**, **competitor research Monday 09:00**, **weekly report Friday 16:00**, **inbox summary daily 18:00**; outputs arrive without repeated user prompt. | Scheduler/cron with timezone, reliability, deduplication, permissions, receipts, retries and cancellation. Slide's times are examples only—not tasks to schedule for the user. |
 | **7** | “Hermes worth looking at.” Diagram connects **Memory, Tools, Skills, Automations, Communication, Agent Workflows** to Hermes; “all together”. | Unified user-facing product with isolated, observable action services and durable preference/workflow state. |
-| **8** | Source screenshots supplied include final closing summary and navigation indicators (depending on grouping, the carousel consists of screenshots illustrating the same seven main points above). | Preserve final carousel message as a **summary**, not a new separately verified feature. |
 
-*Important accounting note:* The user supplied **seven visible Hermes blue-grid screenshots following the initial ten-repo infographic**: unified setup, built-in capabilities, memory, iterative reusable workflow, chat channels, recurring jobs, and closing summary. They are **seven distinct Hermes slides**; previous slide indices 1–7 represent them exactly. Slide 8 above is **not an additional visual**, just the closing-summary concept reiterated for source organization. Use seven as the real source count.
+*Source count:* The user supplied **seven blue-grid Hermes screenshots**: unified setup, capabilities, memory, reusable workflow, external messaging, recurring jobs and summary diagram. Each row numbered 1–7 represents exactly one screenshot. Screenshots are user-uploaded source material, not audited proof of installation. Use seven as the real source count.
 
 ## Core capability model to retain
 
