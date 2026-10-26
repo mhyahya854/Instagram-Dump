@@ -67,3 +67,7 @@ Recorded as **discovery**, not approved for installation or migration. The known
 ## Sixteenth collection — Edge0 and free infrastructure caveats
 
 [131 — Edge0 SSD-streamed MoE](131-EDGE0-SSD-STREAMED-MOE-LOCAL-LLM-FACT-CHECK.md) notes low active allocator vs **whole system memory**, 23GB 35B model weights, experimental Windows runtime and SSD performance needs. [135 — runs-on.dev](135-RUNS-ON-DEV-FREE-SUBDOMAIN-GITHUB-CLAIM-GUIDE.md) is free developer subdomain hosting identity, **not** an owned standalone DNS domain; operational provider/reclamation risk remains. Research only; no local software tested.
+
+## Eighteenth collection — private local conversion and models
+
+[159 — Local ImageMagick, awesome-llm-apps and GGUF](159-LOCAL-IMAGEMAGICK-GGUF-LLM-APPS-PRIVACY.md) details offline PNG→PDF options, export/security-policy limitations, [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps), and quantized GGUF inference via llama.cpp. Clarifies that GGUF replaced older GGML-family **model formats**, not the GGML library. [153 — Five License Spectrum](153-FIVE-LICENSES-FREEDOM-SPECTRUM-AND-COMPLIANCE.md) explains AGPL/GPL/LGPL/MIT terms relevant to self-hosting. No files converted or local model installed.
