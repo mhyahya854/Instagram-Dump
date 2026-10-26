@@ -51,3 +51,7 @@ Promise-to-delivery consistency; service blueprint; customer acquisition and sup
 - [03 — Architecture](03-PRODUCTION-SYSTEM-ARCHITECTURE.md) addresses reliability/security underpinning all three.
 
 **Standing decision:** design-style vocabulary remains reference-only; don't turn this framework into a mandate for fake pricing tiers, giant hero blocks, unnecessary animation, or entire enterprise CX departments in a tiny private app.
+
+## Eleventh batch — missing content versus intentional whitespace
+
+[77 — Portfolio Style and Empty-Space Guide](77-PORTFOLIO-STYLE-SCREENSHOTS-AND-WHITESPACE-RULES.md) distinguishes a meaningful **empty-data state** (must explain next action), accidental layout gaps (repair), and deliberate **negative space** (often leave untouched). This improves UI/UX quality without manufacturing cards, badges, product claims or over-explaining a visual metaphor.
