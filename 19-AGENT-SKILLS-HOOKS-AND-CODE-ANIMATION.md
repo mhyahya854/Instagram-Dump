@@ -106,3 +106,7 @@ The reel refers to a purported design skill “UI UX Comma Design” with 136,00
 ## Twelfth screenshot batch — DESIGN.md, prompts and motion tools
 
 [95 — Better Vibe-Coding Prompts](95-BETTER-VIBE-CODING-PROMPTS-SIX-SOURCES.md) catalogs the screenshot's **Vibe Code Source**, **nxcode**, **awesome-design-md**, **Google's DESIGN.md**, **Notion Prompt Library** and **Site of Sites** with ambiguous original URLs marked clearly. [89 — Design Systems](89-DESIGN-SYSTEMS-SIX-SOURCES.md) distinguishes independent DESIGN.md providers; Google's alpha spec is https://github.com/google-labs-code/design.md . [88 — UI Animations](88-UI-UX-ANIMATIONS-SIX-SOURCES.md) includes Ripplix/60fps/Animista/Motion/LottieFiles/GSAP. None were installed or run.
+
+## Thirteenth reel: code-film skills and full source verification
+
+[106 — Lemo Opuscar/Remotion](106-LEMO-OPUSCAR-REMOTION-CODE-FILM-MOTION.md) documents the exact `lemomo-ai/lemo-opuscar` screenshot (59 styles, plugin guidance) and independent `remotion-dev/remotion` React renderer. Repo's **MIT code/docs ≠ free uncredited reuse of demo video/audio**, and Remotion has special licensing. [104 — fogleman/ln](104-FOGLEMAN-LN-3D-VECTOR-LINE-ART-ENGINE.md) documents Go SVG 3D line art. None is installed/approved for arbitrary execution.
