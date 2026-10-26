@@ -76,3 +76,7 @@ Sources:
 ## Fourteenth batch — avoid gimmicky SEO promises
 
 [116 — “Rank #1 by Friday” Reel](116-SEO-REEL-RANK-BY-FRIDAY-CLAIMS-AND-REAL-QA.md) preserves all 20 check/X chips and translates them into meaningful crawl/indexing, structured data and real performance checks. Correctly distinguishes **intentional noindex**, **legitimate 404**, **AI-assisted content** and **author bios/Forbes links** from universal ranking defects. Never promise first position from a checklist.
+
+## Sixteenth collection — legal claims and internet presence
+
+[132 — Legal Compliance Claim Ledger](132-VIBE-CODED-APP-LEGAL-COMPLIANCE-CLAIM-LEDGER.md) includes COPPA applicability, remote Google Fonts/European data transfer, session replay consent, CAN-SPAM opt-out/address, California automatic renewals and DMCA notice/takedown agent eligibility. Screenshot fine amounts are **not guaranteed per visitor/email/image liabilities**. [135 — Free Subdomain](135-RUNS-ON-DEV-FREE-SUBDOMAIN-GITHUB-CLAIM-GUIDE.md) adds provider/dependent DNS, cookie/origin handling and business continuity checks.
