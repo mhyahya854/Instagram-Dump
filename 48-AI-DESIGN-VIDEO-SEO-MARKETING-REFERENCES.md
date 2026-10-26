@@ -99,3 +99,7 @@ The twelve uploaded design-reference screenshots have all **70 source rows and o
 ## Sixteenth creative resources — motion, ASCII and five Google tools
 
 [133 — Watermelon, Motion Primitives, Manus, Haikei](133-WATERMELON-MOTION-PRIMITIVES-MANUS-HAIKEI-UI-TOOLS.md) has precise URLs and separate source/vendor descriptions. [134 — Spanish Google AI list](134-GOOGLE-AI-STUDIO-STITCH-POMELLI-ANTIGRAVITY-FLOW.md) preserves original five sentences and English translation for AI Studio/Stitch/Pomelli/Antigravity/Flow. [136 — Grainrad](136-GRAINRAD-ASCII-DITHER-HALFTONE-GENERATIVE-EFFECTS.md) documents ASCII/dither/halftone effects and export UI. None used to produce assets.
+
+## Eighteenth collection — video production and visual libraries
+
+[151 — Lenis, GSAP, Vanta, React Bits](151-LENIS-GSAP-VANTA-REACT-BITS-ANIMATION-SOURCE-REPOS.md) links exact four-repo reel. [154 — OpenMontage](154-AGENT-RESOURCES-GRAFT-OPENMONTAGE-AGENCY-CODEBASE-RESEARCH.md) identifies the open-source agentic video pipeline for planning, asset sourcing, rendering and verification; no reel/video was produced. [155 — Additional Editorial/ASCII Styles](155-ADDITIONAL-DESIGN-MECHANISMS-AND-AEVY-WORKFLOW.md) records exact five styles and Aevy workflow link. [162 — Vercel vgpu](162-VERCEL-VGPU-WEBGPU-SHADERS-AND-WEB-INTERFACE-GUIDELINES.md) expands shader-driven visual effects research.
