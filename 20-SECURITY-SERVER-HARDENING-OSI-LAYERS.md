@@ -110,3 +110,7 @@ For identity photos, minimize collection, restrict access, encrypt and shorten r
 ## Eleventh source batch: numbered checks 55–70
 
 [78 — AI-App Security Checks 55–70](78-SECURITY-CHECKS-55-70-GRAPHQL-AND-AI-PERMISSIONS.md) records all sixteen screenshot items **verbatim** with risk-based defensive tests. Topics include MFA, account enumeration, abuse, races, webhook replay, secure CI/actions/dependencies, fail-open checks, timeouts, log redaction, AI output validation/permissions, browser storage, redirects and endpoint/GraphQL authorization. No live penetration test or application security clearance is claimed.
+
+## URL protection additions — route and transport security
+
+[84 — URL Protection in Vibe-Coded Apps](84-URL-PROTECTION-VIBE-CODED-APP-SECURITY.md) includes IDOR/BOLA, unvalidated redirects, SSRF, URL XSS, data leaks in query strings, CDN/private caches, signed links, domain/takeover/TLS and private staging. 23 defensive test cases are provided with no claim of actual execution. See [85](85-URL-PROTECTION-RESEARCH-SOURCE-REGISTER.md).
