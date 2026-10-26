@@ -107,3 +107,7 @@ The second reel batch adds a deeper self-contained reference at **[20 — Securi
 ## Follow-up: server and layered security
 
 [20 — Security, Server Hardening and OSI Layers](20-SECURITY-SERVER-HARDENING-OSI-LAYERS.md) adds SQL parameterization, SSH management access, firewall planning, the seven-layer defense model and the limits of AI-assisted security reviews.
+
+## Seventh reel addendum: banned accounts, token expiry and dependency attacks
+
+[56 — JWT Revocation and Dependency Security](56-AUTHENTICATION-JWT-REVOCATION-DEPENDENCY-SECURITY.md) corrects an important simplification: **revoking refresh tokens only prevents new access tokens; existing valid JWTs may remain usable until expiry**. High-risk payment actions should check current account bans/authorization. It also adds AI dependency provenance, malicious lifecycle scripts, SBOM/CVE scanner limitations and installer permission controls. An AI-generated “security looks good” response is not a validated security review.
