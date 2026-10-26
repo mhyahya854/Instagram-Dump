@@ -111,3 +111,7 @@ The second reel batch adds a deeper self-contained reference at **[20 — Securi
 ## Seventh reel addendum: banned accounts, token expiry and dependency attacks
 
 [56 — JWT Revocation and Dependency Security](56-AUTHENTICATION-JWT-REVOCATION-DEPENDENCY-SECURITY.md) corrects an important simplification: **revoking refresh tokens only prevents new access tokens; existing valid JWTs may remain usable until expiry**. High-risk payment actions should check current account bans/authorization. It also adds AI dependency provenance, malicious lifecycle scripts, SBOM/CVE scanner limitations and installer permission controls. An AI-generated “security looks good” response is not a validated security review.
+
+## URL and session security: additional research
+
+[84 — URL Protection](84-URL-PROTECTION-VIBE-CODED-APP-SECURITY.md) covers object ownership for record IDs in routes, host-header-safe password reset links, OAuth callbacks, private share-token expiry and revoked/banned account checks. A signed URL or access token is a bearer capability; a revoked refresh token does not automatically invalidate an existing access token.
