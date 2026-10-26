@@ -269,3 +269,17 @@ All additions are **research/catalog only**; no installers, unknown USB diagnost
 - [129 — Agency Agents / Agent Memory / OpenMontage](129-AGENCY-AGENTS-AGENT-MEMORY-OPENMONTAGE-VISUAL-CARDS.md): source numbered frames **1/4/5**; no verified originating URLs; 2/3 not supplied.
 
 [130 — Complete Source Inventory](130-INSTAGRAM-REELS-FIFTEENTH-BATCH-SOURCE-REGISTER.md). Research is not blanket installation approval.
+
+## Sixteenth batch — confirmed websites, skill, domain and learning method
+
+- [131 — Edge0](131-EDGE0-SSD-STREAMED-MOE-LOCAL-LLM-FACT-CHECK.md): **Edge0-AI/Edge0**, sparse MoE SSD expert streaming and model/disk/runtime reality on Windows/macOS/mobile.
+- [132 — Legal Claim Audit](132-VIBE-CODED-APP-LEGAL-COMPLIANCE-CLAIM-LEDGER.md): six internet legal-warning examples assessed against official rules/cases.
+- [133 — Watermelon/Motion/Manus/Haikei](133-WATERMELON-MOTION-PRIMITIVES-MANUS-HAIKEI-UI-TOOLS.md): confirmed site domains and distinct purposes.
+- [134 — Google AI Studio/Stitch/Pomelli/Antigravity/Flow](134-GOOGLE-AI-STUDIO-STITCH-POMELLI-ANTIGRAVITY-FLOW.md): complete Spanish→English transcription and Google product sources.
+- [135 — Free Domain](135-RUNS-ON-DEV-FREE-SUBDOMAIN-GITHUB-CLAIM-GUIDE.md): **runs-on.dev**, verified **zordhalo/runs-on.dev**, free but provider-controlled and subject to claim policy.
+- [136 — Grainrad](136-GRAINRAD-ASCII-DITHER-HALFTONE-GENERATIVE-EFFECTS.md): grainrad.com graphics editor/effects; no recovered exact source code.
+- [137 — Superpowers](137-SUPERPOWERS-SKILL-CLAUDE-CODE-CODEX-AGENT-PLANNING.md): **obra/superpowers**, supported Codex, Claude, Cursor, Antigravity and other platforms; **research only, not installed**.
+- [138 — Two Planning Docs](138-PRD-ARCHITECTURE-SEPARATE-SPEC-DOC-CONTRACT.md): PRD.md and ARCHITECTURE.md with screenshot-exact labels.
+- [139 — Forecasting and Learning](139-AGENT-TOKEN-COST-FORECAST-OBSERVABILITY-LOOP.md): user-proposed token/tool spend forecast, observed cost variance and calibrated task-class budgeting framework.
+
+[140 — Ten screenshot sources and typed priorities](140-INSTAGRAM-REELS-SIXTEENTH-BATCH-SOURCE-REGISTER.md).
