@@ -67,3 +67,7 @@ Document real outcomes rather than claiming “model A always beats model B.”
 ## More materials already preserved
 
 [03 — Production Architecture](03-PRODUCTION-SYSTEM-ARCHITECTURE.md); [10 — DB Transactions](10-DATABASE-TRANSACTIONS-AND-MIGRATIONS.md); [21 — Systems Glossary](21-ARCHITECTURE-SYSTEMS-NETWORKS-GLOSSARY.md); [32 — Build Your Own X](32-BUILD-YOUR-OWN-X-FIRST-PRINCIPLES-LEARNING.md); [47 — AI Engineering](47-AI-ENGINEERING-LEARNING-MODEL-TRAINING-RAG.md).
+
+## Fourteenth batch — FreeLLMAPI provider-router caveats
+
+[113 — FreeLLMAPI](113-FREELLMAPI-FREE-TIER-ROUTER-VERIFICATION.md) documents its source claims of **34 providers / 635 endpoints / 7.4 billion tokens**, the concrete GitHub candidate, `/v1` model routing and encrypted key handling, while clarifying these totals are **theoretical combined catalog limits**, not promised free quota for an individual. Any nonlocal model means prompts/data leave the computer and provider terms apply.
