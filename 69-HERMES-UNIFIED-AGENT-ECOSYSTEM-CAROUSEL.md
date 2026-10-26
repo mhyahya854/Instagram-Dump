@@ -60,3 +60,7 @@ Hermes exact version/provider, “built-in” feature availability, actual model
 ## Fourteenth source batch — Tencent Octop comparison lead
 
 [115 — TencentCloud/Octop](115-TENCENT-OCTOP-SELF-HOSTED-MULTIAGENT-CLAIMS.md) is a distinct multi-user agent shell/control plane with messaging, memory, scheduler, web dashboard and local/remote model providers. Self-hosted app state **does not guarantee local LLM inference**, and the Instagram claim “free replaces ChatGPT” is not established. Compare Hermes and Octop feature/version maturity and security scopes before deployment.
+
+## Fifteenth collection — distinct memory and browser agent strategies
+
+[126 — JEV and Browser Use](126-JEV-ULTRAFAST-AND-BROWSER-USE-AGENT-OPERATION-GUIDE.md) documents a bounded browser-action loop and high-risk existing-profile access; [127 — Graft Candidates](127-GITHUB-AGENT-SKILLS-AND-GRAFT-MULTIPLE-PROJECTS.md) includes repo memory plus enterprise/API agent tools; [129 — Agent Memory](129-AGENCY-AGENTS-AGENT-MEMORY-OPENMONTAGE-VISUAL-CARDS.md) records the source visual and conceptual split between temporary context and durable evidence-backed knowledge. Don't assume these are Hermes official modules.
