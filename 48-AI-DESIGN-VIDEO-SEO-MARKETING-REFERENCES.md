@@ -87,3 +87,7 @@ The twelve uploaded design-reference screenshots have all **70 source rows and o
 ## Thirteenth screenshot batch: video creators and code-rendered films
 
 [103 — Nine AI Video Services](103-AI-VIDEO-CREATOR-TOOLS-NINE-WEBSITES.md) preserves three pink carousel images: **Unscreen.com (officially shut down 2026-06-29), D-ID, HeyGen, ElevenLabs, Submagic, Captions.ai, Title-Generator.com (exact active service unverified), Repurpose.io and Adobe Podcast**. [106 — Lemo Opuscar & Remotion](106-LEMO-OPUSCAR-REMOTION-CODE-FILM-MOTION.md) separates code-rendered 59-style filmmaking from Remotion's React video framework, with source/media/commercial license caveats. [104 — fogleman/ln](104-FOGLEMAN-LN-3D-VECTOR-LINE-ART-ENGINE.md) is a separate Go vector line-art renderer. No services used, videos produced or media uploaded.
+
+## Fourteenth source batch — animated education and editing tools
+
+[111 — Manim](111-MANIM-GL-AND-COMMUNITY-MATH-ANIMATIONS.md) for mathematical explainer animation. [112 — 3D/Motion Agent Skills](112-THREEJS-GSAP-DESIGN-DNA-LOTTIE-GENJUTSU-AGENT-SKILLS.md) for Three.js scenes, GSAP sequencing, design-token extraction and intentional motion. [114 — Five Open-Source/Local Tools](114-OPENCUT-ANYTHINGLLM-NUCLEAR-CAP-HANDY-ALTERNATIVES.md) includes OpenCut and Cap as content creation tools, plus Handy for transcript dictation. [116 — SEO Reel](116-SEO-REEL-RANK-BY-FRIDAY-CLAIMS-AND-REAL-QA.md) documents ranking claims as promotion, not proof.
