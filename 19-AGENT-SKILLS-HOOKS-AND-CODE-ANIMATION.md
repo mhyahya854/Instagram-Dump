@@ -114,3 +114,7 @@ The reel refers to a purported design skill “UI UX Comma Design” with 136,00
 ## Fourteenth Instagram batch — verified motion/code design skills
 
 [111 — Manim Versions](111-MANIM-GL-AND-COMMUNITY-MATH-ANIMATIONS.md) distinguishes ManimGL and Community. [112 — Five Skills](112-THREEJS-GSAP-DESIGN-DNA-LOTTIE-GENJUTSU-AGENT-SKILLS.md) preserves 25 original feature bullets for Three.js, GSAP, Design DNA, LottieFiles Motion Design and Genjutsu, with screenshot owner `ClaudeAI-X` corrected to verified GitHub **`CloudAI-X/threejs-skills`**. [117 — PixiJS ASCII Flowers](117-PIXIJS-ASCII-LILY-FLOWERS-AND-BRILLIANT-DISCOVERY.md) describes visual-filter animation, separate from Python-only ASCII art. **No external agent skills installed.**
+
+## Fifteenth collection — Graft memory, agent/browser skills and Clicky
+
+[127 — GitHub Skills + Graft](127-GITHUB-AGENT-SKILLS-AND-GRAFT-MULTIPLE-PROJECTS.md) explains project-local vetted agent skills and distinct enterprise/MCP/memory Graft candidates. [126 — Jev](126-JEV-ULTRAFAST-AND-BROWSER-USE-AGENT-OPERATION-GUIDE.md) documents Browser Use control selection and constrained execution; [128 — Clicky](128-CLICKY-AI-SCREEN-BUDDY-AND-NAME-COLLISIONS.md) distinguishes AI screen tutoring from a similarly named security framework. [129 — Three Numbered Reel Frames](129-AGENCY-AGENTS-AGENT-MEMORY-OPENMONTAGE-VISUAL-CARDS.md) preserves Agency Agents, Agent Memory and OpenMontage without inventing canonical URLs. **No skills installed.**
