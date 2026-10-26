@@ -59,3 +59,7 @@ No internet content was executed and no skill was installed. File 100 is **new a
 ## Related but NOT standard-library Python: PixiJS ASCII Lily Bouquet
 
 [117 — PixiJS ASCII Lily](117-PIXIJS-ASCII-LILY-FLOWERS-AND-BRILLIANT-DISCOVERY.md) preserves a comment suggesting **PixiJS + vectoral flowers + pixi js ascii filter**. This is GPU/web JavaScript and uses a community ASCII shader/filter; it is **not the same as the all-Python terminal example** and no original bouquet source/video was supplied.
+
+## Sixteenth collection — Grainrad browser effect reference
+
+[136 — Grainrad](136-GRAINRAD-ASCII-DITHER-HALFTONE-GENERATIVE-EFFECTS.md) provides an online visual reference for ASCII, dithering, halftone, pixel sorting, VHS, line and threshold effects, including image/video/3D input and varied output options. **It is not documented as a pure-Python package**, nor proof of the original source algorithm. Keep standard-library Python experiments distinct.
