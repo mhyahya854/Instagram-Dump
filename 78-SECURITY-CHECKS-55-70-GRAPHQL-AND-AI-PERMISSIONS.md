@@ -33,3 +33,7 @@ Authenticate and authorize fields/resolvers and object/tenant access, not merely
 
 Related: [20 — Security](20-SECURITY-SERVER-HARDENING-OSI-LAYERS.md), [56 — JWT & Dependencies](56-AUTHENTICATION-JWT-REVOCATION-DEPENDENCY-SECURITY.md), [57 — Adversarial Review](57-RETICLE-ADVERSARIAL-REVIEWS-SECURITY-GATES.md).
 Official references: https://cheatsheetseries.owasp.org/ , https://graphql.org/learn/security/ .
+
+## URL vulnerabilities complement checks 55–70
+
+[84 — URL Protection](84-URL-PROTECTION-VIBE-CODED-APP-SECURITY.md) expands checks 69 (open redirects) and 70 (unsecured endpoints) with SSRF, account/object ownership tests, unsafe user/AI links, signed URLs, host header validation, callback allowlists and private staging. Contains **23 proposed tests** for authorized app fixtures, not scan results.
