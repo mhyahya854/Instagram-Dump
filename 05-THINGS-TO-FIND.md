@@ -197,3 +197,11 @@ Detailed scope and limits: [40 — Project Research](40-DOORY-MIROFISH-REA-RESEA
 ## Sixth reel research discoveries
 
 [44 — Agent Skills & Wishlist](44-REPLICA-UNLAZY-AGENT-SKILLS-AND-TOOL-WISHLIST.md) records Replica, Unlazy, Ralph Loop, Brag, GSD and unresolved “Zero Code,” “Soup,” “OpenPrinter” and “Halal AI Guidelines” sources. [49 — CarLink & Whistle](49-CARLINK-SMALL-SPEECH-MODELS-AND-LOCAL-OSS.md) records the Android-to-iPhone CarPlay and 16.9MB speech model projects. See [52 — Sixth Source Register](52-INSTAGRAM-REELS-SIXTH-BATCH-REGISTER.md). **All catalog-only, not installed.**
+
+## Seventh reel collection: named agent and video repositories
+
+- [54 — Five Claude Video Styles](54-FIVE-CLAUDE-VIDEO-STYLES-AND-OPEN-REPOS.md): **heygen-com/hyperframes**, **feitangyuan/onetake**, **pyang5166/gbro-collage-broll**, **JohnHeibel/ClaudeAnimationBase**, **lemomo-ai/lemo-opuscar** (43 styles is a historical count).
+- [55 — Agent Skills Catalog](55-HERMES-AGENT-SKILLS-RESEARCH-CATALOG.md): Codebase Memory MCP, Oh My Hermes, Browser Harness, Defuddle, OpenMontage, Composio, Resemble Detect, and unresolved “Map Poco,” “Adioshamani,” “Minions,” “Loopy” and specific Humanizer variants.
+- [57 — Reticle & Adversarial Testing](57-RETICLE-ADVERSARIAL-REVIEWS-SECURITY-GATES.md): verified reticlehq/reticle and greptileai/skills; **not installed or approved for unattended execution**.
+
+Full dated source register: [60](60-INSTAGRAM-REELS-SEVENTH-BATCH-REGISTER.md).
