@@ -98,3 +98,7 @@ The reel refers to a purported design skill “UI UX Comma Design” with 136,00
 ## Seventh reel batch — verified film skills, original “kit” unavailable
 
 [53 — Claude Motion Graphics Workflow](53-MOTION-GRAPHICS-BRAND-GUIDE-VOICE-WORKFLOW.md) retains website brand-guide, script, narration and revision approach with missing kit prompts clearly noted. [54 — Five Video Styles](54-FIVE-CLAUDE-VIDEO-STYLES-AND-OPEN-REPOS.md) confirms HyperFrames, One Take, Collage B-roll, Claude Animation Base and Lemo Opuscar. [55 — Hermes/Agent Skills Catalog](55-HERMES-AGENT-SKILLS-RESEARCH-CATALOG.md) extends the research list. None installed.
+
+## Eighth source batch: optional GSAP, registry MCPs, design and video skills
+
+[62 — Immersive Website Skills](62-IMMERSIVE-WEB-GSAP-TASTE-21ST-SHADCN-MCP.md) separates GSAP animation engine, community agent skills, possible Taste skill, 21st MCP and shadcn MCP. [63 — Ten Skills](63-TEN-AGENT-SKILLS-WEB-ASSETS-SLIDES-IOS-SUPABASE-MARKETING.md) includes web asset generation, HTML presentations, iOS simulator skills, Supabase, Emil Kowalski, HyperFrames, Impeccable and Find Skills. **“Test” and “Mills” are likely transcription errors, not confirmed identities.** No skills installed or executed.
