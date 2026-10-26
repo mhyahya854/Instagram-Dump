@@ -71,3 +71,7 @@ Document real outcomes rather than claiming “model A always beats model B.”
 ## Fourteenth batch — FreeLLMAPI provider-router caveats
 
 [113 — FreeLLMAPI](113-FREELLMAPI-FREE-TIER-ROUTER-VERIFICATION.md) documents its source claims of **34 providers / 635 endpoints / 7.4 billion tokens**, the concrete GitHub candidate, `/v1` model routing and encrypted key handling, while clarifying these totals are **theoretical combined catalog limits**, not promised free quota for an individual. Any nonlocal model means prompts/data leave the computer and provider terms apply.
+
+## Seventeenth reel — Redis and AI fine-tuning
+
+[141 — Redis for AI](141-REDIS-IN-AI-CACHE-VECTOR-RAG-AGENT-STATE.md) distinguishes cache, vector retrieval and memory from authoritative durable databases. [146 — Fine-Tuning](146-LIBRARIES-DEV-AND-FINE-TUNING-AI-MODELS.md) preserves the screenshot's conditional small-model advantage, separating prompt design, RAG, SFT and LoRA/QLoRA. No model trained.
