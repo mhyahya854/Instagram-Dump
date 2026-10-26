@@ -91,3 +91,14 @@ Related original design list: [01-DESIGN-UX.md](01-DESIGN-UX.md). Visual aesthet
 | “Checklist Design” | https://www.checklist.design/ — website/web app/mobile page and component checklist library | Verified |
 
 **Use boundaries:** Mobbin and Page Flows display references, not source rights. Observe screen sequencing and design decisions but do not automatically reproduce copyrighted imagery or deceptive copies of a business.
+
+## Eighth collection addendum: specialized web inspiration
+
+- **Landing Love** — https://www.landing.love/ — video-first gallery for full-page animation, reveal/pacing, scroll/motion analysis. **Verified**; reuse only general mechanisms.
+- **MaxiBestOf** — https://maxibestof.one/ — visual direction, editorial layouts, font labels and design sections; font identification is not a license to copy files.
+- **SiteInspire** — https://www.siteinspire.com/ — genuine minimal/editorial site directory and suitable **independent candidate** for a *third gallery* whose name was clipped from the Hindi reel, **not a confirmed original attribution**.
+- **“all type” / “W3K”** — original phonetic names; no reliable exact site/repo established.
+- **Awwwards**, https://www.awwwards.com/ and **Hover States**, https://hoverstat.es/ — independently suggested experimental site resources, not confirmed as named in the original reel.
+- **21st MCP**, https://21st.dev/mcp and **shadcn MCP**, https://ui.shadcn.com/docs/mcp — connectors that retrieve/copy components and dependencies, **not static inspiration galleries**; availability/access is version/plan-dependent.
+
+Full translation, what-to-adapt/what-not-to-copy guidance: [61](61-DESIGN-INSPIRATION-WEBSITES-HINDI-TRANSLATION.md). Tool breakdown: [62](62-IMMERSIVE-WEB-GSAP-TASTE-21ST-SHADCN-MCP.md). Source register: [65](65-INSTAGRAM-REELS-EIGHTH-BATCH-REGISTER.md).
