@@ -118,6 +118,16 @@ Personal, evolving design, UX, vibe-coded app and production engineering notes. 
 | [108 — Five App Ideas](108-FIVE-VIBE-CODED-APP-IDEAS-AND-REAL-LIFE-GAMIFICATION.md) | Real-life RPG, Tinder-for-X, personal portfolio, niche resource directory, AI mock interviews |
 | [109 — Anthropic OSS Scanner](109-ANTHROPIC-OSS-SCANNER-OPEN-SOURCE-SECURITY-SERVICE.md) | Official public-project opt-in scanning service; no enrollment or security audit performed |
 | [110 — Thirteenth Source Register](110-INSTAGRAM-REELS-THIRTEENTH-BATCH-SOURCE-REGISTER.md) | Eight screenshot source inventory, nine video sites, twenty UI tips, five typed project ideas |
+| [111 — Manim Math Animation](111-MANIM-GL-AND-COMMUNITY-MATH-ANIMATIONS.md) | 3Blue1Brown ManimGL vs Community Edition, rendering, versions and source evidence |
+| [112 — Five 3D/Motion/Design Skills](112-THREEJS-GSAP-DESIGN-DNA-LOTTIE-GENJUTSU-AGENT-SKILLS.md) | All five caption bullet lists; Three.js repo owner correction, GSAP, Design DNA, LottieFiles and Genjutsu |
+| [113 — FreeLLMAPI Research](113-FREELLMAPI-FREE-TIER-ROUTER-VERIFICATION.md) | Free provider routing, aggregated 7.4B token claim, 635 endpoints and credential/privacy caveats |
+| [114 — Five Local/Open-Source Apps](114-OPENCUT-ANYTHINGLLM-NUCLEAR-CAP-HANDY-ALTERNATIVES.md) | OpenCut, AnythingLLM, Nuclear, Cap and Handy; exact reel text and current support caveats |
+| [115 — Tencent Octop](115-TENCENT-OCTOP-SELF-HOSTED-MULTIAGENT-CLAIMS.md) | Self-hosted multiagent control plane, cloud-model privacy and social marketing claim checks |
+| [116 — SEO Ranking Reel](116-SEO-REEL-RANK-BY-FRIDAY-CLAIMS-AND-REAL-QA.md) | All twenty ranked SEO chips, corrected guidance, no guaranteed #1 ranking |
+| [117 — PixiJS ASCII Lily + Brilliant](117-PIXIJS-ASCII-LILY-FLOWERS-AND-BRILLIANT-DISCOVERY.md) | Exact ASCII bouquet comments, pixi-filters AsciiFilter and separate brilliant.org reply |
+| [118 — 500 AI Agents + Agentation](118-FIVE-HUNDRED-AI-AGENTS-AND-AGENTATION-UI-FEEDBACK.md) | Verified 500-AI-Agents-Projects and Agentation UI visual-feedback repo |
+| [119 — Windows Classic Context Menu](119-WINDOWS-11-CONTEXT-MENU-REGISTRY-COMMANDS-ARCHIVE.md) | Exact saved registry/Explorer commands, safe reversibility notes, unverified fragment |
+| [120 — Fourteenth Screenshot Register](120-INSTAGRAM-REELS-FOURTEENTH-BATCH-REGISTER.md) | Nineteen screenshot inventory, one typed Agentation lead, original claims vs independently researched sources |
 | [Transcription Notes](TRANSCRIPTION-NOTES.md) | Unclear phrases and tentative corrections retained transparently |
 
 ## Decision labels
@@ -201,3 +211,7 @@ Nineteen user-uploaded screenshots (one trending-tool collage, **seven** Hermes 
 ## Thirteenth Instagram screenshot collection — 2026-10-26
 
 **Eight separately maintained research files (103–110)** cover **eight user-uploaded images**, nine video tool URLs across three screenshots, `fogleman/ln` generative vector line art, three OSINT repo links from a comment, Lemo Opuscar and Remotion, the exact **20 UI tips**, five directly typed app ideas, and Anthropic's OSS Scanner. [110 — Source Register](110-INSTAGRAM-REELS-THIRTEENTH-BATCH-SOURCE-REGISTER.md) distinguishes original screenshot claims from independently researched capabilities and corrections. **Unscreen.com closed on June 29, 2026.** No app built, skills installed, device scanned, accounts accessed, OSS Scanner enrollment, or Universal-Rules change.
+
+## Fourteenth Instagram screenshot and research batch — 2026-10-26
+
+**Completed archive:** **19 screenshot panels** and one separately typed **Agentation** GitHub research lead. **Ten individual Markdown documents (111–120)** preserve Manim versions, five Three.js/GSAP/design/motion/Genjutsu agent skills, FreeLLMAPI free-tier router claims, five open-source alternatives, Tencent Octop, twenty SEO reel tips, PixiJS ASCII flower technique and separate brilliant.org comment, 500 AI Agent projects, Agentation visual feedback, and exact Windows 11 context-menu registry commands (never run). Source images are not re-uploaded publicly. [120 — Full Source Register](120-INSTAGRAM-REELS-FOURTEENTH-BATCH-REGISTER.md) maps every image. No installations, registry writes, machine changes, accounts accessed or Universal-Rules edits.
