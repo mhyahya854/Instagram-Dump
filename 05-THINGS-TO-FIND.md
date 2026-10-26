@@ -205,3 +205,9 @@ Detailed scope and limits: [40 — Project Research](40-DOORY-MIROFISH-REA-RESEA
 - [57 — Reticle & Adversarial Testing](57-RETICLE-ADVERSARIAL-REVIEWS-SECURITY-GATES.md): verified reticlehq/reticle and greptileai/skills; **not installed or approved for unattended execution**.
 
 Full dated source register: [60](60-INSTAGRAM-REELS-SEVENTH-BATCH-REGISTER.md).
+
+## Eighth reel: newly catalogued agent skills and unresolved Reversal Lab
+
+[63 — Ten Agent Skills](63-TEN-AGENT-SKILLS-WEB-ASSETS-SLIDES-IOS-SUPABASE-MARKETING.md): **alonw0/web-asset-generator**, **zarazhangrui/frontend-slides**, **conorluddy/ios-simulator-skill**, **supabase/agent-skills**, marketing skill pack (unidentified), “Mills Design” (probable emilkowalski design-eng), **heygen-com/hyperframes**, **pbakaus/impeccable**, “Test” (possibly Leonxlnx Taste), and **Find Skills** directory. This is research, not installation authorization.
+
+[64 — Designer Resources & Reversal Lab](64-DESIGNER-RESOURCE-LEADS-REVERSAL-LAB-SKILLS.md): **Reversal Lab Skills remains an unresolved high-priority source.** The recorded search did not establish an official GitHub repo or publisher; do not conflate with REA. Also records Designer Resources, Prompt Motion, Prompt Flow, AI X Leaders, Claude Code Club and Prompt Cat. Source register [65](65-INSTAGRAM-REELS-EIGHTH-BATCH-REGISTER.md).
