@@ -194,3 +194,7 @@ These supplement the existing architecture glossary and security controls, not m
 ## Eleventh batch — GraphQL, Laravel auth and real release gates
 
 [78 — Security Checks 55–70](78-SECURITY-CHECKS-55-70-GRAPHQL-AND-AI-PERMISSIONS.md) adds an exactly numbered screenshot list with testable defenses, including business-logic abuse, webhook idempotency, untrusted CI/dependencies and GraphQL resolver authorization. [80 — Laravel Signup](80-XTOOL-REACTOS-LARAVEL-SIGNUP-RASPBERRY-PI.md) details official starter-kit registration/Fortify, password reset, verification and UX test cases. [76 — 20 Prelaunch Checks](76-TWENTY-WEBSITE-PRELAUNCH-CHECKS-SCREENSHOT.md) is checklist evidence, not an assurance from a prompt alone.
+
+## Typed security research: URL protection
+
+[84 — URL Protection in Vibe-Coded Apps](84-URL-PROTECTION-VIBE-CODED-APP-SECURITY.md) adds server-side path/object authorization, safe redirects/OAuth, SSRF in link previews and webhook URLs, signed links, domain/DNS/host/HTTPS/staging and 23 negative/success test cases. A hidden client route, UUID, URL validator or WAF is not adequate protection by itself. [85 — Source Register](85-URL-PROTECTION-RESEARCH-SOURCE-REGISTER.md). No live system reviewed.
