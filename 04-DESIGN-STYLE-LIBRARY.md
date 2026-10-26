@@ -91,3 +91,7 @@ Includes claymorphism, neo-futurism, flat design, Material Design, pop art, indu
 ## Seventeenth Instagram style list and Libraries.dev effects
 
 [147 — 22 Source Styles](147-TWENTY-TWO-DESIGN-STYLES-SOURCE-TAXONOMY.md) transcribes Claymorphism, Cybercore, Neo-Brutalism, Scrapbook, Surrealism, Y2K, Pixel Art, Synthwave, Glassmorphism, Neumorphism, Bento Grid, Editorial, Swiss, Minimalism, Maximalism, Luxury Typography, Conceptual Sketch, Ethereal, Bohemian, Victorian, Cyberpunk and Wabi-Sabi. [146 — Libraries.dev](146-LIBRARIES-DEV-AND-FINE-TUNING-AI-MODELS.md) adds decorative React effect examples with reduced-motion/accessibility caveats. Do not merge all styles into one app.
+
+## Eighteenth batch — animation libraries, style mechanisms, GPU rendering
+
+[151 — Lenis/GSAP/Vanta/React Bits](151-LENIS-GSAP-VANTA-REACT-BITS-ANIMATION-SOURCE-REPOS.md) covers scroll, timelines, WebGL backgrounds and React visual components. [155 — Five Aesthetic Mechanisms](155-ADDITIONAL-DESIGN-MECHANISMS-AND-AEVY-WORKFLOW.md) adds ASCII graphics, gen-x soft club (unverified named trend), editorial brutalism, construction grids and data visuals. [160 — Apple Design Skill](160-APPLE-DESIGN-AND-ADDITIONAL-UI-DESIGN-AGENT-SKILLS.md) covers physical/interruptible interaction and design reviews; [162 — vgpu](162-VERCEL-VGPU-WEBGPU-SHADERS-AND-WEB-INTERFACE-GUIDELINES.md) describes GPU shaders/effects. None of these styles is automatically mandatory for a real application's UI.
