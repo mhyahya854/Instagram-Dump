@@ -71,3 +71,7 @@ Includes claymorphism, neo-futurism, flat design, Material Design, pop art, indu
 ## Eleventh source batch: additional portfolio layout references (not automatically used)
 
 [77 — Screenshot Styles & Whitespace](77-PORTFOLIO-STYLE-SCREENSHOTS-AND-WHITESPACE-RULES.md) catalogues **Swiss Editorial**, **Floating Node**, **Brutalist Billboard**, **Bento Box** and user-requested **Architectural Split**. The first/floating styles appear twice in screenshots; video play icons belong to player overlays, not portfolio UI. Borrow hierarchy, grouping and geometry, not a copyrighted site template. References do not supersede user-defined UX quality rules.
+
+## Twelfth screenshot batch — curated references, not new automatic styles
+
+[98 — Resource Map](98-DESIGN-RESOURCE-CAROUSEL-MASTER-INDEX.md) adds a complete **70-resource directory** with separate sources for inspiration, motion, design-system tokens, mobile UX, mockups, media and color/type. These sites should guide **selection and analysis** of an explicit creative brief; they do not override the existing rule to avoid generic purple gradients, purposeless animation, overstuffed interfaces, or invented evidence.
