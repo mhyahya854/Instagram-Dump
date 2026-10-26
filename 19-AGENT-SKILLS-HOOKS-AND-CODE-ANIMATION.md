@@ -122,3 +122,7 @@ The reel refers to a purported design skill “UI UX Comma Design” with 136,00
 ## Sixteenth collection — Superpowers and forecast-aware agents
 
 [137 — Superpowers](137-SUPERPOWERS-SKILL-CLAUDE-CODE-CODEX-AGENT-PLANNING.md) expands prior **obra/superpowers** reference with verified app-specific installation paths and brainstorming→approved plan→TDD→review→completion sequence. [139 — Agent Token Forecasting](139-AGENT-TOKEN-COST-FORECAST-OBSERVABILITY-LOOP.md) adds explicit predicted context/tool calls/time/cost, actual measurement, error clustering, calibration and reliability guardrails. No plugins installed or telemetry activated by cataloguing.
+
+## Seventeenth batch — agent skill catalogs and context economics
+
+[145 — Forty Claude Repos](145-FORTY-CLAUDE-REPOS-EXACT-LIST-AND-MATCHES.md) preserves source order 1–40 with uncertain owner identities flagged. [148 — Get Context In / Remember It / See The Burn / Cut The Burn](148-CONTEXT-MEMORY-TOKEN-BURN-CUT-AGENT-TOOL-MATRIX.md) preserves 23 user-typed entries by category, linked to [139 — Cost Forecast Feedback](139-AGENT-TOKEN-COST-FORECAST-OBSERVABILITY-LOOP.md). [144 — Visual Design Agents](144-TASTE-AWESOMEDESIGN-IMAGETOCODE-WEB-GUIDELINES-PLAYWRIGHT.md) adds a versioned CLI/browser QA workflow.
