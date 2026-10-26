@@ -80,3 +80,7 @@ See [11 — Data Pipeline Quality](11-DATA-PIPELINE-QUALITY.md): a successful ba
 ## Seventh reel batch — real app verification and performance
 
 [57 — Reticle & Review Gates](57-RETICLE-ADVERSARIAL-REVIEWS-SECURITY-GATES.md) describes why fixing one form can break another, and how to record observable regression results. [59 — Web Performance](59-WEB-PERFORMANCE-CORE-WEB-VITALS-AND-INFRASTRUCTURE.md) adds Lighthouse and Web Vitals baselines with exact route/device/network before-after tests. Do not claim “all fixed” without actual checks.
+
+## Fifteenth batch — deep diagnosis over “make no mistakes” prompts
+
+[125 — Five Whys](125-FORCED-CONNECTION-AND-FIVE-WHYS-PRACTICAL-PLAYBOOK.md) supplies a disciplined investigate→evidence→root causes→test workflow, and [124 — PRD/Design/Tech Stack/Execution](124-COST-CONSCIOUS-STACK-GSD-ROO-RALPH-CODERABBIT-LINKEDIN.md) maps planning to bounded validated delivery. [126 — Jev/Browser Use](126-JEV-ULTRAFAST-AND-BROWSER-USE-AGENT-OPERATION-GUIDE.md) emphasizes browser *result verification* rather than trusting an agent “DONE” decision.
