@@ -83,3 +83,7 @@ Task spec / repository truth / package docs
 [139 — Agent Cost Forecast Learning Loop](139-AGENT-TOKEN-COST-FORECAST-OBSERVABILITY-LOOP.md) documents forecast/actual/calibration and variance clustering. [145 — Exact 40 Claude Repos](145-FORTY-CLAUDE-REPOS-EXACT-LIST-AND-MATCHES.md) shares many names. [127 — Agent Skills and Graft](127-GITHUB-AGENT-SKILLS-AND-GRAFT-MULTIPLE-PROJECTS.md), [126 — Browser Use](126-JEV-ULTRAFAST-AND-BROWSER-USE-AGENT-OPERATION-GUIDE.md).
 
 **Status:** all 23 named tools preserved, no tools automatically installed and no agent memory/account accessed. Some canonical names remain unresolved because the typed list includes no URLs; don't make up owners.
+
+## Eighteenth collection — concrete context repository and owner verification
+
+[152 — vol cengine OpenViking Context DB](152-OPENVIKING-AGENT-CONTEXT-DATABASE-RESEARCH.md) verifies `volcengine/OpenViking` (source title: “The Context Database for AI Agents”). [154 — Graft / Codebase Memory MCP](154-AGENT-RESOURCES-GRAFT-OPENMONTAGE-AGENCY-CODEBASE-RESEARCH.md) adds the later screenshot's practical description of these tools, distinguishing probable codebase-memory Graft from other homonymous products. Evaluate retrieval quality, provenance, prompt injection, privacy, real token cost and stale-memory failure. No ingestion performed.
