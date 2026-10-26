@@ -233,3 +233,13 @@ All additions are **research/catalog only**; no installers, unknown USB diagnost
 ## Twelfth screenshot/resource batch — Windows Hitodama and Python ASCII
 
 [99 — Windows Hitodama](99-WINDOWS-HITODAMA-AI-DESKTOP-ASSISTANT.md) researches https://hitodama.in/ — a Windows voice-assisted computer control/productivity product, **not a verified open-source wallpaper effect**. The site advertises screen selection, dictation, scheduled desktop actions, memory and a command island. [101 — Python-only ASCII Art](101-PURE-PYTHON-ASCII-ART-RESEARCH-NOTES.md) explains terminal art in pure Python, with a runnable **standard-library-only** [100 — ASCII Demo](100-PURE-PYTHON-ASCII-ART-AND-ANIMATION.py). The screenshot-based **70 resources** are indexed at [98](98-DESIGN-RESOURCE-CAROUSEL-MASTER-INDEX.md). **Unresolved canonical sources:** DesignMD.co, Appshots, Vibe Code Source, nxcode and Notion Prompt Library; don't auto-install unrelated namesakes.
+
+## Thirteenth batch: direct new GitHub repositories and app ideas
+
+- [104 — fogleman/ln](104-FOGLEMAN-LN-3D-VECTOR-LINE-ART-ENGINE.md) — verified Go 3D vector/SVG line-art engine; useful for generative drawing and diagrams.
+- [105 — OSINT comment](105-OSINT-TORB-MAILACCESS-HORUS-SOURCE-LINKS.md) — verified **DedSecInside/TorBot**, **KatrielMoses/MailAccess**, **6abd/horus**; defensive/authorized analysis only, not third-party profiling.
+- [106 — Code films](106-LEMO-OPUSCAR-REMOTION-CODE-FILM-MOTION.md) — verified **lemomo-ai/lemo-opuscar** and **remotion-dev/remotion**, with critical licensing distinctions.
+- [109 — Anthropic OSS Scanner](109-ANTHROPIC-OSS-SCANNER-OPEN-SOURCE-SECURITY-SERVICE.md) — official opt-in public-OSS vulnerability scan service, **not enrolled or run**.
+- [108 — Five App Ideas](108-FIVE-VIBE-CODED-APP-IDEAS-AND-REAL-LIFE-GAMIFICATION.md) — Life RPG, swipe-for-X, portfolio, industry directory, mock interview app. No app automatically started.
+
+[110 — Source Register](110-INSTAGRAM-REELS-THIRTEENTH-BATCH-SOURCE-REGISTER.md) keeps eight original screenshots and two typed source groups separate.
