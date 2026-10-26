@@ -175,3 +175,7 @@ Keep hierarchy, interaction, motion and aesthetics as contextual decisions, not 
 ## Eighth reel batch: study design references by purpose
 
 [61 — Design Inspiration & Hindi Translation](61-DESIGN-INSPIRATION-WEBSITES-HINDI-TRANSLATION.md) differentiates **Landing Love** (motion sequencing), **MaxiBestOf** (typography and premium visual direction) and an unnamed minimal/editorial gallery (SiteInspire is an independently suggested candidate only). [62 — GSAP/Taste/21st/shadcn](62-IMMERSIVE-WEB-GSAP-TASTE-21ST-SHADCN-MCP.md) distinguishes animation from design judgment and source components; [63 — Ten Skills](63-TEN-AGENT-SKILLS-WEB-ASSETS-SLIDES-IOS-SUPABASE-MARKETING.md) lists optional implementation tools. Study ideas, not one-to-one copy or blanket visual effects.
+
+## Eleventh source batch: whitespace, portfolio directions and launch quality
+
+[77 — Portfolio Directions and Empty-Space Rules](77-PORTFOLIO-STYLE-SCREENSHOTS-AND-WHITESPACE-RULES.md) covers Swiss Editorial, Floating Node, Brutalist Billboard, Bento Box and the separately typed Architectural Split style. Intentional negative space improves scan/hierarchy; a real zero-data empty state needs honest next steps; broken accidental gaps need responsive repair, not extra decoration. [76 — 20 Site Launch Checks](76-TWENTY-WEBSITE-PRELAUNCH-CHECKS-SCREENSHOT.md) adds functional/mobile/contrast/form evidence. Styles remain optional references; no decorative defaults changed.
