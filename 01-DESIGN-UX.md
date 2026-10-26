@@ -179,3 +179,7 @@ Keep hierarchy, interaction, motion and aesthetics as contextual decisions, not 
 ## Eleventh source batch: whitespace, portfolio directions and launch quality
 
 [77 — Portfolio Directions and Empty-Space Rules](77-PORTFOLIO-STYLE-SCREENSHOTS-AND-WHITESPACE-RULES.md) covers Swiss Editorial, Floating Node, Brutalist Billboard, Bento Box and the separately typed Architectural Split style. Intentional negative space improves scan/hierarchy; a real zero-data empty state needs honest next steps; broken accidental gaps need responsive repair, not extra decoration. [76 — 20 Site Launch Checks](76-TWENTY-WEBSITE-PRELAUNCH-CHECKS-SCREENSHOT.md) adds functional/mobile/contrast/form evidence. Styles remain optional references; no decorative defaults changed.
+
+## Thirteenth screenshot: twenty practical UI mechanisms
+
+[107 — Twenty UI Tips](107-TWENTY-UI-TIPS-FOR-CLAUDE-WITH-ACCEPTANCE-CHECKS.md) preserves exact numbered source order, including skeleton/optimistic loading, command menus, undo, stale-while-revalidate, BlurHash, view transitions, sheets, interruptible motion, predictive back, **hit slop** (bigger touch region), safe areas, OTP autofill, tabular numbers, balanced headings, continuous corners, backend idempotency, and the Amazon hover-safe triangle. These are optional/contextual patterns; apply only where they improve real user tasks and test negative/keyboard/motion states.
