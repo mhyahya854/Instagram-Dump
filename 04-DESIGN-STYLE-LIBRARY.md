@@ -83,3 +83,7 @@ Includes claymorphism, neo-futurism, flat design, Material Design, pop art, indu
 ## Fifteenth collection — creative thinking + motion typography reference
 
 [125 — Forced Connection](125-FORCED-CONNECTION-AND-FIVE-WHYS-PRACTICAL-PLAYBOOK.md) is a **creative mechanism** for generating original design solutions from unrelated domains; the resulting style has to solve user needs, not merely be unfamiliar. [129 — Three Numbered Cards](129-AGENCY-AGENTS-AGENT-MEMORY-OPENMONTAGE-VISUAL-CARDS.md) captures large condensed numeral + foreground text + shadow glow as **optional** inspiration, not a universal visual treatment. [123 — Five Image Prompts](123-IMAGE-EDITING-FIVE-EXACT-INSTAGRAM-PROMPTS.md) preserves removal, background, wardrobe, outpainting and colour grading references without executing them.
+
+## Sixteenth collection — external procedural graphic libraries
+
+[133 — Watermelon UI + Motion Primitives + Haikei](133-WATERMELON-MOTION-PRIMITIVES-MANUS-HAIKEI-UI-TOOLS.md) contributes modern component, motion and scalable decorative assets as **style options**, not a one-style mandate. [136 — Grainrad](136-GRAINRAD-ASCII-DITHER-HALFTONE-GENERATIVE-EFFECTS.md) documents ASCII, dithering, halftone and other image-to-texture conversions; evaluate licenses, contrast and export format before incorporation.
