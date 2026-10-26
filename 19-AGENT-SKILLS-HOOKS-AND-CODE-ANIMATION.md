@@ -118,3 +118,7 @@ The reel refers to a purported design skill “UI UX Comma Design” with 136,00
 ## Fifteenth collection — Graft memory, agent/browser skills and Clicky
 
 [127 — GitHub Skills + Graft](127-GITHUB-AGENT-SKILLS-AND-GRAFT-MULTIPLE-PROJECTS.md) explains project-local vetted agent skills and distinct enterprise/MCP/memory Graft candidates. [126 — Jev](126-JEV-ULTRAFAST-AND-BROWSER-USE-AGENT-OPERATION-GUIDE.md) documents Browser Use control selection and constrained execution; [128 — Clicky](128-CLICKY-AI-SCREEN-BUDDY-AND-NAME-COLLISIONS.md) distinguishes AI screen tutoring from a similarly named security framework. [129 — Three Numbered Reel Frames](129-AGENCY-AGENTS-AGENT-MEMORY-OPENMONTAGE-VISUAL-CARDS.md) preserves Agency Agents, Agent Memory and OpenMontage without inventing canonical URLs. **No skills installed.**
+
+## Sixteenth collection — Superpowers and forecast-aware agents
+
+[137 — Superpowers](137-SUPERPOWERS-SKILL-CLAUDE-CODE-CODEX-AGENT-PLANNING.md) expands prior **obra/superpowers** reference with verified app-specific installation paths and brainstorming→approved plan→TDD→review→completion sequence. [139 — Agent Token Forecasting](139-AGENT-TOKEN-COST-FORECAST-OBSERVABILITY-LOOP.md) adds explicit predicted context/tool calls/time/cost, actual measurement, error clustering, calibration and reliability guardrails. No plugins installed or telemetry activated by cataloguing.
