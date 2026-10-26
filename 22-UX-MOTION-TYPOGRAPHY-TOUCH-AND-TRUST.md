@@ -81,3 +81,7 @@ Use durable typography, spacing, semantic colors, component rules, content examp
 - [13 — UI interaction/icon vocabulary](13-DESIGN-INTERACTIONS-ICON-STYLES.md).
 - [17 — Design websites](17-DESIGN-WEBSITES-AND-COMPONENT-LIBRARIES.md).
 - [19 — Design skills and hooks](19-AGENT-SKILLS-HOOKS-AND-CODE-ANIMATION.md).
+
+## Thirteenth batch: animation, input and perceived latency UX
+
+[107 — 20 UI Tips](107-TWENTY-UI-TIPS-FOR-CLAUDE-WITH-ACCEPTANCE-CHECKS.md) adds specific touch and motion concepts: **hit slop**, safe-area insets, predictive back, interruptible animations, View Transitions and Amazon safe triangle submenu behavior. Also loading mechanisms, real undo, opt-in presentation polish, and idempotent backend requests. Reduced motion, keyboard and real authorization remain priority over spectacular effects.
