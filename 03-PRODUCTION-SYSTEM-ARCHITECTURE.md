@@ -190,3 +190,7 @@ These supplement the existing architecture glossary and security controls, not m
 ## Tenth source batch — real app infrastructure and self-hosting claims
 
 [73 — Appwrite/Supabase/n8n/Boilerplates](73-APPWRITE-PUBLIC-APIS-SUPABASE-N8N-WEBAPP-BOILERPLATES.md) gives a backend/platform vs directory vs automation vs starter distinction, with proper n8n license caution. [72 — Self-Hosted Alternatives](72-TEN-SELF-HOSTED-PRIVACY-ALTERNATIVES-SCREENSHOTS.md) includes maintenance, local data, secrets/backup and network filtering. [74 — Mobile Diagnostics](74-PRIVACYPACK-AND-PLUG-IN-PHONE-MALWARE-DIAGNOSTICS.md) describes consensual device forensic indicators, not guaranteed virus-clean claims. Keep selection proportional to project requirements.
+
+## Eleventh batch — GraphQL, Laravel auth and real release gates
+
+[78 — Security Checks 55–70](78-SECURITY-CHECKS-55-70-GRAPHQL-AND-AI-PERMISSIONS.md) adds an exactly numbered screenshot list with testable defenses, including business-logic abuse, webhook idempotency, untrusted CI/dependencies and GraphQL resolver authorization. [80 — Laravel Signup](80-XTOOL-REACTOS-LARAVEL-SIGNUP-RASPBERRY-PI.md) details official starter-kit registration/Fortify, password reset, verification and UX test cases. [76 — 20 Prelaunch Checks](76-TWENTY-WEBSITE-PRELAUNCH-CHECKS-SCREENSHOT.md) is checklist evidence, not an assurance from a prompt alone.
