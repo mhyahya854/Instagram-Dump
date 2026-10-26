@@ -105,3 +105,7 @@ The reel rapidly dictates icon styles and some distorted names. Classify by inde
 ## UX extension: touch and motion
 
 [22 — Motion, Typography, Touch and Trust](22-UX-MOTION-TYPOGRAPHY-TOUCH-AND-TRUST.md) adds platform-specific touch target sizing, honest progress, a social-graphic type-scale example and manipulative paywall cautions. [18 — Visual Taxonomy](18-LEARNING-UI-CRITIQUE-VISUAL-TAXONOMY.md) covers meaning-making mechanisms rather than visual styles.
+
+## Ninth collection — scene-to-functional-code reveal pattern
+
+[66 — ICQR Magic Tree](66-ICQR-VOXEL-TREE-SCANNABLE-QR-INTERACTION.md) is a good example of a **visual metaphor that returns to a usable artifact**: tree/voxel animation initially draws attention; tapping or a labeled control reveals a flat, machine-scannable QR. Motion earns its place only if final QR contrast, four-module quiet zone, no occlusion, reduced motion, keyboard alternative and actual phone scanning remain correct. The screenshot explicitly records spring/summer/autumn, leaf color, ambience and an unspecified export type. Reference only; no mandatory UI animation.
