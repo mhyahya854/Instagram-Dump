@@ -71,3 +71,7 @@ The transcript mentions **apexdrawn.com**. The actual domain appears to be a 202
 - https://developers.google.com/search/docs/crawling-indexing/robots/intro
 - https://web.dev/articles/vitals
 - [37 — Website Prelaunch](37-WEBSITE-PRELAUNCH-RELEASE-CHECKLIST.md)
+
+## Eighth reel: design inspiration and skill list update
+
+[61 — Hindi Inspiration Translation](61-DESIGN-INSPIRATION-WEBSITES-HINDI-TRANSLATION.md) clarifies Landing Love, MaxiBestOf and the unspecified minimal/editorial inspiration gallery; [62 — Immersive Website Motion](62-IMMERSIVE-WEB-GSAP-TASTE-21ST-SHADCN-MCP.md) catalogs GSAP/Taste/21st/shadcn; [63 — Ten Skills](63-TEN-AGENT-SKILLS-WEB-ASSETS-SLIDES-IOS-SUPABASE-MARKETING.md) links Supabase, frontend-slides, web assets, Emil, HyperFrames, Impeccable and skill search. [64](64-DESIGNER-RESOURCE-LEADS-REVERSAL-LAB-SKILLS.md) retains unverified Reversal Lab and Prompt Cat source names. All remain optional references.
