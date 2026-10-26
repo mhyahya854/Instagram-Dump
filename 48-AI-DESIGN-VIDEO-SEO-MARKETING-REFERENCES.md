@@ -79,3 +79,7 @@ The transcript mentions **apexdrawn.com**. The actual domain appears to be a 202
 ## Ninth collection — ICQR interactive visual-to-QR design
 
 [66 — ICQR Magic Tree](66-ICQR-VOXEL-TREE-SCANNABLE-QR-INTERACTION.md) records a generative 3D interaction in which a URL's QR modules structure a tree landscape, then resolve into a flat, scannable code. It is **not** merely an image-generation effect; QR payload fidelity, accessibility, exports, sound and real mobile scanning determine whether the experience works. Three seasons, leaf-color option and ambient sound are screenshot claims. Original site https://tree.icqr.com/ ; community implementations separately attributed. Treat as optional inspiration, not a requirement to add 3D visual effects.
+
+## Twelfth screenshot batch — creative resource directory
+
+The twelve uploaded design-reference screenshots have all **70 source rows and original captions** indexed in [98 — Complete Resource Index](98-DESIGN-RESOURCE-CAROUSEL-MASTER-INDEX.md), with independent categories for motion ([88](88-UI-UX-ANIMATIONS-SIX-SOURCES.md)), genuine assets ([91](91-ICONS-ILLUSTRATIONS-3D-SIX-SOURCES.md)), backgrounds ([92](92-BACKGROUNDS-TEXTURES-SIX-SOURCES.md)), mockups ([93](93-MOCKUPS-DEVICES-SCREENSHOTS-SIX-SOURCES.md)) and font/color system ([94](94-COLORS-FONTS-SIX-SOURCES.md)). All are reference resources; licenses, accessibility and functional QA still govern implementation.
