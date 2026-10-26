@@ -215,3 +215,13 @@ Full dated source register: [60](60-INSTAGRAM-REELS-SEVENTH-BATCH-REGISTER.md).
 ## Ninth source collection — ICQR Magic Tree and related GitHub code
 
 Original site: **https://tree.icqr.com/**, no verified first-party open-source code. Four **independent** publicly available source projects to research: [Slifronic/magic-tree](https://github.com/Slifronic/magic-tree), [lavine888/QR-Worlds](https://github.com/lavine888/QR-Worlds), [JULESlois/3D-QR](https://github.com/JULESlois/3D-QR), and [AlbertAZ1992/every-qrcode](https://github.com/AlbertAZ1992/every-qrcode). Architecture, scan/effect tests and license separation in [66 — Case Study](66-ICQR-VOXEL-TREE-SCANNABLE-QR-INTERACTION.md); exact screenshot/source ledger in [67 — Register](67-INSTAGRAM-REELS-NINTH-BATCH-REGISTER.md). **Research only, no installations.**
+
+## Tenth Instagram image collection: concrete GitHub research leads
+
+- [68 — Trending Ten](68-TEN-TRENDING-CLAUDE-GITHUB-REPOS-SCREENSHOT.md) confirms **morluto/rea**, **DietrichGebert/ponytail**, **Nutlope/hallmark**, **blader/humanizer**, **onyx-dot-app/onyx**, **pbakaus/impeccable**, **nextlevelbuilder/ui-ux-pro-max-skill**, **mvanhorn/last30days-skill**, **D4Vinci/Scrapling**, **cathrynlavery/diagram-design**.
+- [72 — Self-hosted Ten](72-TEN-SELF-HOSTED-PRIVACY-ALTERNATIVES-SCREENSHOTS.md) catalogs Paperless-ngx, Karakeep, Vaultwarden, Anytype, AdGuard Home, Syncthing, Home Assistant, Audiobookshelf, Stirling-PDF and Bitwarden Send with verified upstream and price/feature corrections.
+- [73 — Developer Platforms](73-APPWRITE-PUBLIC-APIS-SUPABASE-N8N-WEBAPP-BOILERPLATES.md): Appwrite, Public APIs directory, Supabase, n8n (Sustainable Use License), and two open starter-template repositories.
+- [74 — PrivacyPack and Phone Diagnostics](74-PRIVACYPACK-AND-PLUG-IN-PHONE-MALWARE-DIAGNOSTICS.md) records **ente/privacypack**, **mvt-project/mvt** and **mvt-project/androidqf**. Exact “plug a phone to find/fix all viruses” original product is **unresolved**.
+- [70 — Original Turtle Code](70-TURTLE-HEART-SCREENSHOT-CODE.py) contains the exact logical Python script transcribed from screenshot, unrelated to GitHub skills.
+
+All additions are **research/catalog only**; no installers, unknown USB diagnostic software or live systems executed.
