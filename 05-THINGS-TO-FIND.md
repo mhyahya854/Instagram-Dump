@@ -243,3 +243,16 @@ All additions are **research/catalog only**; no installers, unknown USB diagnost
 - [108 — Five App Ideas](108-FIVE-VIBE-CODED-APP-IDEAS-AND-REAL-LIFE-GAMIFICATION.md) — Life RPG, swipe-for-X, portfolio, industry directory, mock interview app. No app automatically started.
 
 [110 — Source Register](110-INSTAGRAM-REELS-THIRTEENTH-BATCH-SOURCE-REGISTER.md) keeps eight original screenshots and two typed source groups separate.
+
+## Fourteenth Instagram batch — new repo research leads
+
+- [111 — Manim](111-MANIM-GL-AND-COMMUNITY-MATH-ANIMATIONS.md): 3b1b/manim (ManimGL) and ManimCommunity/manim (distinct packages).
+- [112 — Skills](112-THREEJS-GSAP-DESIGN-DNA-LOTTIE-GENJUTSU-AGENT-SKILLS.md): **CloudAI-X/threejs-skills**, greensock/gsap-skills, zanwei/design-dna, LottieFiles/motion-design-skill, AThevon/genjutsu.
+- [113 — FreeLLMAPI](113-FREELLMAPI-FREE-TIER-ROUTER-VERIFICATION.md): advertised multi-provider routing, not a guaranteed 7.4B usable tokens per person.
+- [114 — Apps](114-OPENCUT-ANYTHINGLLM-NUCLEAR-CAP-HANDY-ALTERNATIVES.md): OpenCut, AnythingLLM, Nuclear, Cap, Handy.
+- [115 — Octop](115-TENCENT-OCTOP-SELF-HOSTED-MULTIAGENT-CLAIMS.md): TencentCloud/Octop self-hosted agent/orchestration with potentially remote model use.
+- [117 — PixiJS ASCII](117-PIXIJS-ASCII-LILY-FLOWERS-AND-BRILLIANT-DISCOVERY.md): pixijs/filters AsciiFilter, flower rendering, plus separate brilliant.org comment.
+- [118 — Agentation](118-FIVE-HUNDRED-AI-AGENTS-AND-AGENTATION-UI-FEEDBACK.md): ashishpatel26/500-AI-Agents-Projects and **benjitaylor/agentation** visual feedback.
+- [119 — Windows reference commands](119-WINDOWS-11-CONTEXT-MENU-REGISTRY-COMMANDS-ARCHIVE.md): per-user Explorer context menu change/revert captured without running.
+
+[120 — All 19 Screenshot Sources](120-INSTAGRAM-REELS-FOURTEENTH-BATCH-REGISTER.md). Research-only, do not auto-install.
