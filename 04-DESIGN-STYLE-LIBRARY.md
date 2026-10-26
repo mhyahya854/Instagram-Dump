@@ -63,3 +63,7 @@ The source mentions **claymorphism, neo-futurism, flat design, Material Design, 
 ## Sixth batch — additional visual style labels (REFERENCE ONLY)
 
 Includes claymorphism, neo-futurism, flat design, Material Design, pop art, industrial, aurora, vector, elegant/classy UI, real-object UI and soft-surface/neumorphic variants. See [48 — Design/Video/SEO](48-AI-DESIGN-VIDEO-SEO-MARKETING-REFERENCES.md). **No automatic application; standing avoid-by-default rules remain.**
+
+## Eighth reel distinction: design references versus style instructions
+
+[61 — Hindi Design Reference Guide](61-DESIGN-INSPIRATION-WEBSITES-HINDI-TRANSLATION.md) encourages studying animation sequence, typography hierarchy and meaningful negative space, while avoiding one-to-one copying. [62 — GSAP/Taste/Registry MCP](62-IMMERSIVE-WEB-GSAP-TASTE-21ST-SHADCN-MCP.md) shows how tools can enable optional motion and components but **do not mandate immersive style** or supersede the user task. See [17 — Website Directory](17-DESIGN-WEBSITES-AND-COMPONENT-LIBRARIES.md).
