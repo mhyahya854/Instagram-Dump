@@ -63,3 +63,7 @@ After the batch was initiated, a subsequent user message contained **three inlin
 Screenshots are not mirrored publicly to the repository, only their text and researched references. **No software installed, images modified, network/browser agent run, credential provided, profile scraped, registry changed, new accounts registered, paid services used or Universal-Rules repository updated.**
 
 [Previous fourteenth register](120-INSTAGRAM-REELS-FOURTEENTH-BATCH-REGISTER.md) and [README](README.md).
+
+## Later source recovery note — 2026-10-26
+
+At the time this fifteenth register was written, it accurately reported **three subsequent/earlier image references were not accessible** to the tool session. They were **later successfully mounted and independently inspected** as exact filenames `image(20261026-172734).png`, `image(20261026-172849).png` and `image(20261026-173027).png`. Their complete new documentation is [151](151-LENIS-GSAP-VANTA-REACT-BITS-ANIMATION-SOURCE-REPOS.md), [152](152-OPENVIKING-AGENT-CONTEXT-DATABASE-RESEARCH.md) and [153](153-FIVE-LICENSES-FREEDOM-SPECTRUM-AND-COMPLIANCE.md), indexed in [163 — Later Eighteenth Batch Register](163-INSTAGRAM-REELS-EIGHTEENTH-BATCH-SOURCE-REGISTER.md). The original 18-image fifteenth-batch count is unchanged. This note resolves the historic visibility limitation instead of pretending those three were processed in the original batch.
