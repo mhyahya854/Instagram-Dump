@@ -72,3 +72,7 @@ Sources:
 ## Twelfth screenshot batch — four QA/performance resource references
 
 [97 — Testing Before You Ship](97-TESTING-BEFORE-SHIP-FOUR-SOURCES.md) preserves **PageSpeed Insights, GTmetrix, WebPageTest and Design Lint** in exact reel order. The first three profile loading/performance; **Design Lint** finds inconsistent/missing design styles in Figma, not broken backend APIs or app security. Combine these with actual browser flows, accessibility and server tests; “passed a speed test” is not an entire launch acceptance.
+
+## Fourteenth batch — avoid gimmicky SEO promises
+
+[116 — “Rank #1 by Friday” Reel](116-SEO-REEL-RANK-BY-FRIDAY-CLAIMS-AND-REAL-QA.md) preserves all 20 check/X chips and translates them into meaningful crawl/indexing, structured data and real performance checks. Correctly distinguishes **intentional noindex**, **legitimate 404**, **AI-assisted content** and **author bios/Forbes links** from universal ranking defects. Never promise first position from a checklist.
