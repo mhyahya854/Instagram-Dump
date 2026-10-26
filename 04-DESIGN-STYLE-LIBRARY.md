@@ -75,3 +75,7 @@ Includes claymorphism, neo-futurism, flat design, Material Design, pop art, indu
 ## Twelfth screenshot batch — curated references, not new automatic styles
 
 [98 — Resource Map](98-DESIGN-RESOURCE-CAROUSEL-MASTER-INDEX.md) adds a complete **70-resource directory** with separate sources for inspiration, motion, design-system tokens, mobile UX, mockups, media and color/type. These sites should guide **selection and analysis** of an explicit creative brief; they do not override the existing rule to avoid generic purple gradients, purposeless animation, overstuffed interfaces, or invented evidence.
+
+## Fourteenth batch — machine-readable visual identity and original animations
+
+[112 — Design DNA and Skills](112-THREEJS-GSAP-DESIGN-DNA-LOTTIE-GENJUTSU-AGENT-SKILLS.md) distinguishes structured design identity/tokens from outright copying other products. [117 — PixiJS ASCII Lily](117-PIXIJS-ASCII-LILY-FLOWERS-AND-BRILLIANT-DISCOVERY.md) gives a possible procedural/vector flower + ASCII shader/filter visual style; this is **inspiration**, not a recovered original source or compulsory brand style.
