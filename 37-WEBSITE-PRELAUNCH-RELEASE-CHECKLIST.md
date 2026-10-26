@@ -68,3 +68,7 @@ Sources:
 ## Eleventh source batch: 20 things to check before website launch
 
 [76 — Exact 20-Point Screenshot Checklist](76-TWENTY-WEBSITE-PRELAUNCH-CHECKS-SCREENSHOT.md) keeps the original list in order: privacy, terms, frontend secrets, HTTPS, consent, metadata, social previews, favicon, sitemap/robots, alt text, compression, speed, contrast, mobile, proper HTTP 404, links, form validation, spam control, analytics and CTA. A video mentioning “under 28 seconds” is not proof of testing; all acceptance criteria require real evidence.
+
+## Twelfth screenshot batch — four QA/performance resource references
+
+[97 — Testing Before You Ship](97-TESTING-BEFORE-SHIP-FOUR-SOURCES.md) preserves **PageSpeed Insights, GTmetrix, WebPageTest and Design Lint** in exact reel order. The first three profile loading/performance; **Design Lint** finds inconsistent/missing design styles in Figma, not broken backend APIs or app security. Combine these with actual browser flows, accessibility and server tests; “passed a speed test” is not an entire launch acceptance.
