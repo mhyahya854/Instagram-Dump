@@ -64,3 +64,7 @@ Sources:
 - Open Graph: https://ogp.me/
 - WhatsApp click-to-chat: https://faq.whatsapp.com/5913398998672934
 - Related: [02 Product Completeness](02-VIBE-CODED-APP-QUALITY.md), [20 Server Security](20-SECURITY-SERVER-HARDENING-OSI-LAYERS.md), [41 Legal Privacy](41-LEGAL-PRIVACY-COMPLIANCE-CLAIMS.md).
+
+## Eleventh source batch: 20 things to check before website launch
+
+[76 — Exact 20-Point Screenshot Checklist](76-TWENTY-WEBSITE-PRELAUNCH-CHECKS-SCREENSHOT.md) keeps the original list in order: privacy, terms, frontend secrets, HTTPS, consent, metadata, social previews, favicon, sitemap/robots, alt text, compression, speed, contrast, mobile, proper HTTP 404, links, form validation, spam control, analytics and CTA. A video mentioning “under 28 seconds” is not proof of testing; all acceptance criteria require real evidence.
