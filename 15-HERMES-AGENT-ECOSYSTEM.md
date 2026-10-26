@@ -51,3 +51,7 @@ Agent Reach **orchestrates multiple platform-specific tools** rather than giving
 - **“Quer Spaces”/Hermes computer:** plausible source https://github.com/trycua/hermes-cua-spaces ; name/capabilities not fully confirmed as the reel's exact plugin. Computer use has broad access to files, apps and signed-in sessions, so define human approval and audit boundaries.
 
 See [27 — AI Devices](27-EMERGING-AI-AGENTS-DEVICES-AND-MEDIA-TOOLS.md).
+
+## Seventh reel batch — expanded Hermes skills research
+
+[55 — Hermes Agent Skills](55-HERMES-AGENT-SKILLS-RESEARCH-CATALOG.md) records Oh My Hermes, Codebase Memory MCP, Defuddle, Browser Harness, OpenMontage, Composio Skills, Resemble Detect and several unresolved names. Browser Harness and third-party connectors can operate real signed-in accounts, so permission and privacy gates matter more than claimed speed. **Catalog only.**
