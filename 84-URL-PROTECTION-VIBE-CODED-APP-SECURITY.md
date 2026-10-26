@@ -219,3 +219,7 @@ These are conditional controls; a local-only private app may have no public doma
 [03 — Production Architecture](03-PRODUCTION-SYSTEM-ARCHITECTURE.md); [09 — Authentication and Session Risks](09-IDENTITY-SESSIONS-SECURITY-AND-AI-RISKS.md); [20 — App/Server Security](20-SECURITY-SERVER-HARDENING-OSI-LAYERS.md); [56 — JWT and Dependencies](56-AUTHENTICATION-JWT-REVOCATION-DEPENDENCY-SECURITY.md); [57 — Security Verification](57-RETICLE-ADVERSARIAL-REVIEWS-SECURITY-GATES.md); [78 — Security Checks 55–70](78-SECURITY-CHECKS-55-70-GRAPHQL-AND-AI-PERMISSIONS.md); [37 — Prelaunch Checklist](37-WEBSITE-PRELAUNCH-RELEASE-CHECKLIST.md).
 
 **Status:** thorough URL security research note and test plan completed; no code repository, deployed URL, network, browser session, payment route or public site tested. No third-party scanning, package installations, production updates, or Universal-Rules changes.
+
+## Seventeenth batch — route authorization, cookie safety and genuine audit evidence
+
+[149 — Exact Five-Point Production Auth Prompt](149-PRODUCTION-AUTHENTICATION-SECURITY-FIVE-POINT-PROMPT-AND-AUDIT.md) explains why server authorization must cover objects/actions and why HttpOnly cookies, CSRF defenses, MFA/recovery, rate limits and password policies require validated compatibility and NIST/OWASP-aligned choices. A client-side role flag alone is never server authorization. [143 — Strix](143-STRIX-PAGE-AGENT-MEETILY-TRENDING-THREE.md) is optional authorized security testing, not a guarantee of no vulnerabilities.
