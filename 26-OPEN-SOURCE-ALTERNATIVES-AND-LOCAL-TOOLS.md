@@ -47,3 +47,7 @@ Recorded as **discovery**, not approved for installation or migration. The known
 ## Sixth batch — local and edge project additions
 
 [49 — CarLink, Whistle & Local OSS](49-CARLINK-SMALL-SPEECH-MODELS-AND-LOCAL-OSS.md) covers CarLink/DiPlay, Cactus Whistle, Handy, Nuclear, AnythingLLM, Cap and OpenCut, with licensing, privacy and platform caveats.
+
+## Tenth source batch — ten verified self-hosted alternatives
+
+[72 — Paperless, Karakeep, Vaultwarden, Anytype, AdGuard Home, Syncthing, Home Assistant, Audiobookshelf, Stirling-PDF & Bitwarden Send](72-TEN-SELF-HOSTED-PRIVACY-ALTERNATIVES-SCREENSHOTS.md) records each screenshot's original claimed paid-service replacement **separately** from actual supported functions, maintenance, rights and limitations. Important: Syncthing is sync, not backup; AdGuard Home cannot filter every ad; self-hosting does not guarantee total privacy or zero cost. [74 — PrivacyPack](74-PRIVACYPACK-AND-PLUG-IN-PHONE-MALWARE-DIAGNOSTICS.md) is an independent in-browser privacy-switch *share card*, not a virus scanner.
