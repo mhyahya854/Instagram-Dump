@@ -187,3 +187,7 @@ Keep hierarchy, interaction, motion and aesthetics as contextual decisions, not 
 ## Fifteenth research batch — Forced Connection and Five Whys
 
 [125 — Practical Playbook](125-FORCED-CONNECTION-AND-FIVE-WHYS-PRACTICAL-PLAYBOOK.md) expands **Forced Connection** (deliberately combining unrelated mechanisms for original design ideas) and **Five Whys** (evidence-backed iterative root-cause analysis), including actual application to UX and technical bugs. Forced connections are **hypotheses** requiring usability and accessibility testing; Five Whys can branch into multiple causal paths and does not magically find one root after exactly five questions. [129 — Agent Typography Cards](129-AGENCY-AGENTS-AGENT-MEMORY-OPENMONTAGE-VISUAL-CARDS.md) captures large numeral/glow compositions as optional visual references only, not default UI.
+
+## Sixteenth resource batch — intentional motion and branded backgrounds
+
+[133 — Watermelon UI, Motion Primitives, Manus and Haikei](133-WATERMELON-MOTION-PRIMITIVES-MANUS-HAIKEI-UI-TOOLS.md) separates interactive React components, animation primitives, hosted agents and decorative vector backgrounds. [136 — Grainrad](136-GRAINRAD-ASCII-DITHER-HALFTONE-GENERATIVE-EFFECTS.md) adds ASCII, halftone and dithering references. Use intentionally: motion accessibility, real interface content, low visual noise and ownership-appropriate source assets remain requirements. [138 — PRD/Architecture](138-PRD-ARCHITECTURE-SEPARATE-SPEC-DOC-CONTRACT.md) helps connect user flows to implementation tests.
