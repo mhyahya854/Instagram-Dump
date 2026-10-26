@@ -79,3 +79,7 @@ Includes claymorphism, neo-futurism, flat design, Material Design, pop art, indu
 ## Fourteenth batch — machine-readable visual identity and original animations
 
 [112 — Design DNA and Skills](112-THREEJS-GSAP-DESIGN-DNA-LOTTIE-GENJUTSU-AGENT-SKILLS.md) distinguishes structured design identity/tokens from outright copying other products. [117 — PixiJS ASCII Lily](117-PIXIJS-ASCII-LILY-FLOWERS-AND-BRILLIANT-DISCOVERY.md) gives a possible procedural/vector flower + ASCII shader/filter visual style; this is **inspiration**, not a recovered original source or compulsory brand style.
+
+## Fifteenth collection — creative thinking + motion typography reference
+
+[125 — Forced Connection](125-FORCED-CONNECTION-AND-FIVE-WHYS-PRACTICAL-PLAYBOOK.md) is a **creative mechanism** for generating original design solutions from unrelated domains; the resulting style has to solve user needs, not merely be unfamiliar. [129 — Three Numbered Cards](129-AGENCY-AGENTS-AGENT-MEMORY-OPENMONTAGE-VISUAL-CARDS.md) captures large condensed numeral + foreground text + shadow glow as **optional** inspiration, not a universal visual treatment. [123 — Five Image Prompts](123-IMAGE-EDITING-FIVE-EXACT-INSTAGRAM-PROMPTS.md) preserves removal, background, wardrobe, outpainting and colour grading references without executing them.
