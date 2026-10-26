@@ -80,3 +80,7 @@ Sources:
 ## Sixteenth collection — legal claims and internet presence
 
 [132 — Legal Compliance Claim Ledger](132-VIBE-CODED-APP-LEGAL-COMPLIANCE-CLAIM-LEDGER.md) includes COPPA applicability, remote Google Fonts/European data transfer, session replay consent, CAN-SPAM opt-out/address, California automatic renewals and DMCA notice/takedown agent eligibility. Screenshot fine amounts are **not guaranteed per visitor/email/image liabilities**. [135 — Free Subdomain](135-RUNS-ON-DEV-FREE-SUBDOMAIN-GITHUB-CLAIM-GUIDE.md) adds provider/dependent DNS, cookie/origin handling and business continuity checks.
+
+## Seventeenth batch — don't mistake framework clues for release defects
+
+[142 — Twenty “Vibe-coded” Clues](142-TWENTY-VIBECODED-WEBSITE-GIVEAWAYS-SOURCE-AND-FACT-CHECK.md) crosschecks the exact 20-item reel against meaningful SEO/accessibility/performance quality. “Multiple H1s”, “vercel.app”, React/Vite and absence of an optional llms.txt file are not universal failures. [149 — Auth Hardening](149-PRODUCTION-AUTHENTICATION-SECURITY-FIVE-POINT-PROMPT-AND-AUDIT.md) documents secure session and auth acceptance checks but requires project-specific testing/approval before production changes.
