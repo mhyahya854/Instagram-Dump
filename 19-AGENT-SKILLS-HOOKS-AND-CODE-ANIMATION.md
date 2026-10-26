@@ -110,3 +110,7 @@ The reel refers to a purported design skill “UI UX Comma Design” with 136,00
 ## Thirteenth reel: code-film skills and full source verification
 
 [106 — Lemo Opuscar/Remotion](106-LEMO-OPUSCAR-REMOTION-CODE-FILM-MOTION.md) documents the exact `lemomo-ai/lemo-opuscar` screenshot (59 styles, plugin guidance) and independent `remotion-dev/remotion` React renderer. Repo's **MIT code/docs ≠ free uncredited reuse of demo video/audio**, and Remotion has special licensing. [104 — fogleman/ln](104-FOGLEMAN-LN-3D-VECTOR-LINE-ART-ENGINE.md) documents Go SVG 3D line art. None is installed/approved for arbitrary execution.
+
+## Fourteenth Instagram batch — verified motion/code design skills
+
+[111 — Manim Versions](111-MANIM-GL-AND-COMMUNITY-MATH-ANIMATIONS.md) distinguishes ManimGL and Community. [112 — Five Skills](112-THREEJS-GSAP-DESIGN-DNA-LOTTIE-GENJUTSU-AGENT-SKILLS.md) preserves 25 original feature bullets for Three.js, GSAP, Design DNA, LottieFiles Motion Design and Genjutsu, with screenshot owner `ClaudeAI-X` corrected to verified GitHub **`CloudAI-X/threejs-skills`**. [117 — PixiJS ASCII Flowers](117-PIXIJS-ASCII-LILY-FLOWERS-AND-BRILLIANT-DISCOVERY.md) describes visual-filter animation, separate from Python-only ASCII art. **No external agent skills installed.**
