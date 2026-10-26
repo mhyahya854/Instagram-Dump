@@ -78,3 +78,7 @@ A dependency is external software whose package, update script or transitive imp
 - Secrets: scan git history and rotate exposed credentials; deleting a committed key from new code is not enough.
 
 Related: [09 — Sessions Security](09-IDENTITY-SESSIONS-SECURITY-AND-AI-RISKS.md), [20 — App Security](20-SECURITY-SERVER-HARDENING-OSI-LAYERS.md), [03 — Production Architecture](03-PRODUCTION-SYSTEM-ARCHITECTURE.md).
+
+## URL-boundary protection complement to JWT/session rules
+
+[84 — URL Security Guide](84-URL-PROTECTION-VIBE-CODED-APP-SECURITY.md) covers access tokens in URLs/logs, session-protected direct deep links, short-lived signed file URLs, account-state checks and URL-derived domain/redirect risks. URL obfuscation is **not** an authorization policy; client hidden buttons cannot protect backend operations.
