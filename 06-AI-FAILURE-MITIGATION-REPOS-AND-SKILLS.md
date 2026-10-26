@@ -196,3 +196,7 @@ No new entries have been automatically approved, security-cleared or installed.
 ## Thirteenth collection — Anthropic OSS Scanner (additional security research)
 
 [109 — Anthropic OSS Scanner](109-ANTHROPIC-OSS-SCANNER-OPEN-SOURCE-SECURITY-SERVICE.md) verifies `anthropics/oss-scanner` as an **opt-in service for eligible public open-source maintainers**, not an unrestricted scanner automatically usable on private vibe-coded applications. Enrollment is through public project PR, configured contact and Dockerfile/threat model. Model-generated opt-in reports are unreviewed and must be independently tested. **No enrollment or scan performed.** [105 — OSINT Repos](105-OSINT-TORB-MAILACCESS-HORUS-SOURCE-LINKS.md) logs three separate investigation tools with owner-consent boundaries. Keep earlier 68-entry count as historic; don't inflate it without recalculating.
+
+## Seventeenth batch — added research leads, not retroactively part of original 68
+
+[143 — usestrix/strix](143-STRIX-PAGE-AGENT-MEETILY-TRENDING-THREE.md) is an agentic penetration-testing framework for **authorized scope only**. [149 — Production Authentication Checks](149-PRODUCTION-AUTHENTICATION-SECURITY-FIVE-POINT-PROMPT-AND-AUDIT.md) adds session/authorization/MFA/rate/password review with modern NIST/OWASP corrections. [145 — 40 Claude Names](145-FORTY-CLAUDE-REPOS-EXACT-LIST-AND-MATCHES.md) and [148 — 23 Agent Tools](148-CONTEXT-MEMORY-TOKEN-BURN-CUT-AGENT-TOOL-MATRIX.md) are **additional research candidates**, not verified secure installs or additions to the previously stated 68 count.
