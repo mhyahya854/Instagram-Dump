@@ -83,3 +83,7 @@ The transcript mentions **apexdrawn.com**. The actual domain appears to be a 202
 ## Twelfth screenshot batch — creative resource directory
 
 The twelve uploaded design-reference screenshots have all **70 source rows and original captions** indexed in [98 — Complete Resource Index](98-DESIGN-RESOURCE-CAROUSEL-MASTER-INDEX.md), with independent categories for motion ([88](88-UI-UX-ANIMATIONS-SIX-SOURCES.md)), genuine assets ([91](91-ICONS-ILLUSTRATIONS-3D-SIX-SOURCES.md)), backgrounds ([92](92-BACKGROUNDS-TEXTURES-SIX-SOURCES.md)), mockups ([93](93-MOCKUPS-DEVICES-SCREENSHOTS-SIX-SOURCES.md)) and font/color system ([94](94-COLORS-FONTS-SIX-SOURCES.md)). All are reference resources; licenses, accessibility and functional QA still govern implementation.
+
+## Thirteenth screenshot batch: video creators and code-rendered films
+
+[103 — Nine AI Video Services](103-AI-VIDEO-CREATOR-TOOLS-NINE-WEBSITES.md) preserves three pink carousel images: **Unscreen.com (officially shut down 2026-06-29), D-ID, HeyGen, ElevenLabs, Submagic, Captions.ai, Title-Generator.com (exact active service unverified), Repurpose.io and Adobe Podcast**. [106 — Lemo Opuscar & Remotion](106-LEMO-OPUSCAR-REMOTION-CODE-FILM-MOTION.md) separates code-rendered 59-style filmmaking from Remotion's React video framework, with source/media/commercial license caveats. [104 — fogleman/ln](104-FOGLEMAN-LN-3D-VECTOR-LINE-ART-ENGINE.md) is a separate Go vector line-art renderer. No services used, videos produced or media uploaded.
