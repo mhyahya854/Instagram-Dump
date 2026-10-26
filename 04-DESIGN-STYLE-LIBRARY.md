@@ -87,3 +87,7 @@ Includes claymorphism, neo-futurism, flat design, Material Design, pop art, indu
 ## Sixteenth collection — external procedural graphic libraries
 
 [133 — Watermelon UI + Motion Primitives + Haikei](133-WATERMELON-MOTION-PRIMITIVES-MANUS-HAIKEI-UI-TOOLS.md) contributes modern component, motion and scalable decorative assets as **style options**, not a one-style mandate. [136 — Grainrad](136-GRAINRAD-ASCII-DITHER-HALFTONE-GENERATIVE-EFFECTS.md) documents ASCII, dithering, halftone and other image-to-texture conversions; evaluate licenses, contrast and export format before incorporation.
+
+## Seventeenth Instagram style list and Libraries.dev effects
+
+[147 — 22 Source Styles](147-TWENTY-TWO-DESIGN-STYLES-SOURCE-TAXONOMY.md) transcribes Claymorphism, Cybercore, Neo-Brutalism, Scrapbook, Surrealism, Y2K, Pixel Art, Synthwave, Glassmorphism, Neumorphism, Bento Grid, Editorial, Swiss, Minimalism, Maximalism, Luxury Typography, Conceptual Sketch, Ethereal, Bohemian, Victorian, Cyberpunk and Wabi-Sabi. [146 — Libraries.dev](146-LIBRARIES-DEV-AND-FINE-TUNING-AI-MODELS.md) adds decorative React effect examples with reduced-motion/accessibility caveats. Do not merge all styles into one app.
