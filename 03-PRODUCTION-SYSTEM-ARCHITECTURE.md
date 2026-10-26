@@ -186,3 +186,7 @@ These supplement the existing architecture glossary and security controls, not m
 ## Seventh reel addendum: verification and performance
 
 [56 — JWT/Dependency Security](56-AUTHENTICATION-JWT-REVOCATION-DEPENDENCY-SECURITY.md) extends session revocation and package trust. [57 — Reticle & Adversarial Reviews](57-RETICLE-ADVERSARIAL-REVIEWS-SECURITY-GATES.md) requires evidence from the actual running app, not only code review. [59 — Core Web Vitals and Architecture](59-WEB-PERFORMANCE-CORE-WEB-VITALS-AND-INFRASTRUCTURE.md) covers measured LCP/INP/CLS, mobile profiling, caching, JS, image/font optimization and backend decision dimensions. These are conditional checks, not a mandate for enterprise infrastructure in every app.
+
+## Tenth source batch — real app infrastructure and self-hosting claims
+
+[73 — Appwrite/Supabase/n8n/Boilerplates](73-APPWRITE-PUBLIC-APIS-SUPABASE-N8N-WEBAPP-BOILERPLATES.md) gives a backend/platform vs directory vs automation vs starter distinction, with proper n8n license caution. [72 — Self-Hosted Alternatives](72-TEN-SELF-HOSTED-PRIVACY-ALTERNATIVES-SCREENSHOTS.md) includes maintenance, local data, secrets/backup and network filtering. [74 — Mobile Diagnostics](74-PRIVACYPACK-AND-PLUG-IN-PHONE-MALWARE-DIAGNOSTICS.md) describes consensual device forensic indicators, not guaranteed virus-clean claims. Keep selection proportional to project requirements.
