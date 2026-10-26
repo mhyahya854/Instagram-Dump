@@ -191,3 +191,7 @@ Keep hierarchy, interaction, motion and aesthetics as contextual decisions, not 
 ## Sixteenth resource batch — intentional motion and branded backgrounds
 
 [133 — Watermelon UI, Motion Primitives, Manus and Haikei](133-WATERMELON-MOTION-PRIMITIVES-MANUS-HAIKEI-UI-TOOLS.md) separates interactive React components, animation primitives, hosted agents and decorative vector backgrounds. [136 — Grainrad](136-GRAINRAD-ASCII-DITHER-HALFTONE-GENERATIVE-EFFECTS.md) adds ASCII, halftone and dithering references. Use intentionally: motion accessibility, real interface content, low visual noise and ownership-appropriate source assets remain requirements. [138 — PRD/Architecture](138-PRD-ARCHITECTURE-SEPARATE-SPEC-DOC-CONTRACT.md) helps connect user flows to implementation tests.
+
+## Seventeenth reel — design rules versus superficial “vibe-code” clues
+
+[142 — Twenty Vibe-coded Website Clues](142-TWENTY-VIBECODED-WEBSITE-GIVEAWAYS-SOURCE-AND-FACT-CHECK.md) preserves the original 20 labels but separates real UX/accessibility concerns from unsupported claims (React, multiple H1s, blocked AI crawlers, a Vercel URL). [147 — Twenty-two Visual Styles](147-TWENTY-TWO-DESIGN-STYLES-SOURCE-TAXONOMY.md) is an optional aesthetic taxonomy, not a mandate to use every style.
