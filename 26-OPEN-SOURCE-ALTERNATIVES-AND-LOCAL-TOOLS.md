@@ -55,3 +55,7 @@ Recorded as **discovery**, not approved for installation or migration. The known
 ## Eleventh batch — ToffeeShare, ReactOS and VoxelWall distinctions
 
 [81 — ToffeeShare](81-TOFFEESHARE-PEER-TO-PEER-PRIVATE-FILE-TRANSFER.md) is an ephemeral encrypted browser-to-browser transfer service, **not backup/storage or verified fully open-source**. [80 — ReactOS](80-XTOOL-REACTOS-LARAVEL-SIGNUP-RASPBERRY-PI.md) is an alpha Windows-compatible OS best explored in VM, not installed on a primary laptop. [79 — VoxelWall-Inspired Cross-Platform Plan](79-VOXELWALL-CROSS-PLATFORM-WINDOWS-LINUX-MAC-PLAN.md) is a planned original multi-OS wallpaper app, **not a first-party free VoxelWall port**.
+
+## Fourteenth batch — five additional open/local app references
+
+[114 — OpenCut, AnythingLLM, Nuclear, Cap and Handy](114-OPENCUT-ANYTHINGLLM-NUCLEAR-CAP-HANDY-ALTERNATIVES.md) preserves source captions, compared services and independently verified GitHub repos. Current OpenCut README identifies an ongoing rewrite and classic editor; AnythingLLM's local app may connect to remote LLMs. Cap's features vary with OS/release; Handy is designed for local speech transcription. [115 — Tencent Octop](115-TENCENT-OCTOP-SELF-HOSTED-MULTIAGENT-CLAIMS.md) is local orchestration but may still use remote model providers. None installed.
