@@ -83,6 +83,14 @@ Personal, evolving design, UX, vibe-coded app and production engineering notes. 
 | [73 — Appwrite, Public APIs, Supabase, n8n & Starters](73-APPWRITE-PUBLIC-APIS-SUPABASE-N8N-WEBAPP-BOILERPLATES.md) | Backend choices, API catalog, fair-code n8n licensing and verified web app templates |
 | [74 — PrivacyPack & Phone Security Diagnostics](74-PRIVACYPACK-AND-PLUG-IN-PHONE-MALWARE-DIAGNOSTICS.md) | Ente's PrivacyPack, Amnesty MVT, AndroidQF, forensic consent and scan limitations |
 | [75 — Tenth Instagram Source Register](75-INSTAGRAM-REELS-TENTH-BATCH-REGISTER.md) | Nineteen screenshots across three groups and seven typed research leads, source-to-topic map |
+| [76 — 20 Website Prelaunch Checks](76-TWENTY-WEBSITE-PRELAUNCH-CHECKS-SCREENSHOT.md) | Exact 20 reel items, real acceptance criteria and applicable legal/security/performance caveats |
+| [77 — Portfolio Styles and Empty-Space UX](77-PORTFOLIO-STYLE-SCREENSHOTS-AND-WHITESPACE-RULES.md) | Swiss Editorial, Floating Node, Brutalist Billboard, Bento, Architectural Split, meaningful whitespace |
+| [78 — Security Checks 55–70](78-SECURITY-CHECKS-55-70-GRAPHQL-AND-AI-PERMISSIONS.md) | MFA, enumeration, race conditions, webhook replay, CI, untrusted actions, AI scopes and GraphQL tests |
+| [79 — VoxelWall Cross-Platform Project](79-VOXELWALL-CROSS-PLATFORM-WINDOWS-LINUX-MAC-PLAN.md) | Mac app reference and independent Windows/Linux/macOS Rust/wgpu wallpaper-engine research plan |
+| [80 — xtool, ReactOS, Laravel and Raspberry Pi](80-XTOOL-REACTOS-LARAVEL-SIGNUP-RASPBERRY-PI.md) | Verified iOS tooling, alpha OS caution, Laravel Fortify signup flows and Pi source-gap |
+| [81 — ToffeeShare File Transfer](81-TOFFEESHARE-PEER-TO-PEER-PRIVATE-FILE-TRANSFER.md) | WebRTC encrypted ephemeral file sharing, sender-online and browser limitations |
+| [82 — Project Hardware Buying Shortlist](82-PROJECT-BUILDING-HARDWARE-PURCHASE-SHORTLIST.md) | Portable second monitor and blue-switch mechanical keyboard candidates, SAR pricing and compatibility |
+| [83 — Eleventh Screenshot Source Register](83-INSTAGRAM-REELS-ELEVENTH-BATCH-REGISTER.md) | Nine screenshots, twelve editorial source/request groups, original wording and evidence status |
 | [Transcription Notes](TRANSCRIPTION-NOTES.md) | Unclear phrases and tentative corrections retained transparently |
 
 ## Decision labels
@@ -150,3 +158,7 @@ A supplied screenshot, not a complete video, is preserved as one case study in [
 ## Tenth collection — 2026-10-26 screenshot and tool research
 
 Nineteen user-uploaded screenshots (one trending-tool collage, **seven** Hermes carousel panels, one Turtle code screenshot, ten self-hosted app cards), plus typed research on **Appwrite, Public APIs, Supabase, n8n, webapp boilerplates, PrivacyPack, and phone-malware diagnostics**. The executable Python code is preserved in file 70; exact numerical/loop logic retained and syntax-compiled, **not GUI-rendered**. The accompanying 7 topic notes and source register distinguish verified repository names from promotional claims and unknown device repair vendors. Archive **separate**, no Universal-Rules change, no external software installations, no user-device scans.
+
+## Eleventh Instagram screenshot and research batch — 2026-10-26
+
+**Eight separate files (76–83)** document nine user-uploaded screenshots and direct requests covering 20 prelaunch checks, six portfolio frames/five reference labels, security issues 55–70, one minimal Raspberry Pi clip, VoxelWall cross-platform project planning, xtool, ReactOS, Laravel registration, ToffeeShare and two potential hardware purchases. The screenshots are not separately reuploaded to GitHub. The software clone is a research plan, not an implementation. No real application audit, checkout, installer or Universal-Rules edit occurred.
