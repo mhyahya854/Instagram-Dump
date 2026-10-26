@@ -76,3 +76,7 @@ See [11 — Data Pipeline Quality](11-DATA-PIPELINE-QUALITY.md): a successful ba
 ## Fifth reel batch: release checklist with evidence
 
 [37 — Website Prelaunch & Release Checklist](37-WEBSITE-PRELAUNCH-RELEASE-CHECKLIST.md) covers mobile, actual link/form/email/WhatsApp behavior, real payments, HTTPS, performance, GA4, Search Console, social previews and backup restore drills. [41 — Legal/Privacy](41-LEGAL-PRIVACY-COMPLIANCE-CLAIMS.md) adds jurisdiction-sensitive compliance questions. A prompt-only checklist is **not** verification the checks ran.
+
+## Seventh reel batch — real app verification and performance
+
+[57 — Reticle & Review Gates](57-RETICLE-ADVERSARIAL-REVIEWS-SECURITY-GATES.md) describes why fixing one form can break another, and how to record observable regression results. [59 — Web Performance](59-WEB-PERFORMANCE-CORE-WEB-VITALS-AND-INFRASTRUCTURE.md) adds Lighthouse and Web Vitals baselines with exact route/device/network before-after tests. Do not claim “all fixed” without actual checks.
