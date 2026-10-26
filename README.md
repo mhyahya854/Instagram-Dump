@@ -148,6 +148,16 @@ Personal, evolving design, UX, vibe-coded app and production engineering notes. 
 | [138 — PRD / Architecture Docs](138-PRD-ARCHITECTURE-SEPARATE-SPEC-DOC-CONTRACT.md) | Two screenshot labels per file and expanded architecture/specification contract |
 | [139 — Agent Cost Forecast Learning](139-AGENT-TOKEN-COST-FORECAST-OBSERVABILITY-LOOP.md) | Exact original user idea and telemetry, prediction, cohort calibration, safe continuous improvement |
 | [140 — Sixteenth Source Register](140-INSTAGRAM-REELS-SIXTEENTH-BATCH-SOURCE-REGISTER.md) | All ten screenshot filenames and three typed requests, source distinctions and research corrections |
+| [141 — Redis for AI](141-REDIS-IN-AI-CACHE-VECTOR-RAG-AGENT-STATE.md) | Caption-only screenshot expanded with separately sourced caching, RAG, vector search, agent state and failure modes |
+| [142 — 20 Vibe-Coded Site Clues](142-TWENTY-VIBECODED-WEBSITE-GIVEAWAYS-SOURCE-AND-FACT-CHECK.md) | All twenty reel items and three comments, with evidence-based corrections |
+| [143 — Three Trending GitHub Repos](143-STRIX-PAGE-AGENT-MEETILY-TRENDING-THREE.md) | Verified Strix, Alibaba Page Agent and Meetily; screenshot metrics preserved as dated claims |
+| [144 — Five UI Agent Design Resources](144-TASTE-AWESOMEDESIGN-IMAGETOCODE-WEB-GUIDELINES-PLAYWRIGHT.md) | TasteSkill, web guidelines, AwesomeDesign, ImageToCode and Playwright CLI; ambiguous names retained |
+| [145 — Forty Claude Repos](145-FORTY-CLAUDE-REPOS-EXACT-LIST-AND-MATCHES.md) | Complete original numbered list 1–40, with verified/probable/unresolved repo ownership distinguished |
+| [146 — Libraries.dev + Fine-Tuning](146-LIBRARIES-DEV-AND-FINE-TUNING-AI-MODELS.md) | React design effects, license/agent skill, and fine-tuning vs prompting/RAG |
+| [147 — 22 UI/Visual Styles](147-TWENTY-TWO-DESIGN-STYLES-SOURCE-TAXONOMY.md) | All style labels in original order, from Claymorphism to Wabi-Sabi |
+| [148 — Agent Context, Memory and Token Cost](148-CONTEXT-MEMORY-TOKEN-BURN-CUT-AGENT-TOOL-MATRIX.md) | User-supplied GET CONTEXT IN / REMEMBER IT / SEE THE BURN / CUT THE BURN, all 23 tools |
+| [149 — Production Auth Security Prompt](149-PRODUCTION-AUTHENTICATION-SECURITY-FIVE-POINT-PROMPT-AND-AUDIT.md) | Complete original five-part source text and NIST/OWASP corrections without executing changes |
+| [150 — Seventeenth Screenshot Register](150-INSTAGRAM-REELS-SEVENTEENTH-BATCH-SOURCE-REGISTER.md) | All ten uploaded PNG source entries and two typed groups, provenance and corrections |
 | [Transcription Notes](TRANSCRIPTION-NOTES.md) | Unclear phrases and tentative corrections retained transparently |
 
 ## Decision labels
@@ -243,3 +253,7 @@ Nineteen user-uploaded screenshots (one trending-tool collage, **seven** Hermes 
 ## Sixteenth Instagram screenshots, research and agent-forecast idea — 2026-10-26
 
 **Ten new topic files (131–140)** capture **all 10 user-uploaded screenshots**: Edge0 SSD-streamed sparse MoE, six legal/compliance penalty assertions with independently verified qualifications, Watermelon UI, Motion Primitives, Manus, Haikei, five Spanish Google product labels, the free **runs-on.dev** GitHub-linked subdomain service, Grainrad.com ASCII/dithering effects and the two-document PRD.md/ARCHITECTURE.md planning example. Typed priorities are researched separately: **Superpowers (obra/superpowers)** and a complete **forecast → actual token/tool costs → variance clusters → evidence-backed agent improvement** proposal. [140 — Full Source Register](140-INSTAGRAM-REELS-SIXTEENTH-BATCH-SOURCE-REGISTER.md) maps every image. **No subdomain claimed, software installed, browser/OS changes, real usage telemetry, legal audit or Universal-Rules edits.**
+
+## Seventeenth source batch — 2026-10-26
+
+**Ten new topic files (141–150)** archive **all ten readable screenshots** from the latest Instagram batch: Redis in AI, 20 alleged vibe-coded-site fingerprints, three trending GitHub projects (Strix, Alibaba Page Agent, Meetily), five visual-design agent resources, the complete 40-Claude-repo reel, Libraries.dev, fine-tuning, and a 22-style list. The two separately typed source groups are **23 agent tools organized in four categories** and a **full five-part production authentication hardening prompt**. Claims are preserved separately from independently verified technical corrections, especially the video's unreliable AI-attribution clues and the security prompt's outdated password composition rules. [150 — Seventeenth Source Register](150-INSTAGRAM-REELS-SEVENTEENTH-BATCH-SOURCE-REGISTER.md) enumerates every source image. **Previous ten screenshots are already covered by [131–140](140-INSTAGRAM-REELS-SIXTEENTH-BATCH-SOURCE-REGISTER.md).** No live application, device, password policy, installed skill or Universal-Rules repository was changed.
