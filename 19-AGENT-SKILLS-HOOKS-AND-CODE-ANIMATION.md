@@ -94,3 +94,7 @@ The reel refers to a purported design skill “UI UX Comma Design” with 136,00
 ## Sixth batch — additional skills and media sources
 
 [44 — Skill Research](44-REPLICA-UNLAZY-AGENT-SKILLS-AND-TOOL-WISHLIST.md) records Replica, Unlazy, Anthropic Ralph Loop, Brag and unresolved model-router claims. [48 — Prompt Motion and Creative Direction](48-AI-DESIGN-VIDEO-SEO-MARKETING-REFERENCES.md) researches Prompt Motion/Pocket Creative Director. Executable hooks and persistent loops need explicit permissions, budgets and stop conditions.
+
+## Seventh reel batch — verified film skills, original “kit” unavailable
+
+[53 — Claude Motion Graphics Workflow](53-MOTION-GRAPHICS-BRAND-GUIDE-VOICE-WORKFLOW.md) retains website brand-guide, script, narration and revision approach with missing kit prompts clearly noted. [54 — Five Video Styles](54-FIVE-CLAUDE-VIDEO-STYLES-AND-OPEN-REPOS.md) confirms HyperFrames, One Take, Collage B-roll, Claude Animation Base and Lemo Opuscar. [55 — Hermes/Agent Skills Catalog](55-HERMES-AGENT-SKILLS-RESEARCH-CATALOG.md) extends the research list. None installed.
