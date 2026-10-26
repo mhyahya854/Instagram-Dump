@@ -63,3 +63,7 @@ Recorded as **discovery**, not approved for installation or migration. The known
 ## Fifteenth collection — offline and hosted are different claims
 
 [122 — Qalb/Bonsai-2](122-QALB-URDU-BONSAI2-ARENA-OMNIVOICE-RESEARCH.md) describes Urdu model lead and PrismML compression, with model footprint distinct from total inference RAM. [128 — Clicky](128-CLICKY-AI-SCREEN-BUDDY-AND-NAME-COLLISIONS.md) documents original open-source Mac helper versus newer private product development. [124 — Cost Stack](124-COST-CONSCIOUS-STACK-GSD-ROO-RALPH-CODERABBIT-LINKEDIN.md) preserves Neon/Cloudflare/R2 snapshot pricing claims, not permanent guarantees. [121 — RuView](121-RUVIEW-WIFI-SPATIAL-SENSING-RESEARCH.md) needs supported RF hardware and calibration.
+
+## Sixteenth collection — Edge0 and free infrastructure caveats
+
+[131 — Edge0 SSD-streamed MoE](131-EDGE0-SSD-STREAMED-MOE-LOCAL-LLM-FACT-CHECK.md) notes low active allocator vs **whole system memory**, 23GB 35B model weights, experimental Windows runtime and SSD performance needs. [135 — runs-on.dev](135-RUNS-ON-DEV-FREE-SUBDOMAIN-GITHUB-CLAIM-GUIDE.md) is free developer subdomain hosting identity, **not** an owned standalone DNS domain; operational provider/reclamation risk remains. Research only; no local software tested.
