@@ -71,3 +71,7 @@ Do not install unknown agents, grant accessibility/admin permissions, test arbit
 ## Sixth batch — CarLink and Whistle
 
 [49 — CarLink, Whistle and Local OSS](49-CARLINK-SMALL-SPEECH-MODELS-AND-LOCAL-OSS.md) covers Android devices reused for iPhone CarPlay, official release hashes, device permissions and a 16.9 MB Cactus speech model. Alleged Tiger S1 FreeCAD click model is not verified.
+
+## Eleventh batch — xtool and Raspberry Pi projects
+
+[80 — xtool, ReactOS, Laravel, Pi](80-XTOOL-REACTOS-LARAVEL-SIGNUP-RASPBERRY-PI.md) documents xtool-org/xtool's iOS SwiftPM build/sign/deploy capability on Linux/WSL/macOS, separate from Apple's Mac-only GUI Simulator, and a Raspberry Pi beginner project overview. Original screenshot only says “a Raspberry Pi”; no specific sensor, firmware or device is identifiable. [82 — Hardware Shopping](82-PROJECT-BUILDING-HARDWARE-PURCHASE-SHORTLIST.md) keeps monitor/keyboard research separate from development requirements.
