@@ -206,3 +206,7 @@ These supplement the existing architecture glossary and security controls, not m
 ## Sixteenth collection — law, deployment and measured agent operations
 
 [132 — Legal Compliance Claim Ledger](132-VIBE-CODED-APP-LEGAL-COMPLIANCE-CLAIM-LEDGER.md) records six alarming Instagram fine claims and accurate conditional legal implications for applicable COPPA, GDPR/fonts, session replay, CAN-SPAM, subscription consent and DMCA takedown. **Don't hardcode universally automatic fines.** [135 — runs-on.dev](135-RUNS-ON-DEV-FREE-SUBDOMAIN-GITHUB-CLAIM-GUIDE.md) is a useful free subdomain but adds a provider/DNS/HTTPS availability dependency. [139 — Agent Forecast Observability](139-AGENT-TOKEN-COST-FORECAST-OBSERVABILITY-LOOP.md) defines cost and quality telemetry, budget guardrails and calibration on real measured tasks.
+
+## Seventeenth reel — Redis and production authentication
+
+[141 — Redis in AI](141-REDIS-IN-AI-CACHE-VECTOR-RAG-AGENT-STATE.md) covers vector retrieval, semantic caches, session memory, distributed throttles and cache/freshness/privacy failure modes. [149 — Five-point Auth Security Prompt](149-PRODUCTION-AUTHENTICATION-SECURITY-FIVE-POINT-PROMPT-AND-AUDIT.md) preserves the original suggested controls but corrects cookies/CSRF, permissions, MFA, rate limiting and password policies against OWASP/NIST; **not an instruction to modify deployed authentication blindly**.
