@@ -183,3 +183,7 @@ Keep hierarchy, interaction, motion and aesthetics as contextual decisions, not 
 ## Thirteenth screenshot: twenty practical UI mechanisms
 
 [107 — Twenty UI Tips](107-TWENTY-UI-TIPS-FOR-CLAUDE-WITH-ACCEPTANCE-CHECKS.md) preserves exact numbered source order, including skeleton/optimistic loading, command menus, undo, stale-while-revalidate, BlurHash, view transitions, sheets, interruptible motion, predictive back, **hit slop** (bigger touch region), safe areas, OTP autofill, tabular numbers, balanced headings, continuous corners, backend idempotency, and the Amazon hover-safe triangle. These are optional/contextual patterns; apply only where they improve real user tasks and test negative/keyboard/motion states.
+
+## Fifteenth research batch — Forced Connection and Five Whys
+
+[125 — Practical Playbook](125-FORCED-CONNECTION-AND-FIVE-WHYS-PRACTICAL-PLAYBOOK.md) expands **Forced Connection** (deliberately combining unrelated mechanisms for original design ideas) and **Five Whys** (evidence-backed iterative root-cause analysis), including actual application to UX and technical bugs. Forced connections are **hypotheses** requiring usability and accessibility testing; Five Whys can branch into multiple causal paths and does not magically find one root after exactly five questions. [129 — Agent Typography Cards](129-AGENCY-AGENTS-AGENT-MEMORY-OPENMONTAGE-VISUAL-CARDS.md) captures large numeral/glow compositions as optional visual references only, not default UI.
