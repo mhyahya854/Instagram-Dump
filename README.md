@@ -75,6 +75,14 @@ Personal, evolving design, UX, vibe-coded app and production engineering notes. 
 | [65 — Eighth Reel Source Register](65-INSTAGRAM-REELS-EIGHTH-BATCH-REGISTER.md) | Five source groups, complete names/corrections and offline-first provenance |
 | [66 — ICQR Voxel Tree and Scannable QR](66-ICQR-VOXEL-TREE-SCANNABLE-QR-INTERACTION.md) | Original ICQR project, visual-to-QR interaction, algorithm, four independent open-source implementations, scannability checks |
 | [67 — Ninth Source Register: ICQR Screenshot](67-INSTAGRAM-REELS-NINTH-BATCH-REGISTER.md) | Six source claims from the screenshot, research evidence and unresolved details |
+| [68 — Ten Trending Claude GitHub Repos](68-TEN-TRENDING-CLAUDE-GITHUB-REPOS-SCREENSHOT.md) | REA, Ponytail, Hallmark, Humanizer, Onyx, Impeccable, UI/UX Pro Max, Last 30 Days, Scrapling, Diagram Design |
+| [69 — Hermes Unified Agent Carousel](69-HERMES-UNIFIED-AGENT-ECOSYSTEM-CAROUSEL.md) | Seven screenshots: skills, MCPs, memory, reusable corrections, messaging, jobs and orchestration |
+| [70 — Exact Python Turtle Heart Screenshot Code](70-TURTLE-HEART-SCREENSHOT-CODE.py) | Runnable original numeric logic from user image, editor wraps normalized |
+| [71 — Turtle Code Explanation & Provenance](71-TURTLE-HEART-CODE-PROVENANCE-AND-EXPLANATION.md) | Heart formula, random strands, screenshot transcription accuracy and syntax-only test |
+| [72 — Ten Self-Hosted App Alternatives](72-TEN-SELF-HOSTED-PRIVACY-ALTERNATIVES-SCREENSHOTS.md) | Paperless-ngx, Karakeep, Vaultwarden, Anytype, AdGuard, Syncthing, Home Assistant, Audiobookshelf, Stirling, Bitwarden Send |
+| [73 — Appwrite, Public APIs, Supabase, n8n & Starters](73-APPWRITE-PUBLIC-APIS-SUPABASE-N8N-WEBAPP-BOILERPLATES.md) | Backend choices, API catalog, fair-code n8n licensing and verified web app templates |
+| [74 — PrivacyPack & Phone Security Diagnostics](74-PRIVACYPACK-AND-PLUG-IN-PHONE-MALWARE-DIAGNOSTICS.md) | Ente's PrivacyPack, Amnesty MVT, AndroidQF, forensic consent and scan limitations |
+| [75 — Tenth Instagram Source Register](75-INSTAGRAM-REELS-TENTH-BATCH-REGISTER.md) | Nineteen screenshots across three groups and seven typed research leads, source-to-topic map |
 | [Transcription Notes](TRANSCRIPTION-NOTES.md) | Unclear phrases and tentative corrections retained transparently |
 
 ## Decision labels
@@ -138,3 +146,7 @@ Five separately maintained files (61–65) record **five editorial source groups
 ## Ninth Instagram collection — ICQR visual QR experiment (2026-10-26)
 
 A supplied screenshot, not a complete video, is preserved as one case study in [66 — ICQR](66-ICQR-VOXEL-TREE-SCANNABLE-QR-INTERACTION.md) and six source claims are indexed in [67 — Screenshot Register](67-INSTAGRAM-REELS-NINTH-BATCH-REGISTER.md). Original experience: https://tree.icqr.com/ . Four **independently licensed** public recreations are linked, but none is attributed as the site's own original source code. No code installed, app cloned, QR scanning performed or Universal-Rules changed.
+
+## Tenth collection — 2026-10-26 screenshot and tool research
+
+Nineteen user-uploaded screenshots (one trending-tool collage, **seven** Hermes carousel panels, one Turtle code screenshot, ten self-hosted app cards), plus typed research on **Appwrite, Public APIs, Supabase, n8n, webapp boilerplates, PrivacyPack, and phone-malware diagnostics**. The executable Python code is preserved in file 70; exact numerical/loop logic retained and syntax-compiled, **not GUI-rendered**. The accompanying 7 topic notes and source register distinguish verified repository names from promotional claims and unknown device repair vendors. Archive **separate**, no Universal-Rules change, no external software installations, no user-device scans.
