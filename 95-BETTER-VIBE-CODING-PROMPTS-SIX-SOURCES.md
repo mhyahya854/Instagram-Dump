@@ -18,3 +18,7 @@ Observe a **specific transferable mechanism** (hierarchy, information density, l
 **Verification statement:** this document records original screenshot wording separately from externally researched URLs/caveats. Not every link was live-tested; unresolved destinations are labeled. No website cloned, dependency installed, proprietary asset downloaded, application tested, or Universal-Rules changed.
 
 [Resource Index](98-DESIGN-RESOURCE-CAROUSEL-MASTER-INDEX.md) · [Original directory](17-DESIGN-WEBSITES-AND-COMPONENT-LIBRARIES.md) · [Design principles](01-DESIGN-UX.md)
+
+## Sixteenth collection — specification and cost instrumenting prompts
+
+[138 — PRD.md and ARCHITECTURE.md](138-PRD-ARCHITECTURE-SEPARATE-SPEC-DOC-CONTRACT.md) separates what/who from approved stack/data models, including requirement-to-test traceability. [137 — Superpowers](137-SUPERPOWERS-SKILL-CLAUDE-CODE-CODEX-AGENT-PLANNING.md) supplies optional systematic agent skill workflows; [139 — Forecast/Observe/Calibrate](139-AGENT-TOKEN-COST-FORECAST-OBSERVABILITY-LOOP.md) adds explicit token/time/tool assumptions and measurable prediction-error learning. No magic “never make mistakes” promise.
