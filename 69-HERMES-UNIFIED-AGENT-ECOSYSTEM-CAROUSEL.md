@@ -56,3 +56,7 @@ Each skill's code and input documents remain **untrusted**. Do not install execu
 Hermes exact version/provider, “built-in” feature availability, actual model costs, persisted memory internals, Telegram/Slack security properties, 24/7 host availability, first-try job accuracy, security/certification and whether any tasks were actually executed.
 
 **Related:** [15 Hermes Ecosystem](15-HERMES-AGENT-ECOSYSTEM.md), [30 Harness](30-AGENT-HARNESS-REPOS-GITHUB-PRESENTATION.md), [45 Agent-Navigable Apps](45-AGENT-NAVIGABLE-APP-ARCHITECTURE.md), [51 Workflow Proposals](51-UNIVERSAL-RULES-RESEARCH-PROPOSALS.md).
+
+## Fourteenth source batch — Tencent Octop comparison lead
+
+[115 — TencentCloud/Octop](115-TENCENT-OCTOP-SELF-HOSTED-MULTIAGENT-CLAIMS.md) is a distinct multi-user agent shell/control plane with messaging, memory, scheduler, web dashboard and local/remote model providers. Self-hosted app state **does not guarantee local LLM inference**, and the Instagram claim “free replaces ChatGPT” is not established. Compare Hermes and Octop feature/version maturity and security scopes before deployment.
