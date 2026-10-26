@@ -95,3 +95,7 @@ The twelve uploaded design-reference screenshots have all **70 source rows and o
 ## Fifteenth collection — image manipulation and reference library
 
 [123 — Five Source-Exact Image Editing Prompts](123-IMAGE-EDITING-FIVE-EXACT-INSTAGRAM-PROMPTS.md) stores full visible text for object removal, background swap, outfit swap, outpainting and cinematic colour grading, retaining screenshot typos. No image was edited. [122 — Are.na and Model Leads](122-QALB-URDU-BONSAI2-ARENA-OMNIVOICE-RESEARCH.md) includes hosted visual-reference curation; [129 — 1/4/5 Title Cards](129-AGENCY-AGENTS-AGENT-MEMORY-OPENMONTAGE-VISUAL-CARDS.md) captures typography/glow visuals as ideas only.
+
+## Sixteenth creative resources — motion, ASCII and five Google tools
+
+[133 — Watermelon, Motion Primitives, Manus, Haikei](133-WATERMELON-MOTION-PRIMITIVES-MANUS-HAIKEI-UI-TOOLS.md) has precise URLs and separate source/vendor descriptions. [134 — Spanish Google AI list](134-GOOGLE-AI-STUDIO-STITCH-POMELLI-ANTIGRAVITY-FLOW.md) preserves original five sentences and English translation for AI Studio/Stitch/Pomelli/Antigravity/Flow. [136 — Grainrad](136-GRAINRAD-ASCII-DITHER-HALFTONE-GENERATIVE-EFFECTS.md) documents ASCII/dither/halftone effects and export UI. None used to produce assets.
