@@ -171,3 +171,7 @@ Keep hierarchy, interaction, motion and aesthetics as contextual decisions, not 
 ## Sixth source batch — UI, agents and design references
 
 [48 — Motion/Design/SEO](48-AI-DESIGN-VIDEO-SEO-MARKETING-REFERENCES.md) preserves Prompt Motion, extra visual-style vocabulary, creative briefs and SEO limitations. [45 — Agent-Navigable Apps](45-AGENT-NAVIGABLE-APP-ARCHITECTURE.md) explains why meaningful semantics, keyboard access and clear feedback aid both people and approved AI tools. These are **reference-only considerations**, not new mandatory ornaments or automated UI changes.
+
+## Eighth reel batch: study design references by purpose
+
+[61 — Design Inspiration & Hindi Translation](61-DESIGN-INSPIRATION-WEBSITES-HINDI-TRANSLATION.md) differentiates **Landing Love** (motion sequencing), **MaxiBestOf** (typography and premium visual direction) and an unnamed minimal/editorial gallery (SiteInspire is an independently suggested candidate only). [62 — GSAP/Taste/21st/shadcn](62-IMMERSIVE-WEB-GSAP-TASTE-21ST-SHADCN-MCP.md) distinguishes animation from design judgment and source components; [63 — Ten Skills](63-TEN-AGENT-SKILLS-WEB-ASSETS-SLIDES-IOS-SUPABASE-MARKETING.md) lists optional implementation tools. Study ideas, not one-to-one copy or blanket visual effects.
