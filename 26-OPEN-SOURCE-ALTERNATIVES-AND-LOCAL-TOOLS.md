@@ -51,3 +51,7 @@ Recorded as **discovery**, not approved for installation or migration. The known
 ## Tenth source batch — ten verified self-hosted alternatives
 
 [72 — Paperless, Karakeep, Vaultwarden, Anytype, AdGuard Home, Syncthing, Home Assistant, Audiobookshelf, Stirling-PDF & Bitwarden Send](72-TEN-SELF-HOSTED-PRIVACY-ALTERNATIVES-SCREENSHOTS.md) records each screenshot's original claimed paid-service replacement **separately** from actual supported functions, maintenance, rights and limitations. Important: Syncthing is sync, not backup; AdGuard Home cannot filter every ad; self-hosting does not guarantee total privacy or zero cost. [74 — PrivacyPack](74-PRIVACYPACK-AND-PLUG-IN-PHONE-MALWARE-DIAGNOSTICS.md) is an independent in-browser privacy-switch *share card*, not a virus scanner.
+
+## Eleventh batch — ToffeeShare, ReactOS and VoxelWall distinctions
+
+[81 — ToffeeShare](81-TOFFEESHARE-PEER-TO-PEER-PRIVATE-FILE-TRANSFER.md) is an ephemeral encrypted browser-to-browser transfer service, **not backup/storage or verified fully open-source**. [80 — ReactOS](80-XTOOL-REACTOS-LARAVEL-SIGNUP-RASPBERRY-PI.md) is an alpha Windows-compatible OS best explored in VM, not installed on a primary laptop. [79 — VoxelWall-Inspired Cross-Platform Plan](79-VOXELWALL-CROSS-PLATFORM-WINDOWS-LINUX-MAC-PLAN.md) is a planned original multi-OS wallpaper app, **not a first-party free VoxelWall port**.
