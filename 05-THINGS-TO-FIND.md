@@ -283,3 +283,14 @@ All additions are **research/catalog only**; no installers, unknown USB diagnost
 - [139 — Forecasting and Learning](139-AGENT-TOKEN-COST-FORECAST-OBSERVABILITY-LOOP.md): user-proposed token/tool spend forecast, observed cost variance and calibrated task-class budgeting framework.
 
 [140 — Ten screenshot sources and typed priorities](140-INSTAGRAM-REELS-SIXTEENTH-BATCH-SOURCE-REGISTER.md).
+
+## Seventeenth batch — forty Claude repos, new apps and agent tool groups
+
+- [143 — Strix/Page Agent/Meetily](143-STRIX-PAGE-AGENT-MEETILY-TRENDING-THREE.md): verified three distinct GitHub sources, snapshot star figures not live ratings.
+- [144 — TasteSkill, Web Guidelines, AwesomeDesign, ImageToCode, Playwright CLI](144-TASTE-AWESOMEDESIGN-IMAGETOCODE-WEB-GUIDELINES-PLAYWRIGHT.md): two source names remain unverified exact owner.
+- [145 — Forty Claude Repos](145-FORTY-CLAUDE-REPOS-EXACT-LIST-AND-MATCHES.md): exact 1–40 names, researched canonical matches plus unresolved/ambiguous cases; do not install wholesale.
+- [146 — Libraries.dev](146-LIBRARIES-DEV-AND-FINE-TUNING-AI-MODELS.md): visual-effect npm libraries and free/pro skills (not a generic package directory).
+- [148 — Four Tool Groups](148-CONTEXT-MEMORY-TOKEN-BURN-CUT-AGENT-TOOL-MATRIX.md): all 23 new typed names categorized by context, memory, monitoring and efficiency.
+- [149 — Auth Security Prompt](149-PRODUCTION-AUTHENTICATION-SECURITY-FIVE-POINT-PROMPT-AND-AUDIT.md): exact user-supplied wording with corrections.
+
+[150 — All Ten New Screenshots](150-INSTAGRAM-REELS-SEVENTEENTH-BATCH-SOURCE-REGISTER.md). Catalogued, **not installed**.
