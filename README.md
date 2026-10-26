@@ -91,6 +91,8 @@ Personal, evolving design, UX, vibe-coded app and production engineering notes. 
 | [81 — ToffeeShare File Transfer](81-TOFFEESHARE-PEER-TO-PEER-PRIVATE-FILE-TRANSFER.md) | WebRTC encrypted ephemeral file sharing, sender-online and browser limitations |
 | [82 — Project Hardware Buying Shortlist](82-PROJECT-BUILDING-HARDWARE-PURCHASE-SHORTLIST.md) | Portable second monitor and blue-switch mechanical keyboard candidates, SAR pricing and compatibility |
 | [83 — Eleventh Screenshot Source Register](83-INSTAGRAM-REELS-ELEVENTH-BATCH-REGISTER.md) | Nine screenshots, twelve editorial source/request groups, original wording and evidence status |
+| [84 — URL Protection for Vibe-Coded Apps](84-URL-PROTECTION-VIBE-CODED-APP-SECURITY.md) | Server-side routes and object access, redirects, SSRF, safe links, tokens, private shares, DNS/TLS and 23 proposed security checks |
+| [85 — URL Protection Research Register](85-URL-PROTECTION-RESEARCH-SOURCE-REGISTER.md) | Direct user request, research sources, evidence classification and testing status |
 | [Transcription Notes](TRANSCRIPTION-NOTES.md) | Unclear phrases and tentative corrections retained transparently |
 
 ## Decision labels
@@ -162,3 +164,7 @@ Nineteen user-uploaded screenshots (one trending-tool collage, **seven** Hermes 
 ## Eleventh Instagram screenshot and research batch — 2026-10-26
 
 **Eight separate files (76–83)** document nine user-uploaded screenshots and direct requests covering 20 prelaunch checks, six portfolio frames/five reference labels, security issues 55–70, one minimal Raspberry Pi clip, VoxelWall cross-platform project planning, xtool, ReactOS, Laravel registration, ToffeeShare and two potential hardware purchases. The screenshots are not separately reuploaded to GitHub. The software clone is a research plan, not an implementation. No real application audit, checkout, installer or Universal-Rules edit occurred.
+
+## URL Protection: typed security research — 2026-10-26
+
+[84 — URL Protection in Vibe-Coded Apps](84-URL-PROTECTION-VIBE-CODED-APP-SECURITY.md) explains broken route authorization/IDOR, malicious URL handling, open redirects, SSRF (preview/import/webhooks), OAuth return URLs, signed share files, token leakage, DNS/TLS/host-header/staging security and **23 proposed tests**. [85 — Source Register](85-URL-PROTECTION-RESEARCH-SOURCE-REGISTER.md) distinguishes the single typed topic from independent OWASP research. **No real app scanned; no code or Universal-Rules changed.**
