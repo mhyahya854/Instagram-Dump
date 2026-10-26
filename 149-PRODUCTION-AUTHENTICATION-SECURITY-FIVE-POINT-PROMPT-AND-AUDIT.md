@@ -79,4 +79,4 @@ Use distributed rate limiting per IP **and** per account/identifier/device/risk 
 - OWASP CSRF https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html
 - OWASP Password Storage https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html
 
-**Status:** original prompt fully archived with corrected analysis; no source application specified, scanned, changed, deployed or claimed secure. Related [03 — Architecture](03-PRODUCTION-SYSTEM-ARCHITECTURE.md), [84 — URL Protection](84-URL-PROTECTION-VIBE-CODED-APP-SECURITY.md), [86 — URL AuthZ](86-URL-AUTHORIZATION-AND-PUBLIC-API-CHECKLIST.md), [143 — Strix](143-STRIX-PAGE-AGENT-MEETILY-TRENDING-THREE.md).
+**Status:** original prompt fully archived with corrected analysis; no source application specified, scanned, changed, deployed or claimed secure. Related [03 — Architecture](03-PRODUCTION-SYSTEM-ARCHITECTURE.md), [84 — URL Protection](84-URL-PROTECTION-VIBE-CODED-APP-SECURITY.md), [85 — URL Protection Source Register](85-URL-PROTECTION-RESEARCH-SOURCE-REGISTER.md), [143 — Strix](143-STRIX-PAGE-AGENT-MEETILY-TRENDING-THREE.md).
