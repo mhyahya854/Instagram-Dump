@@ -106,3 +106,7 @@ For identity photos, minimize collection, restrict access, encrypt and shorten r
 - Cloud and access rules: https://supabase.com/docs/guides/database/postgres/row-level-security
 - NIST Zero Trust: https://csrc.nist.gov/projects/zero-trust-architecture
 - Related existing file: [09 — JWT and Security](09-IDENTITY-SESSIONS-SECURITY-AND-AI-RISKS.md)
+
+## Eleventh source batch: numbered checks 55–70
+
+[78 — AI-App Security Checks 55–70](78-SECURITY-CHECKS-55-70-GRAPHQL-AND-AI-PERMISSIONS.md) records all sixteen screenshot items **verbatim** with risk-based defensive tests. Topics include MFA, account enumeration, abuse, races, webhook replay, secure CI/actions/dependencies, fail-open checks, timeouts, log redaction, AI output validation/permissions, browser storage, redirects and endpoint/GraphQL authorization. No live penetration test or application security clearance is claimed.
