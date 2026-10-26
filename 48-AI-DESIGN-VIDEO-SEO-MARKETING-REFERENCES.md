@@ -75,3 +75,7 @@ The transcript mentions **apexdrawn.com**. The actual domain appears to be a 202
 ## Eighth reel: design inspiration and skill list update
 
 [61 — Hindi Inspiration Translation](61-DESIGN-INSPIRATION-WEBSITES-HINDI-TRANSLATION.md) clarifies Landing Love, MaxiBestOf and the unspecified minimal/editorial inspiration gallery; [62 — Immersive Website Motion](62-IMMERSIVE-WEB-GSAP-TASTE-21ST-SHADCN-MCP.md) catalogs GSAP/Taste/21st/shadcn; [63 — Ten Skills](63-TEN-AGENT-SKILLS-WEB-ASSETS-SLIDES-IOS-SUPABASE-MARKETING.md) links Supabase, frontend-slides, web assets, Emil, HyperFrames, Impeccable and skill search. [64](64-DESIGNER-RESOURCE-LEADS-REVERSAL-LAB-SKILLS.md) retains unverified Reversal Lab and Prompt Cat source names. All remain optional references.
+
+## Ninth collection — ICQR interactive visual-to-QR design
+
+[66 — ICQR Magic Tree](66-ICQR-VOXEL-TREE-SCANNABLE-QR-INTERACTION.md) records a generative 3D interaction in which a URL's QR modules structure a tree landscape, then resolve into a flat, scannable code. It is **not** merely an image-generation effect; QR payload fidelity, accessibility, exports, sound and real mobile scanning determine whether the experience works. Three seasons, leaf-color option and ambient sound are screenshot claims. Original site https://tree.icqr.com/ ; community implementations separately attributed. Treat as optional inspiration, not a requirement to add 3D visual effects.
