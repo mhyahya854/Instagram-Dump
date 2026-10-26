@@ -138,6 +138,16 @@ Personal, evolving design, UX, vibe-coded app and production engineering notes. 
 | [128 — Clicky](128-CLICKY-AI-SCREEN-BUDDY-AND-NAME-COLLISIONS.md) | Probable Farza AI cursor teacher and distinct Clicky security platform, identity unresolved |
 | [129 — Agency Agents, Memory, OpenMontage](129-AGENCY-AGENTS-AGENT-MEMORY-OPENMONTAGE-VISUAL-CARDS.md) | Source-exact large-number visual frames 1, 4, 5; missing links preserved as unknown |
 | [130 — Fifteenth Screenshot Register](130-INSTAGRAM-REELS-FIFTEENTH-BATCH-SOURCE-REGISTER.md) | Complete 18-image inventory, six typed research leads, provenance and access limitations |
+| [131 — Edge0 SSD Streaming](131-EDGE0-SSD-STREAMED-MOE-LOCAL-LLM-FACT-CHECK.md) | Edge0 35B MoE expert offloading, true disk/memory footprint and multi-OS maturity |
+| [132 — Legal Claims Fact Check](132-VIBE-CODED-APP-LEGAL-COMPLIANCE-CLAIM-LEDGER.md) | COPPA, Google Fonts, session replay, CAN-SPAM, subscription renewals, DMCA screenshot claims vs law |
+| [133 — Watermelon, Motion, Manus, Haikei](133-WATERMELON-MOTION-PRIMITIVES-MANUS-HAIKEI-UI-TOOLS.md) | Four source-exact design/agent websites with capability and licensing distinctions |
+| [134 — Five Google AI Products](134-GOOGLE-AI-STUDIO-STITCH-POMELLI-ANTIGRAVITY-FLOW.md) | Five exact Spanish source lines and independent English translations, verified Google roles |
+| [135 — Free runs-on.dev Subdomains](135-RUNS-ON-DEV-FREE-SUBDOMAIN-GITHUB-CLAIM-GUIDE.md) | GitHub-based free-subdomain registry, OAuth eligibility, policy and hosting safety |
+| [136 — Grainrad Effects](136-GRAINRAD-ASCII-DITHER-HALFTONE-GENERATIVE-EFFECTS.md) | Web ASCII/dither/halftone editor, input/output formats, creative-coding techniques |
+| [137 — Superpowers Skills](137-SUPERPOWERS-SKILL-CLAUDE-CODE-CODEX-AGENT-PLANNING.md) | Official obra/superpowers process and platform-specific skill installation reference |
+| [138 — PRD / Architecture Docs](138-PRD-ARCHITECTURE-SEPARATE-SPEC-DOC-CONTRACT.md) | Two screenshot labels per file and expanded architecture/specification contract |
+| [139 — Agent Cost Forecast Learning](139-AGENT-TOKEN-COST-FORECAST-OBSERVABILITY-LOOP.md) | Exact original user idea and telemetry, prediction, cohort calibration, safe continuous improvement |
+| [140 — Sixteenth Source Register](140-INSTAGRAM-REELS-SIXTEENTH-BATCH-SOURCE-REGISTER.md) | All ten screenshot filenames and three typed requests, source distinctions and research corrections |
 | [Transcription Notes](TRANSCRIPTION-NOTES.md) | Unclear phrases and tentative corrections retained transparently |
 
 ## Decision labels
@@ -229,3 +239,7 @@ Nineteen user-uploaded screenshots (one trending-tool collage, **seven** Hermes 
 ## Fifteenth Instagram screenshot/research collection — 2026-10-26
 
 **Ten new topic documents (121–130)** cover the 18 mounted original screenshots: RuView, Qalb Urdu AI, PrismML Bonsai-2, Are.na, five exact orange image-editing prompts, OmniVoice (identity unresolved), Neon/Cloudflare/R2 cost advice, GSD/Roo/Ralph/CodeRabbit workflows, a LinkedIn agent skill, three-file PRD-to-implementation instructions, and source cards **1 Agency Agents / 4 Agent Memory / 5 OpenMontage**. The user's typed additions are individually researched: **Clicky, Forced Connection, Five Whys, JEV, Browser Use, GitHub agent skills and Graft**. [130 — Source Register](130-INSTAGRAM-REELS-FIFTEENTH-BATCH-SOURCE-REGISTER.md) preserves the original-to-research distinction and notes three later inline images were not available for extraction at the time. **No apps installed, models downloaded, images edited, browser agents run or Universal-Rules changed.**
+
+## Sixteenth Instagram screenshots, research and agent-forecast idea — 2026-10-26
+
+**Ten new topic files (131–140)** capture **all 10 user-uploaded screenshots**: Edge0 SSD-streamed sparse MoE, six legal/compliance penalty assertions with independently verified qualifications, Watermelon UI, Motion Primitives, Manus, Haikei, five Spanish Google product labels, the free **runs-on.dev** GitHub-linked subdomain service, Grainrad.com ASCII/dithering effects and the two-document PRD.md/ARCHITECTURE.md planning example. Typed priorities are researched separately: **Superpowers (obra/superpowers)** and a complete **forecast → actual token/tool costs → variance clusters → evidence-backed agent improvement** proposal. [140 — Full Source Register](140-INSTAGRAM-REELS-SIXTEENTH-BATCH-SOURCE-REGISTER.md) maps every image. **No subdomain claimed, software installed, browser/OS changes, real usage telemetry, legal audit or Universal-Rules edits.**
