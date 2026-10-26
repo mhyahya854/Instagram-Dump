@@ -88,3 +88,7 @@ Linked references: [08-AGENT-REPOS-AND-SKILL-WISHLIST.md](08-AGENT-REPOS-AND-SKI
 ## Sixth batch — agent-compatible apps and verification
 
 [45 — Agent-Navigable App Architecture](45-AGENT-NAVIGABLE-APP-ARCHITECTURE.md) extends AI tool design to accessible human UI, OpenAPI, MCP, and permission-aware action services. [44 — Unlazy](44-REPLICA-UNLAZY-AGENT-SKILLS-AND-TOOL-WISHLIST.md) records acceptance-ledger verification. [46 — Document Safety](46-PROMPT-INJECTION-UNTRUSTED-DOCUMENTS-AND-REEL-INGESTION.md) documents lower-trust text boundaries.
+
+## Tenth image source: Hermes all-in-one architecture reference
+
+[69 — Hermes Carousel](69-HERMES-UNIFIED-AGENT-ECOSYSTEM-CAROUSEL.md) describes a unified orchestration/work management interface with memory, external chat, skills, scoped MCP tools, computer/browser operations and scheduled jobs. It documents seven **illustrative** screenshot slides, including repeated correction→versioned reusable workflow; not proof the tool safely runs unattended or that all vendors provide those functions. Do not auto-schedule the carousel's sample tasks or connect Telegram/Slack on its authority.
