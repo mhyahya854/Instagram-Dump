@@ -83,3 +83,7 @@ Example: a **frontend specialist** could review accessibility, focus, responsive
 ## Additional agents/skills — second reel batch
 
 [19 — Agent Skills, Hooks and Programmatic Animation](19-AGENT-SKILLS-HOOKS-AND-CODE-ANIMATION.md) records GSD, CodeRabbit, SlopMonster, Apple Design, Claude Code hooks, Figma-to-browser-QA workflows and uncertain titles. Research mention is not installation permission.
+
+## Eighth reel batch: design and engineering skills (research only)
+
+[63 — Ten Skills](63-TEN-AGENT-SKILLS-WEB-ASSETS-SLIDES-IOS-SUPABASE-MARKETING.md) adds source candidates for app/web assets, frontend slides, iOS simulator operation, official Supabase agent guidance, relevant marketing prompts, Emil design engineering, HyperFrames, Impeccable, Taste and skill discovery. [62 — Immersive Web MCP](62-IMMERSIVE-WEB-GSAP-TASTE-21ST-SHADCN-MCP.md) documents the official 21st and shadcn MCP interfaces. Their external code/dependency installation and permissions require a separate review. [64](64-DESIGNER-RESOURCE-LEADS-REVERSAL-LAB-SKILLS.md) preserves Reversal Lab as unresolved.
