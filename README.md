@@ -68,6 +68,11 @@ Personal, evolving design, UX, vibe-coded app and production engineering notes. 
 | [Critical Thinking & AI Sycophancy](58-AI-SYCOPHANCY-CRITICAL-THINKING-LLM-COUNCIL.md) | Stanford research correction, neutral prompts, devil's advocate, independent AI council |
 | [Web Performance & System Design](59-WEB-PERFORMANCE-CORE-WEB-VITALS-AND-INFRASTRUCTURE.md) | LCP, INP, CLS, real mobile testing and proportionate production architecture |
 | [Seventh Source Register](60-INSTAGRAM-REELS-SEVENTH-BATCH-REGISTER.md) | All eleven reel segments, claims, identifications and unverified guide gaps |
+| [61 — Design Inspiration (Hindi Translation)](61-DESIGN-INSPIRATION-WEBSITES-HINDI-TRANSLATION.md) | Landing Love, MaxiBestOf, minimalist editorial references; translation and uncertain names |
+| [62 — Immersive Web Components & Motion](62-IMMERSIVE-WEB-GSAP-TASTE-21ST-SHADCN-MCP.md) | GSAP, Taste, 21st MCP, shadcn MCP with functionality/accessibility controls |
+| [63 — Ten Agent Skills](63-TEN-AGENT-SKILLS-WEB-ASSETS-SLIDES-IOS-SUPABASE-MARKETING.md) | Web assets, HTML slides, iOS simulator, Supabase, marketing, Emil, HyperFrames, Impeccable, Taste, Find Skills |
+| [64 — Design Resource Leads & Reversal Lab](64-DESIGNER-RESOURCE-LEADS-REVERSAL-LAB-SKILLS.md) | Prompt Motion, Prompt Flow, AI x Leaders, Claude Code Club, Prompt Cat and unresolved Reversal Lab |
+| [65 — Eighth Reel Source Register](65-INSTAGRAM-REELS-EIGHTH-BATCH-REGISTER.md) | Five source groups, complete names/corrections and offline-first provenance |
 | [Transcription Notes](TRANSCRIPTION-NOTES.md) | Unclear phrases and tentative corrections retained transparently |
 
 ## Decision labels
@@ -123,3 +128,7 @@ The October 25 pasted sixth batch is indexed in [52 — Sixth Register](52-INSTA
 ## Seventh Instagram batch — October 26, 2026
 
 **Eight standalone notes (53–60)** document **11 distinct spoken reel segments**, not necessarily eleven independently verified original videos. Verified repositories and independent technical corrections remain distinct from the creator's unshared skills/prompts, promotional quality claims, and unresolved skill names. Security and token safety are illustrated with tests and threat models, not executable attacks. No skills were installed; no production changes, scans, deployments or public postings were performed. The related Universal-Rules project remains untouched.
+
+## Eighth Instagram batch — 2026-10-26
+
+Five separately maintained files (61–65) record **five editorial source groups**, not a verified Instagram-video count. Hindi explanations have faithful English translations with uncertain phonetic names clearly marked. The original galleries, component-registry tools, and agent-skill candidates are categorized by purpose. Reversal Lab Skills remains unverified rather than being misidentified. All findings are research-only: **no third-party scripts installed and Universal-Rules untouched**.
