@@ -93,6 +93,23 @@ Personal, evolving design, UX, vibe-coded app and production engineering notes. 
 | [83 — Eleventh Screenshot Source Register](83-INSTAGRAM-REELS-ELEVENTH-BATCH-REGISTER.md) | Nine screenshots, twelve editorial source/request groups, original wording and evidence status |
 | [84 — URL Protection for Vibe-Coded Apps](84-URL-PROTECTION-VIBE-CODED-APP-SECURITY.md) | Server-side routes and object access, redirects, SSRF, safe links, tokens, private shares, DNS/TLS and 23 proposed security checks |
 | [85 — URL Protection Research Register](85-URL-PROTECTION-RESEARCH-SOURCE-REGISTER.md) | Direct user request, research sources, evidence classification and testing status |
+| [86 — Design Inspiration](86-DESIGN-INSPIRATION-SIX-GALLERIES.md) | Six galleries: Awwwards, Godly, Minimal Gallery, Landbook, SiteInspire, Refs.Gallery |
+| [87 — UI Components](87-UI-COMPONENTS-SIX-SOURCES.md) | Six sources: 21st.dev, Uiverse, Aceternity UI, Magic UI, shadcn/ui, Page UI |
+| [88 — UI Animations](88-UI-UX-ANIMATIONS-SIX-SOURCES.md) | Six sources: Ripplix, 60fps.design, Animista, Motion, LottieFiles, GSAP |
+| [89 — Design Systems](89-DESIGN-SYSTEMS-SIX-SOURCES.md) | Six sources: DesignMD.co, FreeDesignMD, designmd.app, Design Systems Repo, Component Gallery, Tokens Studio |
+| [90 — Mobile UI Inspiration](90-MOBILE-APP-INSPIRATION-SIX-SOURCES.md) | Six sources: Mobbin, Pageflows, Banani, ScreensDesign, Appshots, Apple Design Resources |
+| [91 — Icons and Illustrations](91-ICONS-ILLUSTRATIONS-3D-SIX-SOURCES.md) | Six sources: 3dicons, Lummi, unDraw, DrawKit, Open Peeps, Figma Community |
+| [92 — Backgrounds and Textures](92-BACKGROUNDS-TEXTURES-SIX-SOURCES.md) | Six sources: Haikei, MagicPattern, Texturelabs, Subtle Patterns, GradientsHub, Pexels |
+| [93 — Mockups and Recordings](93-MOCKUPS-DEVICES-SCREENSHOTS-SIX-SOURCES.md) | Six sources: Shots.so, Rotato, Smartmockups, Placeit, Mockuuups, Screen.studio |
+| [94 — Colors and Fonts](94-COLORS-FONTS-SIX-SOURCES.md) | Six sources: Coolors, Adobe Color, Grabient, CSS Gradient, Google Fonts, Fontshare |
+| [95 — Vibe Coding Prompts](95-BETTER-VIBE-CODING-PROMPTS-SIX-SOURCES.md) | Six sources: Vibe Code Source, nxcode, awesome-design-md, Google design.md, Notion Prompts, Site of Sites |
+| [96 — Landing Page Sections](96-LANDING-PAGE-SECTIONS-SIX-SOURCES.md) | Six sources: Supahero, Shuffle.dev, Untitled UI, One Page Love, Preline, DaisyUI |
+| [97 — Prelaunch Testing Tools](97-TESTING-BEFORE-SHIP-FOUR-SOURCES.md) | Four sources: PageSpeed Insights, GTmetrix, WebPageTest, Figma Design Lint |
+| [98 — Design Resource Master Index](98-DESIGN-RESOURCE-CAROUSEL-MASTER-INDEX.md) | Twelve original screenshots and seventy exact names, descriptions and research references |
+| [99 — Windows Hitodama](99-WINDOWS-HITODAMA-AI-DESKTOP-ASSISTANT.md) | Voice assistant, Circle-to-Ask, dictation, desktop commands, scheduled tasks, vendor and privacy caveats |
+| [100 — Pure Python ASCII Art Code](100-PURE-PYTHON-ASCII-ART-AND-ANIMATION.py) | Standard-library-only runnable heart, waves and plasma, syntax and terminal output tested |
+| [101 — Python ASCII Art Research](101-PURE-PYTHON-ASCII-ART-RESEARCH-NOTES.md) | Math, terminal art, animation, media conversion limits and GitHub research |
+| [102 — Twelfth Screenshot Source Register](102-INSTAGRAM-REELS-TWELFTH-BATCH-REGISTER.md) | Complete original captions, source grouping, researched links and unresolved identities |
 | [Transcription Notes](TRANSCRIPTION-NOTES.md) | Unclear phrases and tentative corrections retained transparently |
 
 ## Decision labels
@@ -168,3 +185,7 @@ Nineteen user-uploaded screenshots (one trending-tool collage, **seven** Hermes 
 ## URL Protection: typed security research — 2026-10-26
 
 [84 — URL Protection in Vibe-Coded Apps](84-URL-PROTECTION-VIBE-CODED-APP-SECURITY.md) explains broken route authorization/IDOR, malicious URL handling, open redirects, SSRF (preview/import/webhooks), OAuth return URLs, signed share files, token leakage, DNS/TLS/host-header/staging security and **23 proposed tests**. [85 — Source Register](85-URL-PROTECTION-RESEARCH-SOURCE-REGISTER.md) distinguishes the single typed topic from independent OWASP research. **No real app scanned; no code or Universal-Rules changed.**
+
+## Twelfth Instagram screenshot/resource batch — 2026-10-26
+
+**Completed source extraction:** all **12 uploaded design/engineering resource screenshots**, **70 individually transcribed websites/tools** with exact one-line captions, filed into **12 separate category Markdown files (86–97)**. [98 — Master Index](98-DESIGN-RESOURCE-CAROUSEL-MASTER-INDEX.md) points to every category; [102 — Source Register](102-INSTAGRAM-REELS-TWELFTH-BATCH-REGISTER.md) preserves provenance and the original headings. Separately researched [99 — Windows Hitodama](99-WINDOWS-HITODAMA-AI-DESKTOP-ASSISTANT.md) and [101 — Python ASCII Art](101-PURE-PYTHON-ASCII-ART-RESEARCH-NOTES.md), with independently authored, tested [100 — stdlib-only Python ASCII demo](100-PURE-PYTHON-ASCII-ART-AND-ANIMATION.py). **Original screenshots weren't reuploaded publicly**; their complete textual content is saved. Unverifiable exact domains are clearly marked. No third-party software installed or Universal-Rules files modified.
