@@ -256,3 +256,16 @@ All additions are **research/catalog only**; no installers, unknown USB diagnost
 - [119 — Windows reference commands](119-WINDOWS-11-CONTEXT-MENU-REGISTRY-COMMANDS-ARCHIVE.md): per-user Explorer context menu change/revert captured without running.
 
 [120 — All 19 Screenshot Sources](120-INSTAGRAM-REELS-FOURTEENTH-BATCH-REGISTER.md). Research-only, do not auto-install.
+
+## Fifteenth Instagram batch — research/skills and unresolved names
+
+- [121 — RuView](121-RUVIEW-WIFI-SPATIAL-SENSING-RESEARCH.md): `ruvnet/RuView` spatial/wireless sensing, hardware/privacy requirements.
+- [122 — Qalb, Bonsai-2, Are.na, OmniVoice](122-QALB-URDU-BONSAI2-ARENA-OMNIVOICE-RESEARCH.md): model/reference research; original **OmniVoice** product link remains unresolved.
+- [124 — GSD, Roo Code, Ralph Loop, CodeRabbit and LinkedIn](124-COST-CONSCIOUS-STACK-GSD-ROO-RALPH-CODERABBIT-LINKEDIN.md): workflow tools with historical Roo Code end-of-service note.
+- [125 — Forced Connection and Five Whys](125-FORCED-CONNECTION-AND-FIVE-WHYS-PRACTICAL-PLAYBOOK.md): explicit user-priority methods and examples.
+- [126 — JEV and Browser Use](126-JEV-ULTRAFAST-AND-BROWSER-USE-AGENT-OPERATION-GUIDE.md): `browser-use/jev-ultrafast` and `browser-use/browser-use`, setup and permission boundaries.
+- [127 — Skills + Graft](127-GITHUB-AGENT-SKILLS-AND-GRAFT-MULTIPLE-PROJECTS.md): multiple name collisions including enterprise agents, dynamic MCP and code memory.
+- [128 — Clicky](128-CLICKY-AI-SCREEN-BUDDY-AND-NAME-COLLISIONS.md): `farzaa/clicky` probable Mac AI tutor and different `goldenapplestudios/Clicky` security tool; do not collapse identities.
+- [129 — Agency Agents / Agent Memory / OpenMontage](129-AGENCY-AGENTS-AGENT-MEMORY-OPENMONTAGE-VISUAL-CARDS.md): source numbered frames **1/4/5**; no verified originating URLs; 2/3 not supplied.
+
+[130 — Complete Source Inventory](130-INSTAGRAM-REELS-FIFTEENTH-BATCH-SOURCE-REGISTER.md). Research is not blanket installation approval.
