@@ -102,3 +102,7 @@ Related original design list: [01-DESIGN-UX.md](01-DESIGN-UX.md). Visual aesthet
 - **21st MCP**, https://21st.dev/mcp and **shadcn MCP**, https://ui.shadcn.com/docs/mcp — connectors that retrieve/copy components and dependencies, **not static inspiration galleries**; availability/access is version/plan-dependent.
 
 Full translation, what-to-adapt/what-not-to-copy guidance: [61](61-DESIGN-INSPIRATION-WEBSITES-HINDI-TRANSLATION.md). Tool breakdown: [62](62-IMMERSIVE-WEB-GSAP-TASTE-21ST-SHADCN-MCP.md). Source register: [65](65-INSTAGRAM-REELS-EIGHTH-BATCH-REGISTER.md).
+
+## Ninth collection — interactive generative QR and 3D design example
+
+**ICQR Magic Tree** — https://tree.icqr.com/ — original experience transforming a URL's QR matrix into an animated voxel/procedural tree with spring/summer/autumn seasons, leaf color selection and ambient sound; tapping reveals the QR for scanning. Treat as **interactive design research**, not a UI component/asset source. The screenshot promises one-click export but does not specify a file type. A technical case study and source provenance are in [66 — ICQR Voxel Tree](66-ICQR-VOXEL-TREE-SCANNABLE-QR-INTERACTION.md); four independent open-source analogues are linked there. The original site's licensed code has **not** been verified as public.
