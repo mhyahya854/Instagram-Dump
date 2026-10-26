@@ -110,6 +110,14 @@ Personal, evolving design, UX, vibe-coded app and production engineering notes. 
 | [100 — Pure Python ASCII Art Code](100-PURE-PYTHON-ASCII-ART-AND-ANIMATION.py) | Standard-library-only runnable heart, waves and plasma, syntax and terminal output tested |
 | [101 — Python ASCII Art Research](101-PURE-PYTHON-ASCII-ART-RESEARCH-NOTES.md) | Math, terminal art, animation, media conversion limits and GitHub research |
 | [102 — Twelfth Screenshot Source Register](102-INSTAGRAM-REELS-TWELFTH-BATCH-REGISTER.md) | Complete original captions, source grouping, researched links and unresolved identities |
+| [103 — Nine AI Video Production Sites](103-AI-VIDEO-CREATOR-TOOLS-NINE-WEBSITES.md) | Unscreen (closed), D-ID, HeyGen, ElevenLabs, Submagic, Captions, Title Generator, Repurpose, Adobe Podcast |
+| [104 — fogleman/ln 3D Line Art](104-FOGLEMAN-LN-3D-VECTOR-LINE-ART-ENGINE.md) | Verified Go vector line-art renderer; SVG, meshes, ray-based hidden-line removal |
+| [105 — OSINT GitHub Comment](105-OSINT-TORB-MAILACCESS-HORUS-SOURCE-LINKS.md) | Exact three verified TorBot, MailAccess and Horus GitHub URLs; safe research boundaries |
+| [106 — Lemo Opuscar and Remotion](106-LEMO-OPUSCAR-REMOTION-CODE-FILM-MOTION.md) | 59 code-film styles and React video framework, source and media license distinctions |
+| [107 — 20 UI Tips for Claude](107-TWENTY-UI-TIPS-FOR-CLAUDE-WITH-ACCEPTANCE-CHECKS.md) | Exact 1–20 screenshot terms with accessible, functional and backend acceptance checks |
+| [108 — Five App Ideas](108-FIVE-VIBE-CODED-APP-IDEAS-AND-REAL-LIFE-GAMIFICATION.md) | Real-life RPG, Tinder-for-X, personal portfolio, niche resource directory, AI mock interviews |
+| [109 — Anthropic OSS Scanner](109-ANTHROPIC-OSS-SCANNER-OPEN-SOURCE-SECURITY-SERVICE.md) | Official public-project opt-in scanning service; no enrollment or security audit performed |
+| [110 — Thirteenth Source Register](110-INSTAGRAM-REELS-THIRTEENTH-BATCH-SOURCE-REGISTER.md) | Eight screenshot source inventory, nine video sites, twenty UI tips, five typed project ideas |
 | [Transcription Notes](TRANSCRIPTION-NOTES.md) | Unclear phrases and tentative corrections retained transparently |
 
 ## Decision labels
@@ -189,3 +197,7 @@ Nineteen user-uploaded screenshots (one trending-tool collage, **seven** Hermes 
 ## Twelfth Instagram screenshot/resource batch — 2026-10-26
 
 **Completed source extraction:** all **12 uploaded design/engineering resource screenshots**, **70 individually transcribed websites/tools** with exact one-line captions, filed into **12 separate category Markdown files (86–97)**. [98 — Master Index](98-DESIGN-RESOURCE-CAROUSEL-MASTER-INDEX.md) points to every category; [102 — Source Register](102-INSTAGRAM-REELS-TWELFTH-BATCH-REGISTER.md) preserves provenance and the original headings. Separately researched [99 — Windows Hitodama](99-WINDOWS-HITODAMA-AI-DESKTOP-ASSISTANT.md) and [101 — Python ASCII Art](101-PURE-PYTHON-ASCII-ART-RESEARCH-NOTES.md), with independently authored, tested [100 — stdlib-only Python ASCII demo](100-PURE-PYTHON-ASCII-ART-AND-ANIMATION.py). **Original screenshots weren't reuploaded publicly**; their complete textual content is saved. Unverifiable exact domains are clearly marked. No third-party software installed or Universal-Rules files modified.
+
+## Thirteenth Instagram screenshot collection — 2026-10-26
+
+**Eight separately maintained research files (103–110)** cover **eight user-uploaded images**, nine video tool URLs across three screenshots, `fogleman/ln` generative vector line art, three OSINT repo links from a comment, Lemo Opuscar and Remotion, the exact **20 UI tips**, five directly typed app ideas, and Anthropic's OSS Scanner. [110 — Source Register](110-INSTAGRAM-REELS-THIRTEENTH-BATCH-SOURCE-REGISTER.md) distinguishes original screenshot claims from independently researched capabilities and corrections. **Unscreen.com closed on June 29, 2026.** No app built, skills installed, device scanned, accounts accessed, OSS Scanner enrollment, or Universal-Rules change.
