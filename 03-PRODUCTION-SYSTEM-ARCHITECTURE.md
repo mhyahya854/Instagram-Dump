@@ -182,3 +182,7 @@ These supplement the existing architecture glossary and security controls, not m
 ## Sixth source batch — agent-integrable app design and learning
 
 [45 — Agent-Navigable Architecture](45-AGENT-NAVIGABLE-APP-ARCHITECTURE.md) covers stable API actions and secure MCP permissions; [46 — Untrusted Documents](46-PROMPT-INJECTION-UNTRUSTED-DOCUMENTS-AND-REEL-INGESTION.md) covers prompt injection; [50 — Engineering Guides](50-PROGRAMMING-SYSTEM-DESIGN-GUIDES-FREE-LLM-APIS.md) covers databases, APIs, Java/Rust, CI/CD, AWS and free LLM API inventories; [51 — Universal-Rules Proposals](51-UNIVERSAL-RULES-RESEARCH-PROPOSALS.md) contains **unratified** ideas, not a rules change.
+
+## Seventh reel addendum: verification and performance
+
+[56 — JWT/Dependency Security](56-AUTHENTICATION-JWT-REVOCATION-DEPENDENCY-SECURITY.md) extends session revocation and package trust. [57 — Reticle & Adversarial Reviews](57-RETICLE-ADVERSARIAL-REVIEWS-SECURITY-GATES.md) requires evidence from the actual running app, not only code review. [59 — Core Web Vitals and Architecture](59-WEB-PERFORMANCE-CORE-WEB-VITALS-AND-INFRASTRUCTURE.md) covers measured LCP/INP/CLS, mobile profiling, caching, JS, image/font optimization and backend decision dimensions. These are conditional checks, not a mandate for enterprise infrastructure in every app.
