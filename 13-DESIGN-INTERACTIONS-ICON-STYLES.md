@@ -109,3 +109,7 @@ The reel rapidly dictates icon styles and some distorted names. Classify by inde
 ## Ninth collection — scene-to-functional-code reveal pattern
 
 [66 — ICQR Magic Tree](66-ICQR-VOXEL-TREE-SCANNABLE-QR-INTERACTION.md) is a good example of a **visual metaphor that returns to a usable artifact**: tree/voxel animation initially draws attention; tapping or a labeled control reveals a flat, machine-scannable QR. Motion earns its place only if final QR contrast, four-module quiet zone, no occlusion, reduced motion, keyboard alternative and actual phone scanning remain correct. The screenshot explicitly records spring/summer/autumn, leaf color, ambience and an unspecified export type. Reference only; no mandatory UI animation.
+
+## Tenth source batch — random code-drawn heart animation
+
+[70 — Original Python Turtle Heart Code](70-TURTLE-HEART-SCREENSHOT-CODE.py) preserves the visually transcribed `turtle` screenshot with its original numerical constants, RGB interpolation and deliberate 3,200 frame updates. [71 — Code Explanation and Screenshot Provenance](71-TURTLE-HEART-CODE-PROVENANCE-AND-EXPLANATION.md) explains parametric heart geometry, inward random strands, Python syntax validation and non-deterministic output. This is creative-code inspiration, **not** a website design rule or automatic motion effect for apps.
