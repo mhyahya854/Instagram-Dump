@@ -50,4 +50,4 @@ The new user requested `Humaniser` (UK spelling) and `Stop Slop`. Live GitHub ch
 
 ## Related Stop Slop skill: exact source follow-up
 
-The additional typed \`Stop Slop\` entry and direct review of its current skill rules are documented in [176](176-HUMANIZER-STOP-SLOP-AFFAAN-ECC-AGENTSHIELD-RESEARCH.md) and [184 — source register](184-OCT27-TWO-QUESTIONS-STOP-SLOP-UNDERSTAND-AGENT-BROWSER-REGISTER.md). Do not apply every prohibition from this opinionated editing skill automatically, and never edit away exact Instagram-source quotations.
+The additional typed `Stop Slop` entry and direct review of its current skill rules are documented in [176](176-HUMANIZER-STOP-SLOP-AFFAAN-ECC-AGENTSHIELD-RESEARCH.md) and [184 — source register](184-OCT27-TWO-QUESTIONS-STOP-SLOP-UNDERSTAND-AGENT-BROWSER-REGISTER.md). Do not apply every prohibition from this opinionated editing skill automatically, and never edit away exact Instagram-source quotations.

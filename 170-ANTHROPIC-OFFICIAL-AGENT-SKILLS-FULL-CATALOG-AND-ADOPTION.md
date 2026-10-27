@@ -54,4 +54,4 @@ A skill is a directory containing a Markdown \`SKILL.md\` file with frontmatter 
 
 ## Third-party Claude SEO — keep the official count separate
 
-The user later named “claude seo.” [180 — Claude SEO research](180-CLAUDE-SEO-GITHUB-SKILL-TECHNICAL-AUDIT-AND-EXACT-INVENTORY.md) identifies \`AgriciDaniel/claude-seo\` as a **third-party** plugin, with 26 skill directories, 19 agent files and 9 extensions in its own upstream repository. It **does not change** the historical official \`anthropics/skills\` 19-folder snapshot above; the two catalogs have different ownership and trust boundaries.
+The user later named “claude seo.” [180 — Claude SEO research](180-CLAUDE-SEO-GITHUB-SKILL-TECHNICAL-AUDIT-AND-EXACT-INVENTORY.md) identifies `AgriciDaniel/claude-seo` as a **third-party** plugin, with 26 skill directories, 19 agent files and 9 extensions in its own upstream repository. It **does not change** the historical official `anthropics/skills` 19-folder snapshot above; the two catalogs have different ownership and trust boundaries.

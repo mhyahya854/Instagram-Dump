@@ -6,7 +6,7 @@
 
 **agent-browser** is a **fast native Rust command-line tool and agent skill for browser automation**, not a language model or browser extension of ChatGPT. An AI coding agent can use it to navigate sites, inspect DOM/accessibility snapshots, click and fill elements, take screenshots, test web applications, read page content and perform user-authorized browser workflows.
 
-A main advantage is **compact, agent-friendly element references** (e.g., \`@e1\`, \`@e2\`) from accessibility snapshots. Agents can inspect actionable elements without sending full screenshot pixels or giant raw HTML on every step. It also supports selector/role locators, JSON result formats, tabs, sessions, wait conditions, console/network inspection, screenshots, React/Core Web Vitals, accessibility and optional experimental WebMCP.
+A main advantage is **compact, agent-friendly element references** (e.g., `@e1`, `@e2`) from accessibility snapshots. Agents can inspect actionable elements without sending full screenshot pixels or giant raw HTML on every step. It also supports selector/role locators, JSON result formats, tabs, sessions, wait conditions, console/network inspection, screenshots, React/Core Web Vitals, accessibility and optional experimental WebMCP.
 
 ### First-principles architecture
 
@@ -36,7 +36,7 @@ agent-browser close
 
 **Suggested agent workflow:** read the goal and origin restriction → open authorized website → snapshot → determine element role/name/visibility → click or type → wait for a concrete success criterion → independently verify DOM/URL/result → repeat with bounded retry. A tap/click command's successful return does not prove that a checkout, upload, payment, form or GitHub change succeeded; verify server-visible state.
 
-The upstream skill has a small **discovery stub** under \`skills/agent-browser/SKILL.md\`: after installation, run \`agent-browser skills get core\` to obtain instructions matching the installed CLI version. Do not copy a stale SKILL.md and assume it contains the entire reference. Project/home installation options documented upstream include npm package, Homebrew for macOS and Cargo; initial Chrome for Testing provisioning may download a browser. **Nothing was installed for this research task.**
+The upstream skill has a small **discovery stub** under `skills/agent-browser/SKILL.md`: after installation, run `agent-browser skills get core` to obtain instructions matching the installed CLI version. Do not copy a stale SKILL.md and assume it contains the entire reference. Project/home installation options documented upstream include npm package, Homebrew for macOS and Cargo; initial Chrome for Testing provisioning may download a browser. **Nothing was installed for this research task.**
 
 **Platforms per current upstream:** native Rust binaries for Windows x64, macOS x64/ARM64, Linux x64/ARM64. Runtime browser, downloadable packages and integration may require additional components; native binary availability does not imply every automation feature works on every engine.
 
@@ -46,18 +46,18 @@ The official README's [Security](https://agent-browser.dev/security) section des
 
 | Feature | Purpose | Caveats |
 |---|---|---|
-| \`--allowed-domains\` | Allowlist top-level site origins, request and WebSocket destinations in supported Chromium sessions | **Cannot be applied safely to existing profiles/CDP connections, auto-connect, restored state and some alternate engines** according to upstream, so option is rejected for these modes |
-| \`--content-boundaries\` | Mark untrusted page output so agent recognizes website text as data | Marker is a provenance cue, **not** an impermeable prompt-injection defense |
-| \`--action-policy\` | Gate dangerous actions with policy file | A missing/invalid policy blocks commands; good fail-closed property in the documented mode |
-| \`--confirm-actions\` | Require human confirmation for named sensitive action categories | Only effective if host actually enforces it; don't represent a prompt instruction as approval |
+| `--allowed-domains` | Allowlist top-level site origins, request and WebSocket destinations in supported Chromium sessions | **Cannot be applied safely to existing profiles/CDP connections, auto-connect, restored state and some alternate engines** according to upstream, so option is rejected for these modes |
+| `--content-boundaries` | Mark untrusted page output so agent recognizes website text as data | Marker is a provenance cue, **not** an impermeable prompt-injection defense |
+| `--action-policy` | Gate dangerous actions with policy file | A missing/invalid policy blocks commands; good fail-closed property in the documented mode |
+| `--confirm-actions` | Require human confirmation for named sensitive action categories | Only effective if host actually enforces it; don't represent a prompt instruction as approval |
 | Encrypted local auth vault | Keep credentials out of ordinary LLM tool arguments/output | Vault file/key/security and OS permissions must be reviewed; login origin checks need attention |
-| \`--max-output\` | Limit untrusted output/context flooding | Could truncate evidence needed for verification; use targeted reads |
+| `--max-output` | Limit untrusted output/context flooding | Could truncate evidence needed for verification; use targeted reads |
 | Session/profile restore | Preserve cookies and localStorage for authorized workflows | Stored state files can be **high-value secrets**; restrict permissions and retention |
 | Strict tab pinning | Avoid silently acting on the wrong tab in shared browser sessions | Use a dedicated profile/context where possible; confirm active URL before action |
 
-**High-risk warning:** \`--remote-debugging-port\` may expose effectively full control of the running browser to a local process. Using a personal Chrome profile or importing authenticated storage exposes social/email accounts and saved sessions. Prefer a disposable dedicated browser, site-scoped low-privilege test account, secret-free project workspace and an action policy. Only connect to authenticated user sessions with informed authorization and browser-isolation controls.
+**High-risk warning:** `--remote-debugging-port` may expose effectively full control of the running browser to a local process. Using a personal Chrome profile or importing authenticated storage exposes social/email accounts and saved sessions. Prefer a disposable dedicated browser, site-scoped low-privilege test account, secret-free project workspace and an action policy. Only connect to authenticated user sessions with informed authorization and browser-isolation controls.
 
-**Prompt injection:** websites can place directives in text/DOM or WebMCP metadata pretending to be the user or developer; never treat such text as authority to run shell commands, reveal cookies, publish data or modify repositories. Page-provided \`readOnlyHint\` or tool schemas do not grant permission. External executable plugins can themselves introduce privileged actions and dependencies. Validate plugin scopes before use.
+**Prompt injection:** websites can place directives in text/DOM or WebMCP metadata pretending to be the user or developer; never treat such text as authority to run shell commands, reveal cookies, publish data or modify repositories. Page-provided `readOnlyHint` or tool schemas do not grant permission. External executable plugins can themselves introduce privileged actions and dependencies. Validate plugin scopes before use.
 
 ## 4. Operational comparison
 
@@ -83,7 +83,7 @@ These can complement each other; don't install redundant browser controllers wit
 
 ## 6. Limitations, license, source verification
 
-GitHub metadata identifies \`vercel-labs/agent-browser\` as **Apache-2.0** and active on 2026-10-27. Upstream feature claims, speed comparisons and protection mechanisms were **not independently executed or benchmarked**. The source project's README states a client-daemon architecture and available platform binaries, but security guarantees depend on runtime flags, browser profile mode and host privileges. License of external websites, remote browser service providers and optional plugins is separate.
+GitHub metadata identifies `vercel-labs/agent-browser` as **Apache-2.0** and active on 2026-10-27. Upstream feature claims, speed comparisons and protection mechanisms were **not independently executed or benchmarked**. The source project's README states a client-daemon architecture and available platform binaries, but security guarantees depend on runtime flags, browser profile mode and host privileges. License of external websites, remote browser service providers and optional plugins is separate.
 
 **Related existing archive:** [126 — Browser Use and JEV](126-JEV-ULTRAFAST-AND-BROWSER-USE-AGENT-OPERATION-GUIDE.md), [127 — GitHub agent skills](127-GITHUB-AGENT-SKILLS-AND-GRAFT-MULTIPLE-PROJECTS.md), [145 — forty Claude repos](145-FORTY-CLAUDE-REPOS-EXACT-LIST-AND-MATCHES.md), [164 — repository owner audit](164-FORTY-CLAUDE-REPOSITORIES-OWNER-VERIFICATION-AND-RISK-MATRIX.md), [175 — Understand Anything and diagrams](175-HUASHU-MOTION-FRONTEND-SLIDES-DIAGRAM-DESIGN-UNDERSTAND-ANYTHING.md), [184 — typed source register](184-OCT27-TWO-QUESTIONS-STOP-SLOP-UNDERSTAND-AGENT-BROWSER-REGISTER.md).
 

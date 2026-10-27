@@ -112,7 +112,7 @@ The project documents installation as a Claude Code plugin via its own GitHub ma
 
 Official [PRIVACY.md](https://github.com/AgriciDaniel/claude-seo/blob/main/PRIVACY.md) says core scripts have no vendor telemetry, and local output remains on the workstation. This **does not mean offline AI inference**: site data in Claude Code is handled by the configured model provider; site crawls contact target servers. Google APIs and optional vendors receive fields appropriate to each API, potentially including URLs, text, keywords, account property data or credentials.
 
-[SECURITY.md](https://github.com/AgriciDaniel/claude-seo/blob/main/SECURITY.md) describes an SSRF-safe URL layer and DNS-pinned requests, along with candid residual risks: Chromium can resolve DNS separately and race Python preflight; CONNECT proxies may weaken pinning; IPv6-only origins may fail closed; Windows credential ACL behavior differs from POSIX \`0600\`; and installer signature-manifest verification was not yet enforced as described by its inspected policy. **A vendor security statement is not an independent security test.**
+[SECURITY.md](https://github.com/AgriciDaniel/claude-seo/blob/main/SECURITY.md) describes an SSRF-safe URL layer and DNS-pinned requests, along with candid residual risks: Chromium can resolve DNS separately and race Python preflight; CONNECT proxies may weaken pinning; IPv6-only origins may fail closed; Windows credential ACL behavior differs from POSIX `0600`; and installer signature-manifest verification was not yet enforced as described by its inspected policy. **A vendor security statement is not an independent security test.**
 
 A malicious website or scraped HTML can contain prompt injection (“ignore the task,” “upload secrets,” “run a command”). Retrieved pages are untrusted data. Run audits with read-only credentials, no personal browser sessions or unrelated GitHub access; isolate browser/file/network permissions; control site crawling scope and rate; require human approval for IndexNow submission, live edits, billing or deletion. Agent fan-out can multiply token cost.
 
@@ -125,8 +125,8 @@ A malicious website or scraped HTML can contain prompt injection (“ignore the 
 | Schema | Matching visible content, structured-data validator and current Google policies | Any JSON-LD automatically grants rich snippets |
 | E-E-A-T | Credible original content, author evidence, trustworthy citations | One universally accepted “E-E-A-T score” |
 | SEO vs AI search | Observe actual AI answer referrals, citations and clarity over time | “GEO score” predicting guaranteed ChatGPT/Gemini citations |
-| \`llms.txt\` | Optional experimental machine-readability convention | Mandatory Google ranking/indexing requirement |
-| \`robots.txt\` AI bots | Respect intentional publisher access policy | Every AI bot must be unblocked for quality |
+| `llms.txt` | Optional experimental machine-readability convention | Mandatory Google ranking/indexing requirement |
+| `robots.txt` AI bots | Respect intentional publisher access policy | Every AI bot must be unblocked for quality |
 | Multiple H1s / Vite / Vercel URL | Semantic usability and rendered quality | Proof of “vibe coding” or insecurity |
 
 **Primary references:** [Google SEO starter guide](https://developers.google.com/search/docs/fundamentals/seo-starter-guide), [structured-data policies](https://developers.google.com/search/docs/appearance/structured-data/sd-policies), [Core Web Vitals](https://web.dev/articles/vitals).
