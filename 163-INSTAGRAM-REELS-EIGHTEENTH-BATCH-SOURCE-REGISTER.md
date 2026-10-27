@@ -55,3 +55,8 @@
 ## Later direct typed research lead (separate from the eighteenth screenshot batch)
 
 **2026-10-27; source ID `IGD-TYPED-2026-10-27-EGM`:** User wrote: “google has a github repo called the elephant goldfish model add that and what is its use”. This **is not a screenshot nor a nineteenth image in this batch**. Its independently verified repository identity, explanation, technical operation, platform support, costs, caveats and adoption safety are archived in [168 — Google Elephant-Goldfish Model](168-GOOGLE-ELEPHANT-GOLDFISH-MODEL-SPEC-DRIVEN-AGENTS.md), with README and related-topic cross-references. The image counts previously recorded in this register remain unchanged.
+
+
+## New October 27 typed leads (do not count as screenshots)
+
+The separate user message listing Flint, Anthropic/Google skills, Terera, Multica, LangWatch, Orca, Fleetbase, Pullfrog, Dagu, verci.xyz, trylumn.xyz, affna, Huashu Motion, Slide 4, Humaniser, Understand Anything, Frontend Slides, Diagram Design, Stop Slop, Godly, Navbar Gallery, Landbook, Refero and Cosmos is accounted for in [178 — complete typed source register](178-OCT27-TYPED-RESEARCH-SOURCE-REGISTER-AND-UNRESOLVED-LEADS.md) and research files 169–177. These are new **typed** sources with no mounted image evidence; don't merge their source counts into prior screenshot batches.

@@ -41,3 +41,8 @@
 - **.NET formatting:** Humanizr (unrelated and not a writing skill).
 
 **No repo installed, document transformed or uploaded elsewhere.** Existing archive links [19](19-AGENT-SKILLS-HOOKS-AND-CODE-ANIMATION.md), [06](06-AI-FAILURE-MITIGATION-REPOS-AND-SKILLS.md), [05](05-THINGS-TO-FIND.md).
+
+
+## October 27 additional typed source: Humaniser + Stop Slop
+
+The new user requested `Humaniser` (UK spelling) and `Stop Slop`. Live GitHub checks verify [blader/humanizer](https://github.com/blader/humanizer) (candidate, **not proof** of the exact intended “Humaniser”) and [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop). The full comparison, distinctions from Affaan's coding-agent ecosystem, privacy/academic authenticity caveats and exact source spelling are in [176 — Humanizer, Stop Slop, Affaan](176-HUMANIZER-STOP-SLOP-AFFAAN-ECC-AGENTSHIELD-RESEARCH.md). Neither skill guarantees an undetectable AI score; provenance and factual integrity are more important.

@@ -47,3 +47,8 @@ Use project-local scope, inspect the exact revision and skill scripts first.
 Goal → use/reference appropriate original product → specify typography, spacing, colors, asset rights and breakpoints → build functional flows → annotate flawed UI → run keyboard/mobile/E2E tests → audit performance, reduced-motion and real error states. Design skills enhance judgment but cannot replace genuine user research or QA.
 
 **Status:** research and source references only. No skills installed, copied, executed or used to alter a website. Crosslinks [112](112-THREEJS-GSAP-DESIGN-DNA-LOTTIE-GENJUTSU-AGENT-SKILLS.md), [144](144-TASTE-AWESOMEDESIGN-IMAGETOCODE-WEB-GUIDELINES-PLAYWRIGHT.md).
+
+
+## October 27 public skill catalogs and design resource extensions
+
+New official catalogs: [170 — Anthropic's 19 public skill folders](170-ANTHROPIC-OFFICIAL-AGENT-SKILLS-FULL-CATALOG-AND-ADOPTION.md) and [171 — Google's 175 + Workspace's 95 separately indexed skill folders](171-GOOGLE-AGENT-SKILLS-175-AND-WORKSPACE-CATALOG.md). Design and creative tools [175 — Huashu Motion / Frontend Slides / Diagram Design / Understand Anything](175-HUASHU-MOTION-FRONTEND-SLIDES-DIAGRAM-DESIGN-UNDERSTAND-ANYTHING.md); research galleries [177](177-GODLY-NAVBAR-GALLERY-LANDBOOK-REFERO-COSMOS-DESIGN-SOURCES.md). These are **references**, not installed skills or compulsory universal design rules.

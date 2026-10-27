@@ -279,3 +279,23 @@ Nineteen user-uploaded screenshots (one trending-tool collage, **seven** Hermes 
 ## October 27, 2026 — new typed research: Google Elephant-Goldfish Model
 
 - [168 — Google Elephant-Goldfish Model (EGM)](168-GOOGLE-ELEPHANT-GOLDFISH-MODEL-SPEC-DRIVEN-AGENTS.md) — independently verified Google GitHub project for **spec-driven AI software development**: context-rich Elephant designs, isolated fresh Goldfish reviews, human approval, spec/code drift checks, integrations and security/cost limitations. User-typed lead `IGD-TYPED-2026-10-27-EGM`, **not a screenshot**. No model downloaded, no plugin installed, no external code run, and Universal-Rules unchanged.
+
+
+## October 27 — Flint, official agent skills and new app/GitHub/design leads
+
+The complete user-typed list, exact spelling, one-to-one destinations and identity uncertainties are recorded in **[178 — October 27 source register](178-OCT27-TYPED-RESEARCH-SOURCE-REGISTER-AND-UNRESOLVED-LEADS.md)**. These are typed leads, **not screenshot-derived text**. All 25 names received a documented research destination, including explicit unresolved items.
+
+| Research document | Main topic |
+|---|---|
+| [169 — Recursive Flint and Flint namesakes](169-RECURSIVE-FLINT-LOCAL-CODING-MOE-MODEL-AND-NAME-COLLISIONS.md) | 40B total / 2.5B active MoE coding model; hardware, benchmarks, collisions |
+| [170 — Anthropic official Agent Skills](170-ANTHROPIC-OFFICIAL-AGENT-SKILLS-FULL-CATALOG-AND-ADOPTION.md) | All 19 public skill folders, source-available document license exceptions and safeguards |
+| [171 — Google Agent Skills and Workspace index](171-GOOGLE-AGENT-SKILLS-175-AND-WORKSPACE-CATALOG.md) | 175 names from Google's generated index, 95 separate Workspace CLI skill folders |
+| [172 — Multica, LangWatch, Orca](172-MULTICA-LANGWATCH-ORCA-CODING-AND-AGENT-ORCHESTRATION.md) | Human-agent collaboration, eval/observability and several distinct Orca projects |
+| [173 — Fleetbase, Pullfrog, Dagu](173-FLEETBASE-PULLFROG-DAGU-PRODUCTION-OPEN-SOURCE-SYSTEMS.md) | Logistics OS, GitHub agent automation and workflow orchestration |
+| [174 — Terera, Verci and Lumn domains](174-TERERA-VOICE-TELEPROMPTER-VERCI-AND-LUMN-DOMAIN-INVESTIGATION.md) | Desktop voice-following teleprompter and two inaccessible/unverified .xyz sites |
+| [175 — Motion, slides, diagrams, code graphs](175-HUASHU-MOTION-FRONTEND-SLIDES-DIAGRAM-DESIGN-UNDERSTAND-ANYTHING.md) | Huashu Motion, Frontend Slides, Diagram Design, Understand Anything; Slide 4 unresolved |
+| [176 — Humanizers and Affaan's tools](176-HUMANIZER-STOP-SLOP-AFFAAN-ECC-AGENTSHIELD-RESEARCH.md) | Stop Slop, blader/humanizer, ECC, AgentShield, claude-swarm; no detector-evasion promises |
+| [177 — Five design research sources](177-GODLY-NAVBAR-GALLERY-LANDBOOK-REFERO-COSMOS-DESIGN-SOURCES.md) | Godly, Navbar Gallery, Landbook, Refero and Cosmos, practical design discovery |
+| [178 — Source and unresolved register](178-OCT27-TYPED-RESEARCH-SOURCE-REGISTER-AND-UNRESOLVED-LEADS.md) | 25 typed leads cross-referenced with verified facts and exact ambiguities |
+
+**Scope:** documentation/research only. No plugins, scripts, agents, installers or services were launched. `Universal-Rules` remains untouched.
