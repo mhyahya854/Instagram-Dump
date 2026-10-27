@@ -83,3 +83,8 @@ Run from repo environment as `uv run --env-file .env python your_script.py`. The
 - Independent verification by DOM, screenshot and actual persisted state must precede success claims.
 
 **No automatic agent skill installation or persistent browser session was created.** Repository versions and provider plans will change; inspect upstream before running.
+
+
+## New related browser tool: Vercel Labs agent-browser
+
+[183 — Vercel Labs agent-browser](183-VERCEL-AGENT-BROWSER-RUST-CDP-SKILL-AUTOMATION-SECURITY.md) verifies the separate Apache-2.0 **Rust/CDP CLI for agent-directed browser automation**. It uses concise accessibility snapshots and element refs, and documents optional origin allowlists, content boundaries, action confirmation and isolated sessions. This is **not** the same project as Browser Use or JEV. Avoid imported personal Chrome sessions or auto-connect by default, as persistent cookies and remote debugging expose sensitive credentials. The tool was researched, not run; original user lead is registered in [184](184-OCT27-TWO-QUESTIONS-STOP-SLOP-UNDERSTAND-AGENT-BROWSER-REGISTER.md).

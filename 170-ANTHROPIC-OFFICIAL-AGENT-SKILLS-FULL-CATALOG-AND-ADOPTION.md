@@ -50,3 +50,8 @@ A skill is a directory containing a Markdown \`SKILL.md\` file with frontmatter 
 6. Record an escalation/rollback plan and protect secrets, production repos and user accounts.
 
 **Related:** [160 — Apple and design skills](160-APPLE-DESIGN-AND-ADDITIONAL-UI-DESIGN-AGENT-SKILLS.md), [127 — skills governance](127-GITHUB-AGENT-SKILLS-AND-GRAFT-MULTIPLE-PROJECTS.md), [168 — Google EGM](168-GOOGLE-ELEPHANT-GOLDFISH-MODEL-SPEC-DRIVEN-AGENTS.md), [171 — official Google skills](171-GOOGLE-AGENT-SKILLS-175-AND-WORKSPACE-CATALOG.md), [161 — Humanizer](161-HUMANIZER-GITHUB-REPOS-COMPARATIVE-RESEARCH.md).
+
+
+## Third-party Claude SEO — keep the official count separate
+
+The user later named “claude seo.” [180 — Claude SEO research](180-CLAUDE-SEO-GITHUB-SKILL-TECHNICAL-AUDIT-AND-EXACT-INVENTORY.md) identifies \`AgriciDaniel/claude-seo\` as a **third-party** plugin, with 26 skill directories, 19 agent files and 9 extensions in its own upstream repository. It **does not change** the historical official \`anthropics/skills\` 19-folder snapshot above; the two catalogs have different ownership and trust boundaries.

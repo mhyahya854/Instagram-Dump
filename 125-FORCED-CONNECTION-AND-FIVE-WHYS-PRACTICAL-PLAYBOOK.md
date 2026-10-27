@@ -102,3 +102,8 @@ Observe → verify failure → causal “why?” investigation → define constr
 - Treat brainstormed hypotheses as production requirements before user approval.
 
 **Research context:** widely used creativity and continuous-improvement methods. The procedure/examples here are independently authored and designed for the user's code/design rulebook. This doc is a **method reference**, not automatically installed behavior. Related [01 — UX](01-DESIGN-UX.md), [02 — App Quality](02-VIBE-CODED-APP-QUALITY.md), [03 — Architecture](03-PRODUCTION-SYSTEM-ARCHITECTURE.md), [107 — UI Mechanics](107-TWENTY-UI-TIPS-FOR-CLAUDE-WITH-ACCEPTANCE-CHECKS.md).
+
+
+## Additional two-question decision tool
+
+The user supplied a concise reusable **blind-spot / highest-leverage** pair of questions. Both exact original wording and an expanded copy-ready framework are archived in [182 — blind spot and leverage prompt](182-TWO-QUESTION-BLIND-SPOT-AND-HIGH-LEVERAGE-DECISION-PROMPT.md). Use it alongside Five Whys to seek the largest testable missing constraint and one reversible, measurable action rather than settling for more speculative brainstorm lists. Direct typed source in [184](184-OCT27-TWO-QUESTIONS-STOP-SLOP-UNDERSTAND-AGENT-BROWSER-REGISTER.md).

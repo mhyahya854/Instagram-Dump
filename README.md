@@ -299,3 +299,19 @@ The complete user-typed list, exact spelling, one-to-one destinations and identi
 | [178 — Source and unresolved register](178-OCT27-TYPED-RESEARCH-SOURCE-REGISTER-AND-UNRESOLVED-LEADS.md) | 25 typed leads cross-referenced with verified facts and exact ambiguities |
 
 **Scope:** documentation/research only. No plugins, scripts, agents, installers or services were launched. `Universal-Rules` remains untouched.
+
+
+## October 27 — Tracebase, Claude SEO, leverage prompt and agent-browser
+
+These are **newly typed user inputs**, not Instagram screenshots. The original wording, researched matches and residual uncertainties are preserved in [181 — Tracebase/Claude SEO source register](181-OCT27-TRACEBASE-CLAUDE-SEO-SOURCE-REGISTER.md) and [184 — Leverage question and browser/skills source register](184-OCT27-TWO-QUESTIONS-STOP-SLOP-UNDERSTAND-AGENT-BROWSER-REGISTER.md).
+
+| File | What was researched / saved |
+|---|---|
+| [179 — Tracebase](179-TRACEBASE-DIGITAL-FOOTPRINT-ACCOUNT-DISCOVERY-PRIVACY-RESEARCH.md) | Own-account footprint discovery and cleanup, source claims, account enumeration/privacy risks and free alternatives |
+| [180 — Claude SEO](180-CLAUDE-SEO-GITHUB-SKILL-TECHNICAL-AUDIT-AND-EXACT-INVENTORY.md) | Third-party Claude Code SEO plugin: 26 skill folders, 19 agent personas, 9 optional extensions; SEO vs ranking/AI-citation myths |
+| [181 — Source register for Tracebase and Claude SEO](181-OCT27-TRACEBASE-CLAUDE-SEO-SOURCE-REGISTER.md) | Original two exact typed leads, verified domains and attribution limits |
+| [182 — Two-question blind spot / highest-leverage prompt](182-TWO-QUESTION-BLIND-SPOT-AND-HIGH-LEVERAGE-DECISION-PROMPT.md) | Original wording preserved and improved copy-ready decision/engineering prompt with success criteria |
+| [183 — Vercel Labs agent-browser](183-VERCEL-AGENT-BROWSER-RUST-CDP-SKILL-AUTOMATION-SECURITY.md) | Real Rust CDP browser CLI/agent skill, accessibility snapshots, platform support, secrets and containment hazards |
+| [184 — Source register: prompt + Stop Slop / Understand Anything / agent-browser](184-OCT27-TWO-QUESTIONS-STOP-SLOP-UNDERSTAND-AGENT-BROWSER-REGISTER.md) | Four source-to-document mappings. Stop Slop [176](176-HUMANIZER-STOP-SLOP-AFFAAN-ECC-AGENTSHIELD-RESEARCH.md) and Understand Anything [175](175-HUASHU-MOTION-FRONTEND-SLIDES-DIAGRAM-DESIGN-UNDERSTAND-ANYTHING.md) were already archived, and were not duplicated |
+
+No installations, browser sessions, account scans, model benchmarks or external-repository modifications performed.

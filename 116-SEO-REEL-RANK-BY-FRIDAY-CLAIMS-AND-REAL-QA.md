@@ -46,3 +46,8 @@ Green checks are reel author's advice, not crawl logs, test results or current o
 References: https://developers.google.com/search/docs/fundamentals/seo-starter-guide ; https://developers.google.com/search/docs/crawling-indexing/javascript/javascript-seo-basics ; https://developers.google.com/search/docs/appearance/structured-data/faqpage ; https://developers.google.com/search/docs/fundamentals/creating-helpful-content .
 
 Related [37 — Website Prelaunch](37-WEBSITE-PRELAUNCH-RELEASE-CHECKLIST.md), [76 — 20 Prelaunch](76-TWENTY-WEBSITE-PRELAUNCH-CHECKS-SCREENSHOT.md), [97 — Performance](97-TESTING-BEFORE-SHIP-FOUR-SOURCES.md).
+
+
+## GitHub skill follow-up: Claude SEO
+
+[180 — Claude SEO](180-CLAUDE-SEO-GITHUB-SKILL-TECHNICAL-AUDIT-AND-EXACT-INVENTORY.md) identifies a strong third-party \`AgriciDaniel/claude-seo\` match from a user-typed name; its upstream repo contains 26 skill folders, 19 agent files and nine extension dirs at the inspected snapshot. SEO audit findings can guide reproducible fixes, but **cannot establish the reel's future #1 ranking promise**. Real field data, Search Console evidence, quality checks and time are needed. No actual site was audited. See [181](181-OCT27-TRACEBASE-CLAUDE-SEO-SOURCE-REGISTER.md).

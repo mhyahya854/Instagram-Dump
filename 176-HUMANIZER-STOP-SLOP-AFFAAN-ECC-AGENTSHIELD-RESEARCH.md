@@ -50,3 +50,8 @@ Avoid automatically rewriting official quoted transcripts in Instagram-Dump—pr
 - **Parallel orchestration:** claude-swarm or [Orca](172-MULTICA-LANGWATCH-ORCA-CODING-AND-AGENT-ORCHESTRATION.md), with carefully bounded permissions.
 
 **Additional crosslinks:** [161 — original humanizer catalog](161-HUMANIZER-GITHUB-REPOS-COMPARATIVE-RESEARCH.md), [164 — ECCC/40 repo follow-up](164-FORTY-CLAUDE-REPOSITORIES-OWNER-VERIFICATION-AND-RISK-MATRIX.md), [170 — Anthropic skills](170-ANTHROPIC-OFFICIAL-AGENT-SKILLS-FULL-CATALOG-AND-ADOPTION.md). Source originals kept, no changes to Universal-Rules.
+
+
+## Stop Slop confirmed again (new typed lead, 2026-10-27)
+
+The user repeated the exact name **\`Stop Slop\`**, separately recorded in [184](184-OCT27-TWO-QUESTIONS-STOP-SLOP-UNDERSTAND-AGENT-BROWSER-REGISTER.md). The actual [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) \`SKILL.md\` was fetched in this follow-up: it advises cutting filler, formulaic contrasts, abstract claims and imitative quotables, using direct/active language, specific facts and varied rhythm. It also strongly discourages *all adverbs, passive voice and em dashes*. Those are **subjective writing constraints**, not universal quality or correctness principles; they can damage a text's meaning, genre, readability or original voice if applied blindly. Keep original transcripts verbatim and avoid claiming that this improves AI-detection scores or gives a provenance guarantee. No skill was installed, no Universal-Rules edit made.

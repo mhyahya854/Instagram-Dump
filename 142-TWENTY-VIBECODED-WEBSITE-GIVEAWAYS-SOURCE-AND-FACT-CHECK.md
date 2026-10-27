@@ -44,3 +44,8 @@ Check accessible semantics (landmarks, headings, language, image alt), SEO inten
 [116 — SEO “Rank #1 Friday” Claims](116-SEO-REEL-RANK-BY-FRIDAY-CLAIMS-AND-REAL-QA.md), [76 — Prelaunch](76-TWENTY-WEBSITE-PRELAUNCH-CHECKS-SCREENSHOT.md), [37 — Website QA](37-WEBSITE-PRELAUNCH-RELEASE-CHECKLIST.md). External authoritative references: https://developers.google.com/search/docs/fundamentals/seo-starter-guide ; https://html.spec.whatwg.org/multipage/sections.html ; https://www.w3.org/WAI/tutorials/images/ .
 
 **Status:** all 20 source items + three comments transcribed; no user site checked, deployed or altered.
+
+
+## Complementary legitimate SEO tool
+
+A user-typed lead produced [180 — Claude SEO](180-CLAUDE-SEO-GITHUB-SKILL-TECHNICAL-AUDIT-AND-EXACT-INVENTORY.md): its checks can help discover meaningful SEO release defects, but optional \`llms.txt\`/AI-agent visibility heuristics do not establish a search-engine obligation or prove a site was “vibe-coded.” Original twenty source labels above remain unchanged.

@@ -42,3 +42,8 @@ Captured 2026-10-25. Reel says an AI assistant can find data-broker/people-searc
 ## User-authorization rule
 
 Help with privacy-removal requests concerning the person making them, not techniques to locate or expose the personal whereabouts, private contact information or identity of strangers. No personal data searched or submitted during this research task.
+
+
+## Additional researched tool, 2026-10-27: Tracebase
+
+The user supplied the domain \`usetracebase.com\`, researched in [179 — Tracebase digital-footprint service](179-TRACEBASE-DIGITAL-FOOTPRINT-ACCOUNT-DISCOVERY-PRIVACY-RESEARCH.md). Its **vendor-claimed** account discovery across 600+ platforms and breach references can be useful for one's own account inventory, but matching a username alone never proves account ownership. Submitting personal email to another service introduces privacy/retention risk; start with first-party inbox/password-manager and trusted breach-checking tools. No identifiers were submitted during archive research. Original source registered in [181](181-OCT27-TRACEBASE-CLAUDE-SEO-SOURCE-REGISTER.md).
