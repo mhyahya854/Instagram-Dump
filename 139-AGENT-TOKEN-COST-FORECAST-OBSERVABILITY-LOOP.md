@@ -100,3 +100,8 @@ Prediction displayed before every scoped run; actually reported tokens distingui
 **Related:** [125 — Five Whys and Forced Connection](125-FORCED-CONNECTION-AND-FIVE-WHYS-PRACTICAL-PLAYBOOK.md), [137 — Superpowers Skill](137-SUPERPOWERS-SKILL-CLAUDE-CODE-CODEX-AGENT-PLANNING.md), [127 — Skills and Graft](127-GITHUB-AGENT-SKILLS-AND-GRAFT-MULTIPLE-PROJECTS.md).
 
 **Status:** exact user idea + concrete conceptual specification committed. No actual tasks sampled, monitoring code deployed, scheduled checks created, forecasts calibrated or API-billing records accessed.
+
+
+### New agent workflow cost study candidate (2026-10-27)
+
+[168 — Google Elephant-Goldfish Model](168-GOOGLE-ELEPHANT-GOLDFISH-MODEL-SPEC-DRIVEN-AGENTS.md) separates deeply contextual spec-writing from fresh multi-agent Goldfish reviews. For a cost/quality experiment, forecast the additional reviewer calls, output tokens and tool-read work **before** running, then observe true billed usage, spec ambiguity found, false-positive findings, rework and escaped defects. This is a **proposed measurement protocol**, not an observed optimization.

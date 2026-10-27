@@ -53,3 +53,8 @@ Don't stuff architecture into PRD or design aspirations into technical contracts
 > Read PRD.md and ARCHITECTURE.md before changes. If requirements conflict, list conflicts with source references and do not invent a resolution. Implement the smallest approved vertical slice on a branch. Confirm unit, integration and UI acceptance tests and show true results. Never modify protected paths or perform destructive operations without explicit user authorization.
 
 **Status:** screenshot transcribed, independent authoring framework provided; no project created or specifications generated in another repository. Related [124 — Three Docs and Execution](124-COST-CONSCIOUS-STACK-GSD-ROO-RALPH-CODERABBIT-LINKEDIN.md), [137 — Superpowers](137-SUPERPOWERS-SKILL-CLAUDE-CODE-CODEX-AGENT-PLANNING.md).
+
+
+### Complementary implementation — Elephant-Goldfish specification reviews
+
+[168 — Google Elephant-Goldfish Model](168-GOOGLE-ELEPHANT-GOLDFISH-MODEL-SPEC-DRIVEN-AGENTS.md) can produce a **feature-level living design spec** that references `PRD.md` and `ARCHITECTURE.md` rather than replacing either. The Elephant reads project context and drafts, the isolated Goldfish reviewers check what the spec leaves unexplained, and human approval precedes changes. Check architecture drift separately; no spec generation was executed for this archive.

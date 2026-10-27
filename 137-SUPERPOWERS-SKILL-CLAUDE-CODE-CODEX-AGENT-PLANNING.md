@@ -44,3 +44,8 @@ Superpowers is a **development method implemented through multiple agent skills*
 Do not install Superpowers globally or copy its skill logic into the Universal-Rules repository merely because it is catalogued here. When the user moves from research to building, a **separate, explicit** approval can pick an appropriate pinned version, target project and review procedure.
 
 **Status:** canonical GitHub and platform workflows verified. No plugin installed, scripts run, permissions changed, telemetry configured or unrelated repository modified.
+
+
+### Related Google approach — Elephant-Goldfish Model (2026-10-27)
+
+[168 — Google Elephant-Goldfish Model](168-GOOGLE-ELEPHANT-GOLDFISH-MODEL-SPEC-DRIVEN-AGENTS.md) verifies a separate **spec-first agent plugin**, not a neural-network model. It adds context-rich specification authoring plus genuinely fresh isolated reviewers. Compare against Superpowers for upfront planning quality, review evidence, total tokens, actual task success and agent permissions. **Do not auto-install both or modify Universal-Rules** because a source appears in this archive.

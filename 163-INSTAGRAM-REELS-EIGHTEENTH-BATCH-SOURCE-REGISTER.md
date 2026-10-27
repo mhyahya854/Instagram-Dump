@@ -50,3 +50,8 @@
 
 - Earlier registers: [15th](130-INSTAGRAM-REELS-FIFTEENTH-BATCH-SOURCE-REGISTER.md), [16th](140-INSTAGRAM-REELS-SIXTEENTH-BATCH-SOURCE-REGISTER.md), [17th](150-INSTAGRAM-REELS-SEVENTEENTH-BATCH-SOURCE-REGISTER.md).
 - [README](README.md) index includes all files 151–163 after indexing.
+
+
+## Later direct typed research lead (separate from the eighteenth screenshot batch)
+
+**2026-10-27; source ID `IGD-TYPED-2026-10-27-EGM`:** User wrote: “google has a github repo called the elephant goldfish model add that and what is its use”. This **is not a screenshot nor a nineteenth image in this batch**. Its independently verified repository identity, explanation, technical operation, platform support, costs, caveats and adoption safety are archived in [168 — Google Elephant-Goldfish Model](168-GOOGLE-ELEPHANT-GOLDFISH-MODEL-SPEC-DRIVEN-AGENTS.md), with README and related-topic cross-references. The image counts previously recorded in this register remain unchanged.
