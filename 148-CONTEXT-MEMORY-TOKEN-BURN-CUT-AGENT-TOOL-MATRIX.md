@@ -87,3 +87,8 @@ Task spec / repository truth / package docs
 ## Eighteenth collection — concrete context repository and owner verification
 
 [152 — volcengine OpenViking Context DB](152-OPENVIKING-AGENT-CONTEXT-DATABASE-RESEARCH.md) verifies `volcengine/OpenViking` (source title: “The Context Database for AI Agents”). [154 — Graft / Codebase Memory MCP](154-AGENT-RESOURCES-GRAFT-OPENMONTAGE-AGENCY-CODEBASE-RESEARCH.md) adds the later screenshot's practical description of these tools, distinguishing probable codebase-memory Graft from other homonymous products. Evaluate retrieval quality, provenance, prompt injection, privacy, real token cost and stale-memory failure. No ingestion performed.
+
+
+## October 27 upstream disambiguation appendix
+
+A live GitHub API existence check now confirms research candidates for several previously unverified labels. These are **independent project matches** (typed list had names only): [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem), [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) (also [codegraph-ai/CodeGraph](https://github.com/codegraph-ai/CodeGraph)), [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory), [affaan-m/ECC](https://github.com/affaan-m/ECC), [rtk-ai/rtk](https://github.com/rtk-ai/rtk), [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom), [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman), and [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud). See [164](164-FORTY-CLAUDE-REPOSITORIES-OWNER-VERIFICATION-AND-RISK-MATRIX.md). **Potentially conflicting same-name projects persist**, and tool vendors' cost-saving claims remain unmeasured in this archive.

@@ -69,3 +69,8 @@
 The title “worth every penny” is a subjective reel recommendation; repos can be free, paid, outdated, unsafe or abandoned. **Names, not versioned repo URLs, are what the screenshot supplies**. Candidate links above are research matches (not every match was reverified at this instant). Source existence, security quality, current compatibility and commercial rights are distinct. Never install a 40-item list blindly: pin commit, inspect prompts/install scripts/permissions, test with fake data, measure resource cost and keep a rollback.
 
 **Status:** source-exact 40 entries archived; no skill installed, no version fixed, no user's agent settings changed.
+
+
+## 2026-10-27 live owner-resolution addendum
+
+The original forty screenshot labels and order above are **unchanged**. A new independent GitHub API audit resolves many previously marked unknown owners, while retaining ambiguous attribution. See **[164 — live repository owner verification and adoption risk matrix](164-FORTY-CLAUDE-REPOSITORIES-OWNER-VERIFICATION-AND-RISK-MATRIX.md)** for all 40 rows, metadata-verification scope, operational considerations and exact unresolved names. The state “unresolved” in the original table records the earlier collection-time evidence; the new addendum supersedes that *research status*, not the source pixels. In particular, `Archon`, `awesome-mcp-serv`, `system-prompts-ai` and `best-practice` remain ambiguous, and other generic titles have candidate matches rather than guaranteed screenshot attribution.
