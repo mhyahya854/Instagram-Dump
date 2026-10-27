@@ -40,4 +40,4 @@ Recursive describes Flint as a **39.8B/approximately 40B total-parameter**, **2.
 
 ### Source uncertainty
 
-User gave no screenshot or specific Flint link. **Recursive Flint is a researched likely match, not a confirmed attribution.** Record other candidates until a source distinguishes them. Check [131 — Edge0](131-EDGE0-SSD-STREAMED-MOE-LOCAL-LLM-FACT-CHECK.md), [159 — GGUF](159-LOCAL-IMAGEMAGICK-GGUF-LLM-APPS-PRIVACY.md), [171 — later Edge0 evaluation lead](171-EDGE0-GGUF-LOCAL-INFERENCE-CLAIM-TEST-PROTOCOL.md) only if that later numbered file exists; **do not assume an uncommitted filename exists**. This note is documentation only.
+User gave no screenshot or specific Flint link. **Recursive Flint is a researched likely match, not a confirmed attribution.** Record other candidates until a source distinguishes them. Check [131 — Edge0](131-EDGE0-SSD-STREAMED-MOE-LOCAL-LLM-FACT-CHECK.md), [159 — GGUF](159-LOCAL-IMAGEMAGICK-GGUF-LLM-APPS-PRIVACY.md); see also [131 — Edge0 original research](131-EDGE0-SSD-STREAMED-MOE-LOCAL-LLM-FACT-CHECK.md) and [159 — GGUF and local media tools](159-LOCAL-IMAGEMAGICK-GGUF-LLM-APPS-PRIVACY.md). This note is documentation only.
