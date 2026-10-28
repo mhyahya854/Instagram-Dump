@@ -315,3 +315,8 @@ These are **newly typed user inputs**, not Instagram screenshots. The original w
 | [184 — Source register: prompt + Stop Slop / Understand Anything / agent-browser](184-OCT27-TWO-QUESTIONS-STOP-SLOP-UNDERSTAND-AGENT-BROWSER-REGISTER.md) | Four source-to-document mappings. Stop Slop [176](176-HUMANIZER-STOP-SLOP-AFFAAN-ECC-AGENTSHIELD-RESEARCH.md) and Understand Anything [175](175-HUASHU-MOTION-FRONTEND-SLIDES-DIAGRAM-DESIGN-UNDERSTAND-ANYTHING.md) were already archived, and were not duplicated |
 
 No installations, browser sessions, account scans, model benchmarks or external-repository modifications performed.
+
+
+## October 28 — Goal-driven AI tutoring and mastery skill comparison
+
+- [185 — AI tutors that teach toward a chosen learning goal](185-GOAL-DRIVEN-AI-TUTOR-TEACH-LEARN-ANYTHING-MASTERY-SKILLS.md). A newly typed goal-driven tutoring lead was researched rather than assumed: **Matt Pocock's `/teach`** (mission-oriented, already generically included in 145), **naeemdev360/learn-anything-skill** (strict course gates), **Nar101/learn-anything** (independent and delayed mastery), plus alternative projects. The user's exact source identity is **unconfirmed**; no skill installed or run, and no other repository changed.

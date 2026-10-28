@@ -74,3 +74,8 @@ The title “worth every penny” is a subjective reel recommendation; repos can
 ## 2026-10-27 live owner-resolution addendum
 
 The original forty screenshot labels and order above are **unchanged**. A new independent GitHub API audit resolves many previously marked unknown owners, while retaining ambiguous attribution. See **[164 — live repository owner verification and adoption risk matrix](164-FORTY-CLAUDE-REPOSITORIES-OWNER-VERIFICATION-AND-RISK-MATRIX.md)** for all 40 rows, metadata-verification scope, operational considerations and exact unresolved names. The state “unresolved” in the original table records the earlier collection-time evidence; the new addendum supersedes that *research status*, not the source pixels. In particular, `Archon`, `awesome-mcp-serv`, `system-prompts-ai` and `best-practice` remain ambiguous, and other generic titles have candidate matches rather than guaranteed screenshot attribution.
+
+
+## October 28 research cross-reference — `mattpocock skills` #11
+
+A later, separately typed user description of a GitHub AI tutor led to verifying the **specific** `teach` skill inside the already listed [mattpocock/skills](https://github.com/mattpocock/skills/tree/main/skills/productivity/teach) repository. It creates a goal-driven learning workspace via `MISSION.md` and learning records. See [185 — goal-driven tutor alternatives](185-GOAL-DRIVEN-AI-TUTOR-TEACH-LEARN-ANYTHING-MASTERY-SKILLS.md). This annotation **does not alter the original screenshot's forty labels/order** or claim the screenshot contained a teach skill reference.

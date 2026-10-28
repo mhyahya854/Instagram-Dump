@@ -55,3 +55,8 @@ A skill is a directory containing a Markdown \`SKILL.md\` file with frontmatter 
 ## Third-party Claude SEO — keep the official count separate
 
 The user later named “claude seo.” [180 — Claude SEO research](180-CLAUDE-SEO-GITHUB-SKILL-TECHNICAL-AUDIT-AND-EXACT-INVENTORY.md) identifies `AgriciDaniel/claude-seo` as a **third-party** plugin, with 26 skill directories, 19 agent files and 9 extensions in its own upstream repository. It **does not change** the historical official `anthropics/skills` 19-folder snapshot above; the two catalogs have different ownership and trust boundaries.
+
+
+## Additional independent learning skills (not official Anthropic-owned)
+
+[185 — Goal-driven AI tutoring](185-GOAL-DRIVEN-AI-TUTOR-TEACH-LEARN-ANYTHING-MASTERY-SKILLS.md) compares `mattpocock/skills` `teach`, `naeemdev360/learn-anything-skill`, `Nar101/learn-anything` and other goal/mastery tutors. They are **community projects**; do not count them as part of the nineteen official `anthropics/skills` root folders or silently enable them.

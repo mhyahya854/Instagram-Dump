@@ -28,3 +28,8 @@
 - No agents/skills were installed, no Chrome profiles accessed, no browsing automation run, no source screenshot inspected and no changes made outside `mhyahya854/Instagram-Dump`.
 
 **See** [181 — preceding Tracebase / Claude SEO source register](181-OCT27-TRACEBASE-CLAUDE-SEO-SOURCE-REGISTER.md). New typed entries are distinct from original Instagram screenshots.
+
+
+## New typed research lead, 2026-10-28 — AI tutor until a goal is achieved
+
+**Exact separate user message:** “there is a github repo that makes ai teaches us anything until we achieve thr goal we have set did we add if if not can you ifnd the github repo”. **Source kind:** typed description only, no screenshot or owner path. Searched existing Instagram-Dump: `mattpocock/skills` was already listed generally as item #11 in [145](145-FORTY-CLAUDE-REPOS-EXACT-LIST-AND-MATCHES.md), but the `teach` skill's goal-based operation and other mastery alternatives were not filed individually. The complete investigation and multiple plausible canonical repositories are in [185 — Goal-driven AI tutoring](185-GOAL-DRIVEN-AI-TUTOR-TEACH-LEARN-ANYTHING-MASTERY-SKILLS.md). **Identity remains unconfirmed** until the original reel/link is supplied. No source media, skill execution, automatic scheduling or user-specific learning profile was accessed.
